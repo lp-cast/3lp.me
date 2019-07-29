@@ -1,0 +1,60 @@
+/* Player */
+
+.player {
+    margin-bottom: 40px;
+}
+
+.player__audio {
+    display: block;
+    width: 100%;
+    border-radius: 100px;
+}
+
+.player__audio:focus {
+    outline: none;
+    box-shadow:
+        0 0 0 4px white,
+        0 0 0 8px rgba(0, 123, 193, 0.25);
+}
+
+.player__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.player__chapter {
+    padding-left: 55px;
+    margin: 0 0 13px 0;
+    line-height: 1.4;
+}
+
+.player__timecode {
+    position: absolute;
+    margin-left: -55px;
+    padding: 4px 7px 3px;
+    border-style: none;
+    border-radius: 28px;
+    background-color: #f2f3f4;
+    line-height: 1;
+    font-size: inherit;
+    font-family: 'DIN Condensed', sans-serif;
+}
+
+.player__timecode--button {
+    background-color: #007bc1;
+    color: white;
+}
+
+.player__timecode--button::-moz-focus-inner {
+    padding: 0;
+    border-style: none;
+}
+
+.player__timecode--button:hover,
+.player__timecode--button:focus {
+    outline: none;
+    box-shadow:
+        0 0 0 4px white,
+        0 0 0 8px rgba(0, 123, 193, 0.25);
+}

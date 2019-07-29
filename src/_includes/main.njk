@@ -1,4 +1,5 @@
 ---
+title: LP
 layout: page.njk
 ---
 
@@ -16,16 +17,7 @@ layout: page.njk
                 и <a href="https://twitter.com/miripiruni">Слава Олиянчук</a>
                 болтают о любимых пластинках и делятся историями.
             </p>
-            <p>Слушайте в
-                <a href="https://podcasts.apple.com/podcast/id1469847344">iTunes</a>,
-                <a href="https://open.spotify.com/show/0xpVD4jiXiEOICICGXrVUx">Spotify</a>,
-                <a href="https://pca.st/U71V">Pocket Casts</a>,
-                <a href="https://overcast.fm/itunes1469847344">Overcast</a>,
-                <a href="https://castbox.fm/channel/id2183207">CastBox</a>
-                или подписывайтесь <a href="https://3lp.me/feed/">на RSS</a> в любом приложении для подкастов.
-                Ищите <a href="https://github.com/lp-cast/3lp.me">код сайта</a> на Гитхабе.
-                Пишите нам: <a href="mailto:hi@3lp.me">hi@3lp.me</a>.
-            </p>
+            {{ content | safe }}
         </div>
     </div>
     <a class="patreon box box--compact" href="https://www.patreon.com/lp_cast">
@@ -33,19 +25,29 @@ layout: page.njk
     </a>
     {%- for post in collections.episode | reverse -%}
         <article class="episode box" id="e{{ loop.index }}">
-            <h2 class="episode__title">{{ post.data.title }}</h2>
+            <h2 class="episode__title">
+                <a class="episode__link" href="{{ post.url }}">
+                    {{ loop.length - loop.index0 }}.
+                    {{ post.data.title }}
+                </a>
+            </h2>
             <div class="player">
-                <audio class="episode__player player__audio" controls src="episodes/{{ loop.index }}.mp3"></audio>
+                <audio class="episode__player player__audio"
+                    src="episodes/{{ loop.index }}/audio.mp3" controls>
+                </audio>
                 <ul class="player__list">
                     {%- for chapter in post.data.chapters -%}
                     <li class="player__chapter">
-                        {{ chapter }}
+                        <span class="player__timecode">
+                            {{ chapter.time }}
+                        </span>
+                        {{ chapter.title }}
                     </li>
                     {%- endfor -%}
                 </ul>
             </div>
             <div class="content">
-                {{ post.content | safe }}
+                {{ post.data.content | safe }}
             </div>
         </article>
     {%- endfor -%}

@@ -1,0 +1,37 @@
+---
+layout: page.njk
+---
+
+{% include 'header.njk' %}
+{% include 'aside.njk' %}
+
+<main class="page__main main">
+    <a class="patreon box box--compact" href="https://www.patreon.com/lp_cast">
+        Поддержите нас на Патреоне!
+    </a>
+    <article class="episode box">
+        <h1 class="episode__title">
+            {{ number }}. {{ title }}
+        </h1>
+        <div class="player">
+            <audio class="episode__player player__audio"
+                src="/episodes/{{ number }}/audio.mp3" controls>
+            </audio>
+            <ul class="player__list">
+                {%- for chapter in chapters -%}
+                <li class="player__chapter">
+                    <span class="player__timecode">
+                        {{ chapter.time }}
+                    </span>
+                    {{ chapter.title }}
+                </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+        <div class="content">
+            {{ content | safe }}
+        </div>
+    </article>
+</main>
+
+{% include 'footer.njk' %}

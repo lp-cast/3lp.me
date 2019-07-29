@@ -5,6 +5,9 @@
     "start": "eleventy --serve --quiet"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.1"
-  }
+    "@11ty/eleventy": "^0.8.1",
+    "html-minifier": "^4.0.0",
+    "rfc822-date": "0.0.3"
+  },
+  "dependencies": {}
 }

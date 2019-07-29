@@ -1,0 +1,44 @@
+/* Patreon */
+
+.patreon {
+    display: block;
+    padding-left: 70px;
+    background-color: #e85b46;
+    background-image: url(patreon.svg);
+    background-position: 20px 50%;
+    background-size: auto 30px;
+    background-repeat: no-repeat;
+    color: white;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.patreon:focus {
+    outline: none;
+}
+
+.patreon:hover::after,
+.patreon:focus::after {
+    outline: none;
+    opacity: 1;
+}
+
+@media (min-width: 768px) {
+    .patreon {
+        padding-left: 90px;
+        background-position-x: 40px;
+    }
+}
+
+@media (min-width: 900px) {
+    .patreon::after {
+        position: absolute;
+        opacity: 0;
+        margin-top: -2px;
+        margin-left: 15px;
+        content:
+            ' ' url(coin.gif)
+            ' ' url(coin.gif)
+            ' ' url(coin.gif);
+    }
+}
