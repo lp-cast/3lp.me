@@ -13,7 +13,24 @@
     top: 20%;
     left: 20%;
     width: 60%;
-    clip-path: circle(50% at 50% 50%);
+    clip-path: circle(
+        calc(50% + 10px) at 50% 50%
+    );
+}
+
+.header__link:focus {
+    outline: none;
+}
+
+.header__link:focus::before {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
+    left: -5px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(0, 123, 193, 0.25);
+    content: '';
 }
 
 .header__logo {
