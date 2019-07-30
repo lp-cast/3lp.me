@@ -35,7 +35,7 @@
                 transparent 5px
             ),
             url(stripes.jpg);
-        background-size: 50% auto;
+        background-size: calc(50% + 2.5px) auto;
     }
 }
 
@@ -43,12 +43,12 @@
     .page__body {
         background-image:
             linear-gradient(
-                to right,
+                to left,
                 #3b3b3b 5px,
                 transparent 5px
             ),
             url(stripes@2x.jpg);
-        background-size: 50% auto;
+        background-size: calc(50% + 2.5px) auto;
     }
 }
 
@@ -56,12 +56,12 @@
     .page__body {
         background-image:
             linear-gradient(
-                to right,
+                to left,
                 #3b3b3b 5px,
                 transparent 5px
             ),
             url(stripes@4x.jpg);
-        background-size: 637px auto;
+        background-size: 639.5px auto;
     }
 }
 
