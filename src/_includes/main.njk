@@ -27,13 +27,13 @@ layout: page.njk
         <article class="episode box" id="e{{ loop.index }}">
             <h2 class="episode__title">
                 <a class="episode__link" href="{{ post.url }}">
-                    {{ loop.length - loop.index0 }}.
+                    {{ post.data.number }}.
                     {{ post.data.title }}
                 </a>
             </h2>
             <div class="player">
                 <audio class="episode__player player__audio"
-                    src="episodes/{{ loop.index }}/audio.mp3" controls>
+                    src="/episodes/{{ post.data.number }}/audio.mp3" controls>
                 </audio>
                 <ul class="player__list">
                     {%- for chapter in post.data.chapters -%}
