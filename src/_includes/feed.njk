@@ -21,7 +21,7 @@ permalink: feed/index.xml
         <itunes:category text="Music">
             <itunes:category text="Music Commentary"/>
         </itunes:category>
-        {%- for post in collections.episode | reverse -%}
+        {%- for post in collections.episode -%}
         <item>
             <title>
                 {{ post.data.number }}. {{ post.data.title }}
@@ -48,7 +48,7 @@ permalink: feed/index.xml
             <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
             <itunes:explicit>no</itunes:explicit>
             <itunes:summary>{{ post.data.title }}.</itunes:summary>
-            <itunes:image href="https://3lp.me/episodes/1.jpg"/>
+            <itunes:image href="https://3lp.me/episodes/{{ post.data.number }}/cover.jpg"/>
         </item>
     {%- endfor -%}
     </channel>
