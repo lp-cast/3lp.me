@@ -1,5 +1,5 @@
 <header class="page__header header">
-    <a class="header__link" href="/">
+    <a class="header__link"{% if page.url != '/' %} href="/"{% endif %}>
         <picture>
             <source type="image/webp"
                 srcset="/images/logo.webp 1x, /images/logo@2x.webp 2x">
