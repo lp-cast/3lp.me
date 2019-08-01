@@ -34,7 +34,7 @@
                 #3b3b3b 5px,
                 transparent 5px
             ),
-            url(stripes.jpg);
+            url('/images/stripes.jpg');
         background-size: calc(50% + 2.5px) auto;
     }
 }
@@ -47,7 +47,7 @@
                 #3b3b3b 5px,
                 transparent 5px
             ),
-            url(stripes@2x.jpg);
+            url('/images/stripes@2x.jpg');
         background-size: calc(50% + 2.5px) auto;
     }
 }
@@ -60,7 +60,7 @@
                 #3b3b3b 5px,
                 transparent 5px
             ),
-            url(stripes@4x.jpg);
+            url('/images/stripes@4x.jpg');
         background-size: 639.5px auto;
     }
 }

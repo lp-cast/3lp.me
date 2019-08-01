@@ -4,7 +4,7 @@
     display: block;
     padding-left: 70px;
     background-color: #e85b46;
-    background-image: url(patreon.svg);
+    background-image: url('/images/patreon.svg');
     background-position: 20px 50%;
     background-size: auto 30px;
     background-repeat: no-repeat;
@@ -37,8 +37,8 @@
         margin-top: -2px;
         margin-left: 15px;
         content:
-            ' ' url(coin.gif)
-            ' ' url(coin.gif)
-            ' ' url(coin.gif);
+            ' ' url('/images/coin.gif')
+            ' ' url('/images/coin.gif')
+            ' ' url('/images/coin.gif');
     }
 }
