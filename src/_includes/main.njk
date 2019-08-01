@@ -24,32 +24,32 @@ layout: page.njk
         Поддержите нас на Патреоне!
     </a>
     {%- for post in collections.episode | reverse -%}
-        <article class="episode box" id="e{{ loop.index }}">
-            <h2 class="episode__title">
-                <a class="episode__link" href="{{ post.url }}">
-                    {{ post.data.number }}.
-                    {{ post.data.title }}
-                </a>
-            </h2>
-            <div class="player">
-                <audio class="episode__player player__audio"
-                    src="/episodes/{{ post.data.number }}/audio.mp3" controls>
-                </audio>
-                <ul class="player__list">
-                    {%- for chapter in post.data.chapters -%}
-                    <li class="player__chapter">
-                        <span class="player__timecode">
-                            {{ chapter.time }}
-                        </span>
-                        {{ chapter.title }}
-                    </li>
-                    {%- endfor -%}
-                </ul>
-            </div>
-            <div class="content">
-                {{ post.data.content | safe }}
-            </div>
-        </article>
+    <article class="episode box" id="e{{ loop.index }}">
+        <h2 class="episode__title">
+            <a class="episode__link" href="{{ post.url }}">
+                {{ post.data.number }}.
+                {{ post.data.title }}
+            </a>
+        </h2>
+        <div class="player">
+            <audio class="episode__player player__audio"
+                src="/episodes/{{ post.data.number }}/audio.mp3" controls>
+            </audio>
+            <ul class="player__list">
+                {%- for chapter in post.data.chapters -%}
+                <li class="player__chapter">
+                    <span class="player__timecode">
+                        {{ chapter.time }}
+                    </span>
+                    {{ chapter.title }}
+                </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+        <div class="content">
+            {{ post.data.content | safe }}
+        </div>
+    </article>
     {%- endfor -%}
 </main>
 
