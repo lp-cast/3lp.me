@@ -24,7 +24,7 @@ layout: page.njk
         Поддержите нас на Патреоне!
     </a>
     {%- for post in collections.episode | reverse -%}
-    <article class="episode box" id="e{{ loop.index }}">
+    <article class="episode box" id="e{{ post.data.number }}">
         <h2 class="episode__title">
             <a class="episode__link" href="{{ post.url }}">
                 {{ post.data.number }}.
