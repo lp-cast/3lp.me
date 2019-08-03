@@ -32,9 +32,9 @@ tags: episode
 - [Официальный сайт Уилсона](http://stevenwilsonhq.com/sw/)
 - Storm Corrosion в
   [Apple Music](https://music.apple.com/album/513304361),
-  [Яндекс.Музыке][(https://music.yandex.ru/album/453359),
-  [Spotify][(https://open.spotify.com/album/2hfMN1T3sh5q3j84lw7ZcU),
-  [Tidal][(https://tidal.com/browse/album/74152098)
+  [Яндекс.Музыке](https://music.yandex.ru/album/453359),
+  [Spotify](https://open.spotify.com/album/2hfMN1T3sh5q3j84lw7ZcU),
+  [Tidal](https://tidal.com/browse/album/74152098)
 - Opeth — Wreath в
   [Apple Music](https://music.apple.com/ru/album/wreath/1046805594?i=1046805777),
   [Яндекс.Музыке](https://music.yandex.ru/album/3028066/track/852100),
