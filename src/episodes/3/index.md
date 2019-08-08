@@ -43,10 +43,10 @@ tags: episode
 
 ### Песни
 
-- Tequilajazzz — Первая
-- Tequilajazzz — Такая же, как и я
-- Tequilajazzz — Ветры лестниц 2
-- Tequilajazzz — Меня здесь нет
-- Tequilajazzz — Последняя
+1. Tequilajazzz — Первая
+2. Tequilajazzz — Такая же, как и я
+3. Tequilajazzz — Ветры лестниц 2
+4. Tequilajazzz — Меня здесь нет
+5. Tequilajazzz — Последняя
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Мэтью Хенри](https://unsplash.com/photos/Gyti0PhoQjY).
