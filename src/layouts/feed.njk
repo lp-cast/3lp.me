@@ -1,0 +1,63 @@
+---
+permalink: feed/index.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+
+    <title>LP</title>
+    <description>Дилетантский подкаст про музыку. Маша, Вадим и Слава болтают о любимых пластинках и делятся историями.</description>
+    <copyright>СС BY-NC-ND 4.0</copyright>
+    <language>ru</language>
+    <link>https://3lp.me/feed/</link>
+    <atom:link href="https://3lp.me/feed/" rel="self" type="application/rss+xml"/>
+    <itunes:subtitle>Любимые пластинки</itunes:subtitle>
+    <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+        <itunes:name>LP</itunes:name>
+        <itunes:email>hi@3lp.me</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://3lp.me/images/cover.jpg"/>
+    <itunes:category text="Music">
+        <itunes:category text="Music Commentary"/>
+    </itunes:category>
+
+{%- for episode in collections.episode -%}
+
+    {% set description %}
+        {{ content | safe }}
+        <ul>
+            {%- for chapter in episode.data.chapters -%}
+                <li>{{ chapter.time }} {{ chapter.title }}</li>
+            {%- endfor -%}
+        </ul>
+        <h2>Ведущие</h2>
+        <ul>
+            <li><a href="https://twitter.com/not_plasticine">Маша Аникеева</a></li>
+            <li><a href="https://twitter.com/pepelsbey">Вадим Макеев</a></li>
+            <li><a href="https://twitter.com/miripiruni">Слава Олиянчук</a></li>
+        </ul>
+        {{ episode.data.content | safe }}
+    {% endset %}
+
+    <item>
+        <title>{{ episode.data.title }}</title>
+        <pubDate>{{ episode.date.toUTCString() }}</pubDate>
+        <description><![CDATA[{{ description | htmlmin | safe }}]]></description>
+
+        <guid isPermaLink="true">https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3</guid>
+        <enclosure type="audio/mpeg" url="https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3" length="{{ episode.data.size }}"/>
+
+        <itunes:episode>{{ episode.data.number }}</itunes:episode>
+        <itunes:duration>{{ episode.data.duration }}</itunes:duration>
+        <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>{{ episode.data.title }}.</itunes:summary>
+        <itunes:image href="https://3lp.me/episodes/{{ episode.data.number }}/cover.jpg"/>
+    </item>
+
+{%- endfor -%}
+
+</channel>
+</rss>

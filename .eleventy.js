@@ -5,15 +5,30 @@ module.exports = function(config) {
     config.addPassthroughCopy('src/scripts');
     config.addPassthroughCopy('src/styles');
 
-    config.addFilter('rfc822Date', function(value) {
-        let rfc822Date = require('rfc822-date');
-        return rfc822Date(value);
+    config.addFilter('htmlmin', function(value) {
+        let htmlmin = require('html-minifier');
+        return htmlmin.minify(
+            value, {
+                removeComments: true,
+                collapseWhitespace: true
+            }
+        );
+    });
+
+    config.addTransform('xmlmin', function(content, outputPath) {
+        if(outputPath && outputPath.endsWith('.xml')) {
+            let prettydata = require('pretty-data');
+            return prettydata.pd.xmlmin(content);
+        }
+        return content;
     });
 
     return {
         dir: {
             input: 'src',
-            output: 'dist'
+            output: 'dist',
+            includes: 'includes',
+            layouts: 'layouts'
         },
         dataTemplateEngine: 'njk',
         markdownTemplateEngine: 'njk',
