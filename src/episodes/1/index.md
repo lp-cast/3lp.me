@@ -1,17 +1,17 @@
 ---
+number: 1
 title: 'Пилот, в котором Кейв наступает на руку, ковбои-наркоманы поют в церкви и школьники слушают трипхоп на переменах'
 date: 2019-06-27
-number: 1
 chapters:
-- time: '02:53'
-  title: 'Маша едет за Ником Кейвом в Берлин'
-- time: '21:13'
-  title: 'Вадим не попадает на Cowboy Junkies'
-- time: '38:32'
-  title: 'Слава слушает UNKLE на кассете'
-duration: '01:06:25'
-size: '64012120'
-layout: post.njk
+- time: 02:53
+  title: Маша едет за Ником Кейвом в Берлин
+- time: 21:13
+  title: Вадим не попадает на Cowboy Junkies
+- time: 38:32
+  title: Слава слушает UNKLE на кассете
+duration: 01:06:25
+size: 64012120
+layout: episode.njk
 tags: episode
 ---
 
