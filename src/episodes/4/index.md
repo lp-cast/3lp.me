@@ -21,12 +21,12 @@ tags: episode
 
 ### Marvin Gaye — What’s Going On
 
-- Альбом в
+- Альбом «What’s Going On» в
   [Apple Music](https://music.apple.com/ru/album/whats-going-on/1440776527?l=en),
   [Яндекс.Музыке](https://music.yandex.ru/album/87116),
   [Spotify](https://open.spotify.com/album/51OTwBCtfrubk9HRlKKw41),
   [Tidal](https://tidal.com/browse/album/572218)
-- Альбом I Want You в
+- Альбом «I Want You» в
   [Apple Music](https://music.apple.com/ru/album/i-want-you/1440815358),
   [Яндекс.Музыке](https://music.yandex.ru/album/2502752),
   [Spotify](https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7),

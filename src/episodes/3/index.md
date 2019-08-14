@@ -21,16 +21,16 @@ tags: episode
 
 ### Tequilajazzz — Сто пятьдесят миллиардов шагов
 
-- Альбом в
+- Альбом «150 миллиардов» в
   [Apple Music](https://music.apple.com/album/1353037132),
   [Яндекс.Музыке](https://music.yandex.ru/album/58899),
   [Spotify](https://open.spotify.com/album/0mzId8mr1OrxXBUP2akczf),
   [Tidal](https://tidal.com/browse/album/85242496)
-- Zorge в
+- Группа Zorge в
   [Apple Music](https://music.apple.com/artist/775356202),
   [Яндекс.Музыке](https://music.yandex.ru/artist/591525),
   [Spotify](https://open.spotify.com/artist/1xkazD9FbrKQ7AsVPfinWX)
-- Optimystica Orchestra в
+- Группа Optimystica Orchestra в
   [Apple Music](https://music.apple.com/artist/966548302),
   [Яндекс.Музыке](https://music.yandex.ru/artist/592062),
   [Spotify](https://open.spotify.com/artist/3M3PdJZlxaY2RLuF7Vl4mM),

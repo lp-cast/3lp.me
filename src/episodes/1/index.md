@@ -17,7 +17,7 @@ tags: episode
 
 ### Nick Cave & Warren Ellis — The Assassination of Jesse James
 
-- Альбом в
+- Альбом «The Assassination» в
   [Apple Music](https://music.apple.com/album/1143174629),
   [Яндекс.Музыке](https://music.yandex.ru/album/52741),
   [Spotify](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs),
@@ -27,24 +27,24 @@ tags: episode
 
 ### Cowboy Junkies — The Trinity Session
 
-- Альбом в
+- Альбом «The Trinity Session» в
   [Apple Music](https://music.apple.com/album/299606787),
   [Яндекс.Музыке](https://music.yandex.ru/album/3959139),
   [Spotify](https://open.spotify.com/album/566tD6a3xWL6MKLWkw8ERz),
   [Tidal](https://tidal.com/browse/album/11354956)
-- Оригинал Sweet Jane в
+- Песня The Velvet Underground «Sweet Jane» в
   [Apple Music](https://music.apple.com/album/1050415251?i=1050415253),
   [Яндекс.Музыке](https://music.yandex.ru/album/3041480/track/25721893),
   [Spotify](https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL),
   [Tidal](https://tidal.com/browse/track/52684896)
-- Фильм Flight (Экипаж) на
+- Фильм «Flight» (Экипаж) на
   [IMDB](https://www.imdb.com/title/tt1907668/),
   [Кинопоиске](https://www.kinopoisk.ru/film/592203/)
 - [YouTube: Cowboy Junkies — Sweet Jane](https://youtu.be/Fa9nN3G2CSg)
 
 ### UNKLE — Psyence Fiction
 
-- Альбом в
+- Альбом «Psyence Fiction» в
   [Apple Music](https://music.apple.com/album/1440922148),
   [Яндекс.Музыке](https://music.yandex.ru/album/8616),
   [Spotify](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY),
