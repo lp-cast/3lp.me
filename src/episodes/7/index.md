@@ -17,7 +17,7 @@ tags: episode
 
 ### Sofa Surfers — Sofa Surfers
 
-- Альбом Sofa Surfers в
+- Альбом «Sofa Surfers» в
   [Apple Music](https://music.apple.com/album/92295021),
   [Яндекс.Музыке](https://music.yandex.ru/album/5321638),
   [Spotify](https://open.spotify.com/album/4RLqns1YIqTCqZzC0YE3D8),
