@@ -1,12 +1,12 @@
 ---
 number: 5
-title: 'В котором Элизабет Фрейзер не может понять, это олень или собака'
+title: 'В котором Элизабет Фрейзер не может понять, это олень или собака'
 date: 2019-08-07
 chapters:
   - time: '02:48'
-    title: Маша находит себя в старом американском авто
+    title: Маша находит себя в старом американском авто
   - time: '17:13'
-    title: Всё сходится на самой северной точке Европы
+    title: Всё сходится на самой северной точке Европы
   - time: '24:38'
     title: Ремастеринг обижает Вадима
 duration: '00:36:21'
@@ -15,7 +15,7 @@ layout: episode.njk
 tags: episode
 ---
 
-### Cocteau Twins — Treasure
+### Cocteau Twins — Treasure
 
 - Альбом «Treasure» в
   [Apple Music](https://music.apple.com/album/1027469081),
@@ -36,13 +36,13 @@ tags: episode
   [Apple Music](https://music.apple.com/album/768296439),
   [Яндекс.Музыке](https://music.yandex.ru/album/7019650),
   [Spotify](https://open.spotify.com/album/1r3fbKQVt5WA199RCIPqc7)
-- [YouTube: Massive Attack — Teardrop](https://youtu.be/u7K72X4eo_s)
+- [YouTube: Massive Attack — Teardrop](https://youtu.be/u7K72X4eo_s)
 - [YouTube: Wax and Wane (Live, 1983)](https://youtu.be/rLtuBDqwS0g)
 
 ### Песни
 
-1. Cocteau Twins — Amelia
-2. Cocteau Twins — Persephone
-3. Cocteau Twins — Ivo
+1. Cocteau Twins — Amelia
+2. Cocteau Twins — Persephone
+3. Cocteau Twins — Ivo
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Colin Funke](https://unsplash.com/photos/8WCNQPEQN00).

@@ -1,6 +1,6 @@
 ---
 number: 8
-title: 'В котором Alcest рассказывают сказки, а Маша поёт по-французски'
+title: 'В котором Alcest рассказывают сказки, а Маша поёт по-французски'
 date: 2019-08-29
 chapters:
   - time: '05:35'
@@ -17,7 +17,7 @@ layout: episode.njk
 tags: episode
 ---
 
-### Alcest — Les Voyages de l’Âme
+### Alcest — Les Voyages de l’Âme
 
 - Альбом «Les Voyages de l'Âme» в
   [Apple Music](https://music.apple.com/album/1001162723),
@@ -30,13 +30,13 @@ tags: episode
   [Spotify](https://open.spotify.com/track/6tL5obDZ06OHBHbHwW01oE),
   [Tidal](https://tidal.com/browse/track/47918334)
 - [Музыкальный фестиваль Astral](https://fbits.ru/astral/)
-- [Машины фотографии с концерта в 2014 году](https://anyonealive.tumblr.com/post/77703219976/)
-- [YouTube: Alcest — Protection](https://youtu.be/Tn7wvu8R4Wk)
+- [Машины фотографии с концерта в 2014 году](https://anyonealive.tumblr.com/post/77703219976/)
+- [YouTube: Alcest — Protection](https://youtu.be/Tn7wvu8R4Wk)
 
 ### Песни
 
-1. Alcest — Autre temps
-2. Alcest — Nous sommes l’emeraude
-3. Alcest — Faiseurs de mondes
+1. Alcest — Autre temps
+2. Alcest — Nous sommes l’emeraude
+3. Alcest — Faiseurs de mondes
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Evgeni Evgeniev](https://unsplash.com/photos/LPKk3wtkC-g).

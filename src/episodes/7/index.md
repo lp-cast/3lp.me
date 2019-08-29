@@ -1,6 +1,6 @@
 ---
 number: 7
-title: 'В котором Sofa Surfers делают резкий поворот'
+title: 'В котором Sofa Surfers делают резкий поворот'
 date: 2019-08-22
 chapters:
   - time: '01:07'
@@ -15,7 +15,7 @@ layout: episode.njk
 tags: episode
 ---
 
-### Sofa Surfers — Sofa Surfers
+### Sofa Surfers — Sofa Surfers
 
 - Альбом «Sofa Surfers» в
   [Apple Music](https://music.apple.com/album/92295021),
@@ -39,13 +39,13 @@ tags: episode
   [Яндекс.Музыке](https://music.yandex.ru/artist/2203814),
   [Spotify](https://open.spotify.com/artist/3lpOdmjFszBSvvTLSG8zAh),
   [Tidal](https://tidal.com/browse/artist/5028939)
-- [YouTube: ГШ на KEXP](https://youtu.be/qGREPm3SAFw)
+- [YouTube: ГШ на KEXP](https://youtu.be/qGREPm3SAFw)
 - [Bandsintown](https://www.bandsintown.com/)
 
 ### Песни
 
-1. Sofa Surfers — Strings
-2. Sofa Surfers — Notes of a Prodigal
-3. Sofa Surfers — Good Day to Die
+1. Sofa Surfers — Strings
+2. Sofa Surfers — Notes of a Prodigal
+3. Sofa Surfers — Good Day to Die
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Samuel Zeller](https://unsplash.com/photos/BgrJ7KBikgU).

@@ -15,15 +15,15 @@ layout: episode.njk
 tags: episode
 ---
 
-### Nick Cave & Warren Ellis — The Assassination of Jesse James
+### Nick Cave & Warren Ellis — The Assassination of Jesse James
 
 - Альбом «The Assassination» в
   [Apple Music](https://music.apple.com/album/1143174629),
   [Яндекс.Музыке](https://music.yandex.ru/album/52741),
   [Spotify](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs),
   [Tidal](https://tidal.com/browse/album/63883085)
-- [IMDB: The Assassination of Jesse James](https://www.imdb.com/title/tt0443680/)
-- [Arzamas: камео Ника Кейва в фильме](https://arzamas.academy/micro/kameo/6)
+- [IMDB: The Assassination of Jesse James](https://www.imdb.com/title/tt0443680/)
+- [Arzamas: камео Ника Кейва в фильме](https://arzamas.academy/micro/kameo/6)
 
 ### Cowboy Junkies — The Trinity Session
 
