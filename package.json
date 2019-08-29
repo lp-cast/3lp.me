@@ -8,7 +8,7 @@
     "deploy": "cd dist && rsync -az --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.1",
+    "@11ty/eleventy": "^0.9.0",
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "gulp": "^4.0.2",
