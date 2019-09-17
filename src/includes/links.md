@@ -5,6 +5,7 @@
   [Фейсбуке](https://fb.me/3lpcast),
   [Инстаграме](https://www.instagram.com/lp_cast/).
 Слушайте в
+  [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly8zbHAubWUvZmVlZC8),
   [Apple Podcasts](https://podcasts.apple.com/podcast/id1469847344),
   [Spotify](https://open.spotify.com/show/0xpVD4jiXiEOICICGXrVUx),
   [Pocket Casts](https://pca.st/U71V),
