@@ -1,6 +1,6 @@
 ---
 number: 17
-title: 'Ханна Фьюри поёт колыбельные в кабаре'
+title: 'В котором Ханна Фьюри поёт колыбельные в кабаре'
 date: 2019-10-31
 chapters:
   - time: '02:27'
@@ -10,7 +10,7 @@ chapters:
   - time: '22:47'
     title: 'Маша продаёт зайцу уши'
 duration: '00:34:39'
-size: 33504971
+size: 33504991
 layout: episode.njk
 tags: episode
 ---
