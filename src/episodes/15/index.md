@@ -21,7 +21,7 @@ tags: episode
   [Apple Music](https://music.apple.com/album/262858950),
   [YouTube](https://youtu.be/Z-EnrhB1h4I)
 - Karate — This Day Next Year в
-  [Apple Music](https://music.apple.com/album/262857201?i=262858635)
+  [Apple Music](https://music.apple.com/album/262857201?i=262858635),
   [YouTube](https://youtu.be/sLcHPmP47tU)
 - [YouTube: Karate — Unsolved](https://youtu.be/IowOtKr4g-s)
 - [YouTube: Karate — In Place of Real Insight](https://youtu.be/icqiD8_45Os)
