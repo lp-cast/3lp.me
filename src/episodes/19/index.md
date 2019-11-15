@@ -1,6 +1,6 @@
 ---
 number: 19
-title: 'Роберт Плант выходит из тени цеппелина'
+title: 'В котором Роберт Плант выходит из тени цеппелина'
 date: 2019-11-15
 chapters:
   - time: '01:58'
@@ -10,7 +10,7 @@ chapters:
   - time: '20:26'
     title: 'Звучит гимн творчеству'
 duration: '00:32:28'
-size: 31528617
+size: 31528637
 layout: episode.njk
 tags: episode
 ---
