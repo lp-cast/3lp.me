@@ -37,6 +37,7 @@ tags: episode
   [Яндекс.Музыке](https://music.yandex.ru/artist/3270258),
   [Spotify](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4),
   [Tidal](https://tidal.com/browse/artist/6201863)
+- [Текст песни «Badtimes»](https://genius.com/Laika-badtimes-lyrics)
 
 ### Песни
 
