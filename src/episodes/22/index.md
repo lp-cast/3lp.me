@@ -1,7 +1,7 @@
 ---
 number: 22
 title: 'В котором Aphex Twin лупит по попу'
-date: 2019-12-03
+date: 2019-12-05
 chapters:
   - time: '00:00'
     title: '...'
@@ -18,21 +18,20 @@ tags: episode
 ### Aphex Twin — Syro
 
 - Альбом «Syro» в
-  [Apple Music](https://music.apple.com/album/syro/911319255),
+  [Apple Music](https://music.apple.com/album/911319255),
   [Яндекс.Музыке](https://music.yandex.ru/album/6372925),
   [Spotify](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8),
   [Tidal](https://listen.tidal.com/album/34298496),
   [Discogs](https://www.discogs.com/Aphex-Twin-Syro/master/734427)
 - Альбом «Selected Ambient Works 85-92» в
-  [Apple Music](https://music.apple.com/album/selected-ambient-works-85-92/1108845101),
+  [Apple Music](https://music.apple.com/album/1108845101),
   [Яндекс.Музыке](https://music.yandex.ru/album/3452941),
   [Spotify](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k),
   [Tidal](https://tidal.com/browse/album/59962969),
   [Discogs](https://www.discogs.com/Aphex-Twin-Selected-Ambient-Works-85-92/master/565)
-- Обложка Syro на сайте бюро [The Designers Republic](https://www.thedesignersrepublic.com/syro)
-- Youtube: [Aldo Ciccolini исполняет Gymnopedie n.1 Эрика Сати](https://www.youtube.com/watch?v=0peXnOnDgQ8)
-- Youtube: [Валентин Сильвестров исполняет багатель и даёт пояснение](https://www.youtube.com/watch?v=QcWvR8GKtc8)
-- [Текст песни «Badtimes»](https://genius.com/Laika-badtimes-lyrics)
+- [Обложка Syro на сайте бюро The Designers Republic](https://www.thedesignersrepublic.com/syro)
+- [YouTube: Aldo Ciccolini исполняет Gymnopedie n.1 Эрика Сати](https://youtu.be/0peXnOnDgQ8)
+- [YouTube: Валентин Сильвестров исполняет багатель и даёт пояснение](https://youtu.be/QcWvR8GKtc8)
 
 ### Песни
 
