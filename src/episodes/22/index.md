@@ -1,16 +1,16 @@
 ---
 number: 22
-title: 'В котором Aphex Twin лупит по попу'
-date: 2019-12-05
+title: 'В котором Aphex Twin лупит по попу'
+date: 2019-12-06
 chapters:
-  - time: '00:00'
-    title: '...'
-  - time: '00:00'
-    title: '...'
-  - time: '00:00'
-    title: '...'
-duration: '00:00:00'
-size: 000000000
+  - time: '03:00'
+    title: 'Дрова бегут, озеро бежит'
+  - time: '11:30'
+    title: 'Птицы поют дождливым утром'
+  - time: '22:39'
+    title: 'Aphex уже не пугает'
+duration: '00:37:59'
+size: 36631465
 layout: episode.njk
 tags: episode
 ---
@@ -29,9 +29,10 @@ tags: episode
   [Spotify](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k),
   [Tidal](https://tidal.com/browse/album/59962969),
   [Discogs](https://www.discogs.com/Aphex-Twin-Selected-Ambient-Works-85-92/master/565)
-- [Обложка Syro на сайте бюро The Designers Republic](https://www.thedesignersrepublic.com/syro)
+- [Обложка Syro на сайте бюро The Designers Republic](https://www.thedesignersrepublic.com/syro)
 - [YouTube: Aldo Ciccolini исполняет Gymnopedie n.1 Эрика Сати](https://youtu.be/0peXnOnDgQ8)
-- [YouTube: Валентин Сильвестров исполняет багатель и даёт пояснение](https://youtu.be/QcWvR8GKtc8)
+- [YouTube: Валентин Сильвестров исполняет багатель и даёт пояснение](https://youtu.be/QcWvR8GKtc8)
+- [LIFE IS REALLY HARD](https://www.instagram.com/p/B5VbyJsp2K9/)
 
 ### Песни
 
@@ -39,4 +40,4 @@ tags: episode
 2. Aphex Twin — aisatsana [102]
 3. Aphex Twin — XMAS_EVET10 [120] [thanaton3 mix]
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [TODO](TODO).
+Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Patrick Hendry](https://unsplash.com/photos/_lofCeUHMOo).
