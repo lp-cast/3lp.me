@@ -21,7 +21,7 @@ tags: episode
   [Apple Music](https://music.apple.com/album/725462668),
   [Яндекс.Музыке](https://music.yandex.ru/album/1741390),
   [Spotify](https://open.spotify.com/album/09dQDtKaIuTaQvVHjFhEV4),
-  [Tidal](https://listen.tidal.com/album/25053090)
+  [Tidal](https://tidal.com/album/25053090)
 - Warpaint — New Song в
   [Apple Music](https://music.apple.com/album/1136068048?i=1136068410),
   [Яндекс.Музыке](https://music.yandex.ru/album/3781932/track/30209506),
@@ -31,17 +31,17 @@ tags: episode
   [Apple Music](https://music.apple.com/artist/3979359),
   [Яндекс.Музыке](https://music.yandex.ru/artist/67257),
   [Spotify](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO),
-  [Tidal](https://listen.tidal.com/artist/3566297)
+  [Tidal](https://tidal.com/artist/3566297)
 - Колибри — Бес сахара в
   [Apple Music](https://music.apple.com/album/1052727041),
   [Яндекс.Музыке](https://music.yandex.ru/album/3048099),
   [Spotify](https://open.spotify.com/album/66P4bKeWb2gGI7vep44zr9),
-  [Tidal](https://listen.tidal.com/album/53036988)
+  [Tidal](https://tidal.com/album/53036988)
 - Jennylee в
   [Apple Music](https://music.apple.com/artist/1039012873),
   [Яндекс.Музыке](https://music.yandex.ru/artist/3982593),
   [Spotify](https://open.spotify.com/artist/0YJbZA7Ci73cEk1Ylcukgt),
-  [Tidal](https://listen.tidal.com/artist/7311651)
+  [Tidal](https://tidal.com/artist/7311651)
 - Ultraísta в
   [Apple Music](https://music.apple.com/artist/559730321),
   [Spotify](https://open.spotify.com/artist/2f88S1uYsEwP0n4x36wvG7)
