@@ -35,9 +35,10 @@ tags: episode
   [Spotify](https://open.spotify.com/album/5vhvp7K599FbKoxYHnBRFn),
   [Tidal](https://tidal.com/album/28453630),
   [Discogs](https://www.discogs.com/master/378475)
+- [Discogs: G3 (концерты организованные Джо)](https://www.discogs.com/artist/3824244-G3-6)
 - [YouTube: Хроника записи альбома Joe Satriani](https://youtu.be/eYmI_Wvsf70)
 - [YouTube: Joe Pass — Joes Blues](https://youtu.be/0f_Z4-25HI8)
-- [Discogs: G3 (концерты организованные Джо)](https://www.discogs.com/artist/3824244-G3-6)
+- [YouTube: Джефф Бек и юная Тэл Вилкенфелд на бас-гитаре](https://youtu.be/tgffDVO2UyA)
 
 ### Песни
 
