@@ -1,16 +1,16 @@
 ---
 number: 25
-title: 'В котором…'
-date: 2019-12-27
+title: 'В котором Джо Сатриани мурлычет гитарой'
+date: 2019-12-28
 chapters:
-  - time: '00:00'
-    title: 'TODO'
-  - time: '00:00'
-    title: 'TODO'
-  - time: '00:00'
-    title: 'TODO'
-duration: '00:00:00'
-size: 0
+  - time: '02:48'
+    title: 'Впервые звучит настоящий блюз'
+  - time: '18:18'
+    title: 'Вдруг появляется ансамбль'
+  - time: '28:36'
+    title: 'Маша слушает бас, Вадим — барабаны'
+duration: '00:39:23'
+size: 38282401
 layout: episode.njk
 tags: episode
 ---
