@@ -1,7 +1,7 @@
 ---
 number: 26
-title: 'Новогодний выпуск по заявкам'
-date: 2019-12-31
+title: 'В котором ёлки зелёные, брызги шампанского'
+date: 2020-01-03
 chapters:
   - time: '00:00'
     title: Маша
@@ -25,24 +25,22 @@ tags: episode
 
 ### Слава
 
-- Fredrik — альбом Trilogi в
-  [Apple Music](https://music.apple.com/album/trilogi/350024317),
+- Fredrik — Trilogi в
+  [Apple Music](https://music.apple.com/album/350024317),
   [Яндекс.Музыке](https://music.yandex.ru/label/444412),
   [Spotify](https://open.spotify.com/album/2CbWQVytCIaFvaHBXFyXqt),
   [Tidal](https://tidal.com/browse/album/4274428),
   [Discogs](https://www.discogs.com/master/view/651699)
-
-- Craig Armstrong — трек Ruthless gravity в
-  [Apple Music](https://music.apple.com/ru/album/as-if-to-nothing/724385391),
+- Craig Armstrong — Ruthless Gravity в
+  [Apple Music](https://music.apple.com/album/724385391),
   [Яндекс.Музыке](https://music.yandex.ru/album/45399/track/438790),
   [Spotify](https://open.spotify.com/track/6gmbNn47NjoI7UFC29Tzo6),
   [Tidal](https://tidal.com/browse/album/1463204),
-  [Discogs](https://www.discogs.com/Craig-Armstrong-As-If-To-Nothing/master/2908)
-
-- Burial, Four Tet, Thom Yorke — трек Ego в
-  [в Apple Music](https://music.apple.com/nz/artist/burial/id1119309616),
+  [Discogs](https://www.discogs.com/master/2908)
+- Burial, Four Tet, Thom Yorke — Ego в
+  [в Apple Music](https://music.apple.com/artist/id1119309616),
   [Spotify](https://open.spotify.com/playlist/3P1bH85SBywu4SsoA9GueZ),
   [Tidal](https://tidal.com/browse/artist/3520717),
-  [Discogs](https://www.discogs.com/Burial-Four-Tet-Thom-Yorke-Ego-Mirror/release/2770087)
+  [Discogs](https://www.discogs.com/release/2770087)
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Университет Рочестера](https://rochester.edu/).
+Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [TODO](TODO).
