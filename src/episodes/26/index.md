@@ -1,6 +1,6 @@
 ---
 number: 26
-title: 'В котором ёлки зелёные, брызги шампанского'
+title: 'В котором ёлки зелёные, брызги шампанского'
 date: 2020-01-03
 chapters:
   - time: '00:00'
@@ -37,28 +37,23 @@ tags: episode
   [Discogs](https://www.discogs.com/master/443984)
 
 1. Revolving
-2. A Salute
+2. A Salute
 3. Scarlet
 
 ### Fredrik, Craig Armstrong, Burial
 
 - Fredrik — Trilogi в
   [Apple Music](https://music.apple.com/album/350024317),
-  [Яндекс.Музыке](https://music.yandex.ru/label/444412),
-  [Spotify](https://open.spotify.com/album/2CbWQVytCIaFvaHBXFyXqt),
-  [Tidal](https://tidal.com/browse/album/4274428),
-  [Discogs](https://www.discogs.com/master/view/651699)
+  [Spotify](https://open.spotify.com/track/2aynxTQL5xb1pgBQ1PTuRJ),
+  [Tidal](https://tidal.com/browse/track/4274436)
 - Craig Armstrong — Ruthless Gravity в
   [Apple Music](https://music.apple.com/album/724385391),
   [Яндекс.Музыке](https://music.yandex.ru/album/45399/track/438790),
   [Spotify](https://open.spotify.com/track/6gmbNn47NjoI7UFC29Tzo6),
-  [Tidal](https://tidal.com/browse/album/1463204),
-  [Discogs](https://www.discogs.com/master/2908)
+  [Tidal](https://tidal.com/browse/track/1463205)
 - Burial, Four Tet, Thom Yorke — Ego в
-  [в Apple Music](https://music.apple.com/artist/id1119309616),
-  [Spotify](https://open.spotify.com/playlist/3P1bH85SBywu4SsoA9GueZ),
-  [Tidal](https://tidal.com/browse/artist/3520717),
-  [Discogs](https://www.discogs.com/release/2770087)
+  [Apple Music](https://music.apple.com/album/1429385875),
+  [Spotify](https://open.spotify.com/playlist/3P1bH85SBywu4SsoA9GueZ)
 
 1. Fredrik — Under Vattenverket
 2. Craig Armstrong — Ruthless Gravity
