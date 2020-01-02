@@ -15,15 +15,30 @@ layout: episode.njk
 tags: episode
 ---
 
-### Маша
+### A Place to Bury Strangers — Exploding Head
 
-- Альбом TODO
+1. It’s Nothing
+2. Smile When You Smile
+3. Everything Always Goes Wrong
 
-### Вадим
+- Альбом «Exploding Head» в
+  [Apple Music](https://music.apple.com/album/828032777),
+  [Яндекс.Музыке](TODO),
+  [Spotify](TODO),
+  [Tidal](TODO),
+  [Discogs](TODO)
 
-- Альбом TODO
+### 2:54 — 2:54
 
-### Слава
+1. Revolving
+2. A Salute
+3. Scarlet
+
+### Fredrik, Craig Armstrong, Burial
+
+1. Fredrik — Under Vattenverket
+2. Craig Armstrong — Ruthless Gravity
+3. Burial, Four Tet, Thom Yorke — Ego
 
 - Fredrik — Trilogi в
   [Apple Music](https://music.apple.com/album/350024317),
