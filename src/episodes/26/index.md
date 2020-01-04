@@ -1,16 +1,16 @@
 ---
 number: 26
 title: 'В котором ёлки зелёные, брызги шампанского'
-date: 2020-01-03
+date: 2020-01-04
 chapters:
-  - time: '00:00'
-    title: Маша
-  - time: '00:00'
-    title: Вадим
-  - time: '00:00'
-    title: Слава
-duration: '00:00:00'
-size: 0
+  - time: '01:57'
+    title: 'Маша влюбляется со второго взгляда'
+  - time: '18:21'
+    title: 'Вадим всех обманывает и ставит барабаны'
+  - time: '34:44'
+    title: 'Слава ставит бутылочки, космос и трио'
+duration: '00:58:00'
+size: 55840553
 layout: episode.njk
 tags: episode
 ---
@@ -35,6 +35,8 @@ tags: episode
   [Яндекс.Музыке](https://music.yandex.ru/album/473181),
   [Spotify](https://open.spotify.com/album/2hinqx00JQz5JAFgD3TzCb),
   [Discogs](https://www.discogs.com/master/443984)
+- [YouTube: Easy Undercover](https://youtu.be/FDVZB4twGL0)
+- [YouTube: Blindfold](https://youtu.be/O7Sa9_TxtB8)
 
 1. Revolving
 2. A Salute
