@@ -1,0 +1,37 @@
+---
+number: 27
+title: 'В котором Cat Power укутывает тёпленькой тоской'
+date: 2020-01-10
+chapters:
+  - time: '01:42'
+    title: 'Пластинка уже есть'
+  - time: '09:36'
+    title: 'Песни на свой страх и риск'
+  - time: '20:27'
+    title: 'Много хороших друзей'
+duration: '00:32:45'
+size: 31663574
+layout: episode.njk
+tags: episode
+---
+
+### Cat Power — You Are Free
+
+- Альбом «You Are Free» в
+  [Apple Music](https://music.apple.com/album/1023398126),
+  [Яндекс.Музыке](https://music.yandex.ru/album/2899920),
+  [Spotify](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6),
+  [Tidal](https://tidal.com/browse/album/49793790),
+  [Discogs](https://www.discogs.com/master/36181)
+- [YouTube: Cat Power — Manhattan](https://youtu.be/ybjpIt9oPuo)
+- [YouTube: Cat Power — Cross Bones Style](https://youtu.be/aW2PcOyAWwM)
+- [YouTube: Cat Power — He War](https://youtu.be/BMxjaye7tNY)
+- [YouTube: Kids Songs With Cat Power](https://youtu.be/ubigmaH2AOE)
+
+### Песни
+
+1. Free
+2. Good Woman
+3. He War
+
+Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Matthijs Smit](https://unsplash.com/photos/N-VDzD5z71E).
