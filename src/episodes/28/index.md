@@ -5,12 +5,12 @@ date: 2020-01-17
 chapters:
   - time: '07:51'
     title: 'Песня переворачивает всё'
-  - time: '18:17'
+  - time: '18:16'
     title: 'Музыка обнимает вокал'
-  - time: '23:52'
+  - time: '23:50'
     title: 'Название группы отпугивает'
-duration: '00:34:48'
-size: 33489258
+duration: '00:34:43'
+size: 33409008
 layout: episode.njk
 tags: episode
 ---
