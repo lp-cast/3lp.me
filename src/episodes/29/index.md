@@ -29,6 +29,7 @@ tags: episode
   [Tidal](https://tidal.com/browse/album/85242640),
   [Discogs](https://www.discogs.com/master/334451)
 - [YouTube: А я?](https://youtu.be/VNeQtPmdg8o)
+- [Колибри 2020 — новый альбом](https://planeta.ru/campaigns/kolibri2020)
 
 ### Песни
 
