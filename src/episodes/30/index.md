@@ -1,10 +1,10 @@
 ---
 number: 30
-title: 'В котором Бернд Фридман и Яки Либецайт секретничают'
+title: 'В котором Бернд Фридман и Яки Либецайт секретничают'
 date: 2020-02-03
 chapters:
   - time: '01:40'
-    title: 'Начинаем разбираться в дабе'
+    title: 'Начинаем разбираться в дабе'
   - time: '10:46'
     title: 'Немцы запаздывают'
   - time: '23:53'
@@ -15,7 +15,7 @@ layout: episode.njk
 tags: episode
 ---
 
-### Burnt Friedman & Jaki Liebezeit — Secret Rhythms
+### Burnt Friedman & Jaki Liebezeit — Secret Rhythms
 
 - Альбом «Secret Rhythms» в
   [Apple Music](https://music.apple.com/album/350024317),
@@ -29,30 +29,30 @@ tags: episode
   [Spotify](https://open.spotify.com/playlist/4O4rpsUe0ow070B2x1YEnW),
   [Tidal](https://tidal.com/browse/album/87627098),
   [Discogs](https://www.discogs.com/master/14569)
-- Flanger — Lollopy Dripper в
+- Flanger — Lollopy Dripper в
   [Apple Music](https://music.apple.com/album/1039499690),
   [Яндекс.Музыке](https://music.yandex.ru/album/5287433),
   [Spotify](https://open.spotify.com/album/72HlRW3bRovz07yfBPfGew),
   [Tidal](https://listen.tidal.com/album/87611022),
   [Discogs](https://www.discogs.com/master/904640)
-- Nine Horses — Snow Borne Sorrow в
+- Nine Horses — Snow Borne Sorrow в
   [Apple Music](https://music.apple.com/album/1443833159),
   [Яндекс.Музыке](https://music.yandex.ru/artist/669938),
   [Spotify](https://open.spotify.com/album/7jTescI5fxu4l0DWKIdWCK),
   [Tidal](https://listen.tidal.com/album/76827287),
   [Discogs](https://www.discogs.com/master/13446)
-- Can — Ege Bamyasi» в
+- Can — Ege Bamyasi» в
   [Apple Music](https://music.apple.com/album/711468600),
   [Яндекс.Музыке](https://music.yandex.ru/album/6220066),
   [Spotify](https://open.spotify.com/playlist/2l0axAWHF5JHbi7nXrcbfi),
   [Tidal](https://tidal.com/browse/album/22662920),
   [Discogs](https://www.discogs.com/master/11693)
-- Книга «[Life, Theory and Practice of a Master Drummer](https://unbound.com/books/jaki-liebezeit/)»
-- [Вадим играет на Калимбе](https://www.instagram.com/p/siYo6IMzgg/)
+- Книга «[Life, Theory and Practice of a Master Drummer](https://unbound.com/books/jaki-liebezeit/)»
+- [Вадим играет на калимбе](https://www.instagram.com/p/siYo6IMzgg/)
 
 ### Песни
 
-1. Obscured by 5
+1. Obscured by 5
 2. Rechter Winkel
 3. Rastafahndung
 
