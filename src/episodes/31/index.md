@@ -8,7 +8,7 @@ chapters:
   - time: '13:35'
     title: 'Мы умираем смеясь'
   - time: '25:29'
-    title: 'Трясина доходит уже до шеи'
+    title: 'Трясина доходит до шеи'
 duration: '00:38:39'
 size: 37210784
 layout: episode.njk
