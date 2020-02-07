@@ -30,8 +30,8 @@ tags: episode
 
 ### Песни
 
-1. 23
-2. The Dress
-3. Heroine
+1. Blonde Redhead — 23
+2. Blonde Redhead — The Dress
+3. Blonde Redhead — Heroine
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Agustinus Nathaniel](https://unsplash.com/photos/Z96okuOmPos).

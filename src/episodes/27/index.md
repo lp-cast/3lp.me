@@ -30,8 +30,8 @@ tags: episode
 
 ### Песни
 
-1. Free
-2. Good Woman
-3. He War
+1. Cat Power — Free
+2. Cat Power — Good Woman
+3. Cat Power — He War
 
 Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Matthijs Smit](https://unsplash.com/photos/N-VDzD5z71E).

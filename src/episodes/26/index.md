@@ -24,9 +24,9 @@ tags: episode
   [Tidal](https://tidal.com/browse/album/34511438),
   [Discogs](https://www.discogs.com/master/186579)
 
-1. It’s Nothing
-2. Smile When You Smile
-3. Everything Always Goes Wrong
+1. A Place to Bury Strangers — It’s Nothing
+2. A Place to Bury Strangers — Smile When You Smile
+3. A Place to Bury Strangers — Everything Always Goes Wrong
 
 ### 2:54 — 2:54
 
@@ -38,9 +38,9 @@ tags: episode
 - [YouTube: Easy Undercover](https://youtu.be/FDVZB4twGL0)
 - [YouTube: Blindfold](https://youtu.be/O7Sa9_TxtB8)
 
-1. Revolving
-2. A Salute
-3. Scarlet
+1. 2:54 — Revolving
+2. 2:54 — A Salute
+3. 2:54 — Scarlet
 
 ### Fredrik, Craig Armstrong, Burial
 
