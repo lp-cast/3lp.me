@@ -18,7 +18,7 @@ tags: episode
 ### Burnt Friedman & Jaki Liebezeit — Secret Rhythms
 
 - Альбом «Secret Rhythms» в
-  [Apple Music](https://music.apple.com/album/350024317),
+  [Apple Music](https://music.apple.com/album/79056222),
   [Яндекс.Музыке](https://music.yandex.ru/album/5291736),
   [Spotify](https://open.spotify.com/playlist/0YF7xFWWb64CNmVNxl2szn),
   [Tidal](https://tidal.com/album/87612014),
