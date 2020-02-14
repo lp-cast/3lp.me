@@ -1,21 +1,21 @@
 ---
 number: 32
 title: 'В котором Брайан Ино мыслит нестандартно'
-date: 2020-02-15
+date: 2020-02-14
 chapters:
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
-duration: '00:00:00'
-size: 0
+  - time: '01:40'
+    title: 'Магнитофоны генерируют музыку'
+  - time: '19:34'
+    title: 'Маша тонет, Вадим плывёт'
+  - time: '30:26'
+    title: 'Карточки выводят из ступора'
+duration: '00:39:18'
+size: 38040406
 layout: episode.njk
 tags: episode
 ---
 
-### Brian Eno — Discreet Music
+### Brian Eno — Discreet Music
 
 - Альбом «Discreet Music» в
   [Apple Music](https://music.apple.com/album/724643909),
@@ -23,13 +23,13 @@ tags: episode
   [Spotify](https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG),
   [Tidal](https://tidal.com/browse/album/164531),
   [Discogs](https://www.discogs.com/master/6436)
-- Brian Eno — Before and After Science в
+- Brian Eno — Before and After Science в
   [Apple Music](https://music.apple.com/album/724418251),
   [Яндекс.Музыке](https://music.yandex.ru/album/34740),
   [Spotify](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u),
   [Tidal](https://tidal.com/browse/album/155112),
   [Discogs](https://www.discogs.com/master/6718)
-- Brian Eno — Here Come The Warm Jets в
+- Brian Eno — Here Come The Warm Jets в
   [Apple Music](https://music.apple.com/album/723783174),
   [Яндекс.Музыке](https://music.yandex.ru/album/44416),
   [Spotify](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi),
@@ -37,7 +37,7 @@ tags: episode
   [Discogs](https://www.discogs.com/master/6152)
 - [Oblique Strategies](http://www.rtqe.net/ObliqueStrategies/)
 - [Peter Schmidt](http://peterschmidtweb.com)
-- [Bloom by Eno & Peter Chilvers](https://apps.apple.com/app/id292792586)
+- [Bloom by Eno & Peter Chilvers](https://apps.apple.com/app/id292792586)
 
 ### Песни
 
