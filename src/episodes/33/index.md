@@ -9,8 +9,6 @@ chapters:
     title: 'Становится глубже и темнее'
   - time: '25:52'
     title: 'Всё начинается с этой песни'
-duration: '00:38:05'
-size: 36784227
 layout: episode.njk
 tags: episode
 ---

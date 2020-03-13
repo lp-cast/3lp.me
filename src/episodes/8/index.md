@@ -11,8 +11,6 @@ chapters:
     title: 'Troisième partie'
   - time: '25:04'
     title: 'Quatrième partie'
-duration: '00:32:51'
-size: 31778372
 layout: episode.njk
 tags: episode
 ---

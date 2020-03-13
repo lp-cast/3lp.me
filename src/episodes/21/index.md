@@ -9,8 +9,6 @@ chapters:
     title: 'Открывается поп-потенциал'
   - time: '25:48'
     title: 'Ты влюбляешься в пингвина'
-duration: '00:35:49'
-size: 34524039
 layout: episode.njk
 tags: episode
 ---

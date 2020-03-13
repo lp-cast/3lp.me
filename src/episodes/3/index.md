@@ -13,8 +13,6 @@ chapters:
     title: 'Следующая возвращает к жизни'
   - time: '28:20'
     title: 'Балтийский ветер исполняет партию'
-duration: '00:35:24'
-size: 34332985
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Музыка становится важнее вокала'
   - time: '24:46'
     title: 'Группа просто кайфово рубит'
-duration: '00:34:31'
-size: 33303185
 layout: episode.njk
 tags: episode
 ---

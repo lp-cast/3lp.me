@@ -9,8 +9,6 @@ chapters:
     title: 'Маша не застаёт 90-е'
   - time: '26:04'
     title: 'Все трясут хаером'
-duration: '00:35:00'
-size: 33957495
 layout: episode.njk
 tags: episode
 ---

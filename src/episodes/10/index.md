@@ -9,8 +9,6 @@ chapters:
     title: 'Джон играет руками и поёт голосом'
   - time: '22:43'
     title: 'Киддис отдыхает'
-duration: '00:37:27'
-size: 36257566
 layout: episode.njk
 tags: episode
 ---

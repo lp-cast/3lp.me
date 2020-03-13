@@ -9,8 +9,6 @@ chapters:
     title: 'Сьюзи бежит на цыпочках'
   - time: '20:51'
     title: 'Фильм оставляет глубокий след'
-duration: '00:38:59'
-size: 37586955
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Птицы поют дождливым утром'
   - time: '22:39'
     title: 'Aphex уже не пугает'
-duration: '00:37:59'
-size: 36631465
 layout: episode.njk
 tags: episode
 ---

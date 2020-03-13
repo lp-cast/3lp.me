@@ -11,8 +11,6 @@ chapters:
     title: 'Все взрослеют без толку'
   - time: '30:22'
     title: 'Ноги пускаются в ломаный пляс'
-duration: '00:36:51'
-size: 35704660
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Led Zeppelin побеждает Deep Purple'
   - time: '20:26'
     title: 'Звучит гимн творчеству'
-duration: '00:32:28'
-size: 31528637
 layout: episode.njk
 tags: episode
 ---

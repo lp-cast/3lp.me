@@ -9,8 +9,6 @@ chapters:
     title: 'Звёздный лось приходит'
   - time: '27:57'
     title: 'Маша получает жёлтую карточку'
-duration: '00:38:08'
-size: 36831593
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Вадим всех обманывает и ставит барабаны'
   - time: '34:44'
     title: 'Слава ставит бутылочки, космос и трио'
-duration: '00:58:00'
-size: 55840553
 layout: episode.njk
 tags: episode
 ---

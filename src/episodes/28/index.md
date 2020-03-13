@@ -9,8 +9,6 @@ chapters:
     title: 'Музыка обнимает вокал'
   - time: '23:50'
     title: 'Название группы отпугивает'
-duration: '00:34:43'
-size: 33409008
 layout: episode.njk
 tags: episode
 ---

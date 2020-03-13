@@ -9,8 +9,6 @@ chapters:
     title: 'Карманы пьют воду'
   - time: '20:12'
     title: 'Джаз пугает Машу'
-duration: '00:37:20'
-size: 36152395
 layout: episode.njk
 tags: episode
 ---

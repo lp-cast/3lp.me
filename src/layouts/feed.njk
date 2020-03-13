@@ -41,16 +41,23 @@ permalink: feed/index.xml
         {{ episode.data.content | safe }}
     {% endset %}
 
+    {% set fileUrl %}
+        https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3
+    {% endset %}
+    {% set filePath %}
+        src/episodes/{{ episode.data.number }}/audio.mp3
+    {% endset %}
+
     <item>
         <title>{{ episode.data.title }}</title>
         <pubDate>{{ episode.date.toUTCString() }}</pubDate>
         <description><![CDATA[{{ description | htmlmin | safe }}]]></description>
 
-        <guid isPermaLink="true">https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3</guid>
-        <enclosure type="audio/mpeg" url="https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3" length="{{ episode.data.size }}"/>
+        <guid isPermaLink="true">{{ fileUrl }}</guid>
+        <enclosure type="audio/mpeg" url="{{ fileUrl }}" length="{{ filePath | trim | length }}"/>
 
         <itunes:episode>{{ episode.data.number }}</itunes:episode>
-        <itunes:duration>{{ episode.data.duration }}</itunes:duration>
+        <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
         <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:summary>{{ episode.data.title }}.</itunes:summary>

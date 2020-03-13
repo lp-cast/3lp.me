@@ -9,8 +9,6 @@ chapters:
     title: 'Вадиму наконец-то нравится'
   - time: '29:43'
     title: 'Шведы уходят, но возвращаются'
-duration: '00:36:45'
-size: 35395498
 layout: episode.njk
 tags: episode
 ---

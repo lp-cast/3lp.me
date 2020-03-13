@@ -9,8 +9,6 @@ chapters:
     title: 'Маша тонет, Вадим плывёт'
   - time: '30:26'
     title: 'Карточки выводят из ступора'
-duration: '00:39:18'
-size: 38040406
 layout: episode.njk
 tags: episode
 ---

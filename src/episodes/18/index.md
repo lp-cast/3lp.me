@@ -9,8 +9,6 @@ chapters:
     title: 'Маше впервые нравится'
   - time: '23:12'
     title: 'Деклан показывает голос'
-duration: '00:34:55'
-size: 33699737
 layout: episode.njk
 tags: episode
 ---

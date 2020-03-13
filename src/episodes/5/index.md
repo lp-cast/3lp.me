@@ -9,8 +9,6 @@ chapters:
     title: 'Всё сходится на самой северной точке Европы'
   - time: '24:38'
     title: 'Ремастеринг обижает Вадима'
-duration: '00:36:21'
-size: 35053639
 layout: episode.njk
 tags: episode
 ---

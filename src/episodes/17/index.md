@@ -9,8 +9,6 @@ chapters:
     title: 'Голос звучит только для тебя'
   - time: '22:47'
     title: 'Маша продаёт зайцу уши'
-duration: '00:34:39'
-size: 33504991
 layout: episode.njk
 tags: episode
 ---

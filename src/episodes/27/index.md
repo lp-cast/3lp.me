@@ -9,8 +9,6 @@ chapters:
     title: 'Песни на свой страх и риск'
   - time: '20:27'
     title: 'Много хороших друзей'
-duration: '00:32:45'
-size: 31663574
 layout: episode.njk
 tags: episode
 ---

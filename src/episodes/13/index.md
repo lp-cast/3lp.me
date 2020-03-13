@@ -9,8 +9,6 @@ chapters:
     title: 'Песни расцветают в миксе'
   - time: '22:58'
     title: 'Люди растворяются в музыке'
-duration: '00:38:06'
-size: 36805781
 layout: episode.njk
 tags: episode
 ---

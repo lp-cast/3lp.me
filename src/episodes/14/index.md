@@ -9,8 +9,6 @@ chapters:
     title: 'Ревербераторы делают тщ-щ'
   - time: '28:16'
     title: 'Маша покупает билет и не идёт'
-duration: '00:40:05'
-size: 38897800
 layout: episode.njk
 tags: episode
 ---

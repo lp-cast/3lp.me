@@ -9,8 +9,6 @@ chapters:
     title: Вадим не попадает на Cowboy Junkies
   - time: '38:32'
     title: Слава слушает UNKLE на кассете
-duration: '01:06:25'
-size: 64012120
 layout: episode.njk
 tags: episode
 ---

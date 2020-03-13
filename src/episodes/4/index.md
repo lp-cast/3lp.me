@@ -13,8 +13,6 @@ chapters:
     title: 'Эхо войны всё не смолкает'
   - time: '31:11'
     title: 'Марвин и Тамми соперничают с Фредди'
-duration: '00:37:14'
-size: 36189677
 layout: episode.njk
 tags: episode
 ---

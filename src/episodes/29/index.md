@@ -9,8 +9,6 @@ chapters:
     title: 'Инна не едет на жигулях'
   - time: '22:28'
     title: 'Тысячи звёзд смотрят сны'
-duration: '00:37:40'
-size: 36361158
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Немцы запаздывают'
   - time: '23:53'
     title: 'Калимба покоряет сердца'
-duration: '00:37:43'
-size: 36388732
 layout: episode.njk
 tags: episode
 ---

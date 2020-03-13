@@ -13,8 +13,6 @@ chapters:
     title: 'Счастье провоцирует хэппи-шейминг'
   - time: '30:38'
     title: 'Маска защищает от слезоточивого газа'
-duration: '00:36:44'
-size: 35572930
 layout: episode.njk
 tags: episode
 ---

@@ -9,8 +9,6 @@ chapters:
     title: 'Вдруг появляется ансамбль'
   - time: '28:36'
     title: 'Маша слушает бас, Вадим — барабаны'
-duration: '00:39:23'
-size: 38282401
 layout: episode.njk
 tags: episode
 ---
