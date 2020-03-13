@@ -13,7 +13,6 @@
     "@babel/preset-env": "^7.8.7",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-htmlmin": "^5.0.1",
     "gulp-postcss": "^8.0.0",
     "gulp-replace": "^1.0.0",
     "gulp-uglify": "^3.0.2",

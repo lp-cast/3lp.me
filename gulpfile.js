@@ -2,21 +2,9 @@ const babel = require('gulp-babel');
 const del = require('del');
 const fs = require('fs');
 const gulp = require('gulp');
-const htmlmin = require('gulp-htmlmin');
 const postcss = require('gulp-postcss');
 const replace = require('gulp-replace');
 const uglify = require('gulp-uglify');
-
-// HTML
-
-gulp.task('html', () => {
-    return gulp.src('dist/**/*.html')
-        .pipe(htmlmin({
-            removeComments: true,
-            collapseWhitespace: true
-        }))
-        .pipe(gulp.dest('dist'));
-});
 
 // Styles
 
@@ -74,7 +62,6 @@ gulp.task('clean', () => {
 // Build
 
 gulp.task('build', gulp.series(
-    'html',
     'styles:compress',
     'styles:inline',
     'scripts:compress',
