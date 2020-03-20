@@ -38,15 +38,11 @@ permalink: feed/index.xml
             <li><a href="https://twitter.com/pepelsbey">Вадим Макеев</a></li>
             <li><a href="https://twitter.com/miripiruni">Слава Олиянчук</a></li>
         </ul>
-        {{ episode.data.content | safe }}
+        {{ episode.templateContent | safe }}
     {% endset %}
 
-    {% set fileUrl %}
-        https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3
-    {% endset %}
-    {% set filePath %}
-        src/episodes/{{ episode.data.number }}/audio.mp3
-    {% endset %}
+    {% set fileUrl %}https://3lp.me/episodes/{{ episode.data.number }}/audio.mp3{% endset %}
+    {% set filePath %}src/episodes/{{ episode.data.number }}/audio.mp3{% endset %}
 
     <item>
         <title>{{ episode.data.title }}</title>
@@ -54,10 +50,10 @@ permalink: feed/index.xml
         <description><![CDATA[{{ description | htmlmin | safe }}]]></description>
 
         <guid isPermaLink="true">{{ fileUrl }}</guid>
-        <enclosure type="audio/mpeg" url="{{ fileUrl }}" length="{{ filePath | trim | length }}"/>
+        <enclosure type="audio/mpeg" url="{{ fileUrl }}" length="{{ filePath | length }}"/>
 
         <itunes:episode>{{ episode.data.number }}</itunes:episode>
-        <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
+        <itunes:duration>{{ filePath | duration }}</itunes:duration>
         <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:summary>{{ episode.data.title }}.</itunes:summary>
