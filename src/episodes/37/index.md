@@ -16,7 +16,7 @@ tags: episode
 ### И друг мой грузовик — Ищу друга
 
 - Альбом «Ищу друга» в
-  [Bandcamp](https://idmg.bandcamp.com/album/--2)
+  [Bandcamp](https://idmg.bandcamp.com/album/--2),
   [Discogs](https://www.discogs.com/master/1425138)
 - [Вся дискография на BandCamp](https://idmg.bandcamp.com/)
 - [YouTube: Антропология с Дмитрием Дибровым (1999)](https://youtu.be/Etnv8LiFZAI)
