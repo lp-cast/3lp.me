@@ -1,14 +1,14 @@
 ---
 number: 38
-title: 'В котором Caribou …'
-date: 2020-04-14
+title: 'В котором Caribou пускает круги по воде'
+date: 2020-04-18
 chapters:
-  - time: '00:00'
-    title: 'TODO'
-  - time: '00:00'
-    title: 'TODO'
-  - time: '00:00'
-    title: 'TODO'
+  - time: '02:21'
+    title: 'Звук расширяется и обнимает'
+  - time: '10:07'
+    title: 'Посвящение соулу 60-х'
+  - time: '16:46'
+    title: 'Дафни сочиняет песню'
 layout: episode.njk
 tags: episode
 ---
@@ -33,6 +33,7 @@ tags: episode
   [Spotify](https://open.spotify.com/album/4MLv6PbCID5my2Dtya3iUd),
   [Tidal](https://tidal.com/browse/album/79278408),
   [Discogs](https://www.discogs.com/master/480403)
+- [YouTube: Caribou на фестивале Pitchfork](https://youtu.be/j755GoKSrUE)
 
 ### Песни
 
