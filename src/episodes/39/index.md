@@ -16,16 +16,16 @@ tags: episode
 ### Slowdive — Souvlaki
 
 - Альбом «Souvlaki» в
-  [Apple Music](https://music.apple.com/album/souvlaki/292885238),
+  [Apple Music](https://music.apple.com/album/292885238),
   [Яндекс.Музыке](https://music.yandex.ru/album/160776),
   [Spotify](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7),
   [Tidal](https://listen.tidal.com/album/1995308),
-  [Discogs](https://www.discogs.com/Slowdive-Souvlaki/master/9478)
-— [YouTube: Выступление на Kexp](https://youtu.be/gwgq-IWtcPE)
-— [YouTube: Фильм про альбом](https://youtu.be/Sjr6esFXJl4)
-— [YouTube: Лайв 2014 года с фестиваля](https://youtu.be/O5iK_mqtJ04)
-— Рейтинг шугейз альбомов [на Pitchfork](https://pitchfork.com/features/lists-and-guides/9966-the-50-best-shoegaze-albums-of-all-time/)
-— [YouTube: Клип на Alison](https://youtu.be/jkM3M3zGcGE)
+  [Discogs](https://www.discogs.com/master/9478)
+— [Рейтинг шугейз-альбомов на Pitchfork](https://pitchfork.com/features/lists-and-guides/9966-the-50-best-shoegaze-albums-of-all-time/)
+— [YouTube: Фильм про запись «Souvlaki»](https://youtu.be/Sjr6esFXJl4)
+— [YouTube: Выступление на KEXP](https://youtu.be/gwgq-IWtcPE)
+— [YouTube: Slowdive — When the Sun Hits](https://youtu.be/O5iK_mqtJ04)
+— [YouTube: Slowdive — Alison](https://youtu.be/jkM3M3zGcGE)
 
 ### Песни
 
