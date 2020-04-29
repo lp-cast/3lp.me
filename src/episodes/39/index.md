@@ -3,12 +3,12 @@ number: 39
 title: 'В котором Slowdive …'
 date: 2020-04-29
 chapters:
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
+  - time: '01:12'
+    title: '1'
+  - time: '10:00'
+    title: '2'
+  - time: '20:44'
+    title: '3'
 layout: episode.njk
 tags: episode
 ---
