@@ -1,7 +1,7 @@
 ---
 number: 39
-title: 'В котором Slowdive …'
-date: 2020-04-29
+title: 'В котором Slowdive…'
+date: 2020-04-30
 chapters:
   - time: '01:12'
     title: '1'
