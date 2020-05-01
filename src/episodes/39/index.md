@@ -1,14 +1,14 @@
 ---
 number: 39
-title: 'В котором Slowdive…'
+title: 'В котором Slowdive делают второй великий шугейз'
 date: 2020-04-30
 chapters:
   - time: '01:12'
-    title: '1'
+    title: 'Апрельско-майская музыка'
   - time: '10:00'
-    title: '2'
+    title: 'Звукорежиссёр не нужен'
   - time: '20:44'
-    title: '3'
+    title: 'Десяти треков достаточно'
 layout: episode.njk
 tags: episode
 ---
