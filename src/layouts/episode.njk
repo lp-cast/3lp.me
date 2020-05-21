@@ -16,7 +16,8 @@ layout: page.njk
         </h1>
         <div class="player">
             <audio class="episode__player player__audio"
-                src="/episodes/{{ number }}/audio.mp3" controls>
+                src="/episodes/{{ number }}/audio.mp3"
+                preload="auto" controls>
             </audio>
             <ul class="player__list">
                 {%- for chapter in chapters -%}
