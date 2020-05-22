@@ -36,4 +36,7 @@ tags: episode
 2. Джан Ку — Зверь
 3. Джан Ку — Кораблекрушение
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Samara Doole](https://unsplash.com/photos/T8-kfC8W4b8).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Samara Doole](https://unsplash.com/photos/T8-kfC8W4b8).

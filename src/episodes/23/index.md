@@ -34,4 +34,7 @@ tags: episode
 2. Nick Cave & The Bad Seeds — Jubilee Street
 3. Nick Cave & The Bad Seeds — Mermaids
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [freestocks](https://unsplash.com/photos/ZArDeAtxj0Q).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [freestocks](https://unsplash.com/photos/ZArDeAtxj0Q).

@@ -30,4 +30,7 @@ tags: episode
 2. Clann Zú — One Bedroom Apartment
 3. Clann Zú — From Bethlehem to Jenin
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Ohmky](https://unsplash.com/photos/uEusW9AW7QU).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Ohmky](https://unsplash.com/photos/uEusW9AW7QU).

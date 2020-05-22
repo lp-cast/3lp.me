@@ -32,4 +32,7 @@ tags: episode
 2. Robert Plant — In The Mood
 3. Robert Plant — Messin’ With the Mekon
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Charlie Han](https://unsplash.com/photos/IIgj3oBaVbI).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Charlie Han](https://unsplash.com/photos/IIgj3oBaVbI).

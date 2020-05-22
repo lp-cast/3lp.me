@@ -59,4 +59,7 @@ tags: episode
 2. Craig Armstrong — Ruthless Gravity
 3. Burial, Four Tet, Thom Yorke — Ego
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Dmitry Bayer](https://unsplash.com/photos/c8ksDaCmbpw).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Dmitry Bayer](https://unsplash.com/photos/c8ksDaCmbpw).

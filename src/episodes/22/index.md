@@ -38,4 +38,7 @@ tags: episode
 2. Aphex Twin — aisatsana [102]
 3. Aphex Twin — XMAS_EVET10 [120] [thanaton3 mix]
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Patrick Hendry](https://unsplash.com/photos/_lofCeUHMOo).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Patrick Hendry](https://unsplash.com/photos/_lofCeUHMOo).

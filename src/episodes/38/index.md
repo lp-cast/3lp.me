@@ -41,4 +41,7 @@ tags: episode
 2. Caribou — Home
 3. Caribou — Magpie
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Kent Pilcher](https://unsplash.com/photos/87MIF4vqHWg).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Kent Pilcher](https://unsplash.com/photos/87MIF4vqHWg).

@@ -52,4 +52,7 @@ tags: episode
 3. Swans — Blind
 4. Swans — Oxygen
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Paul Hanaoka](https://unsplash.com/photos/rYchmOEzWlo).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Paul Hanaoka](https://unsplash.com/photos/rYchmOEzWlo).

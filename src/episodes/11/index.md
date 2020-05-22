@@ -45,4 +45,7 @@ tags: episode
 2. Nosound — Someone Starts To Fade Away
 3. Nosound — You Said ‘I Am…’
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Cole Keister](https://unsplash.com/photos/SG4fPCsywj4).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Cole Keister](https://unsplash.com/photos/SG4fPCsywj4).

@@ -37,4 +37,7 @@ tags: episode
 2. Miles Davis — Human Nature
 3. Miles Davis — Time After Time
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Jason Leung](https://unsplash.com/photos/nBy2abg-6UM).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Jason Leung](https://unsplash.com/photos/nBy2abg-6UM).

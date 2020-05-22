@@ -32,4 +32,7 @@ tags: episode
 2. Karate — Water
 3. Karate — The State I’m In
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Ilze Lucero](https://unsplash.com/photos/l_VVd8nV3PE).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Ilze Lucero](https://unsplash.com/photos/l_VVd8nV3PE).

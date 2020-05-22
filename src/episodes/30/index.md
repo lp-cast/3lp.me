@@ -54,4 +54,7 @@ tags: episode
 2. Burnt Friedman & Jaki Liebezeit Rechter Winkel
 3. Burnt Friedman & Jaki Liebezeit Rastafahndung
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Aaron Burson](https://unsplash.com/photos/aE3gcKW1BxU).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Aaron Burson](https://unsplash.com/photos/aE3gcKW1BxU).

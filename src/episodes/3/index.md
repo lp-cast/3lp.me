@@ -47,4 +47,7 @@ tags: episode
 4. Tequilajazzz — Меня здесь нет
 5. Tequilajazzz — Последняя
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Мэтью Хенри](https://unsplash.com/photos/Gyti0PhoQjY).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Мэтью Хенри](https://unsplash.com/photos/Gyti0PhoQjY).

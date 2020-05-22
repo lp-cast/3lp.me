@@ -30,4 +30,7 @@ tags: episode
 2. Legowelt — A Cold Winters Dat
 3. Legowelt — Danger in the Air
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Elijah Hiett](https://unsplash.com/photos/u5WwCKRHbwU).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Elijah Hiett](https://unsplash.com/photos/u5WwCKRHbwU).

@@ -35,4 +35,7 @@ tags: episode
 2. Колибри — Земля, кто я?
 3. Колибри — Океан
 
-Все права на музыку принадлежат законным правообладателям. Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey). Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w). Фотография на обложке — [Yannick Menard](https://unsplash.com/photos/N2lhXWMGYVQ).
+Все права на музыку принадлежат законным правообладателям.
+Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
+Фотография на обложке — [Yannick Menard](https://unsplash.com/photos/N2lhXWMGYVQ).
