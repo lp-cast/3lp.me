@@ -21,6 +21,10 @@ tags: episode
   [Spotify](TODO),
   [Tidal](TODO),
   [Discogs](TODO)
+- Moddi на
+  [cайте](http://www.moddi.no/),
+  [Фейсбуке](https://www.facebook.com/moddimusikk/),
+  [Bandcamp](https://moddi.bandcamp.com/)
 
 ### Песни
 
