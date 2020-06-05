@@ -1,6 +1,6 @@
 ---
 number: 44
-title: 'В котором Moddi и бездонное норвежское небо'
+title: 'В котором Moddi и бездонное норвежское небо'
 date: 2020-06-05
 chapters:
   - time: '06:21'
@@ -22,16 +22,16 @@ tags: episode
   [Tidal](https://tidal.com/browse/album/84358061),
   [Discogs](https://www.discogs.com/master/271548)
 - Moddi
-  [на cайте](http://www.moddi.no/),
-  [в Фейсбуке](https://www.facebook.com/moddimusikk/),
-  [на Bandcamp](https://moddi.bandcamp.com/)
+  [на cайте](http://www.moddi.no/),
+  [в Фейсбуке](https://www.facebook.com/moddimusikk/),
+  [на Bandcamp](https://moddi.bandcamp.com/)
 - [YouTube: Magpie Eggs](https://youtu.be/myHzPth0r90)
 
 ### Песни
 
-1. Moddi — Magpie Eggs
-2. Moddi — A Sense of Grey
-3. Moddi — Smoke
+1. Moddi — Magpie Eggs
+2. Moddi — A Sense of Grey
+3. Moddi — Smoke
 
 Все права на музыку принадлежат законным правообладателям.
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
