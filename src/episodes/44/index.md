@@ -16,11 +16,11 @@ tags: episode
 ### Moddi — Floriography
 
 - Альбом «Floriography» в
-  [Apple Music](https://music.apple.com/album571979081),
-  [Яндекс.Музыке](TODO),
-  [Spotify](TODO),
-  [Tidal](TODO),
-  [Discogs](TODO)
+  [Apple Music](https://music.apple.com/album/floriography/571979081),
+  [Яндекс.Музыке](https://music.yandex.ru/album/5032824),
+  [Spotify](https://open.spotify.com/album/5dk1GQsMyNY6CCXsljuMeE),
+  [Tidal](https://tidal.com/browse/artist/3652954),
+  [Discogs](https://www.discogs.com/Moddi-Floriography/release/3823293)
 - Moddi на
   [cайте](http://www.moddi.no/),
   [Фейсбуке](https://www.facebook.com/moddimusikk/),
