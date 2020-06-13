@@ -17,13 +17,13 @@ tags: episode
 
 - Альбом «Лиловый день» в
   [Яндекс.Музыке](https://music.yandex.ru/album/1486063),
-  [Discogs](https://www.discogs.com/Леонид-Фёдоров-Лиловый-День/master/273179)
+  [Discogs](https://www.discogs.com/master/273179)
 - Альбом «Четыресполовинойтонны» в
   [Яндекс.Музыке](https://music.yandex.ru/album/1724371),
-  [Discogs](https://www.discogs.com/Леонид-Фёдоров-Четыресполовинойтонны/master/49553)
-- Официальный сайт [leonidfedorov.ru](http://leonidfedorov.ru)
-- [YouTube: Интервью в программе ещёнепознер](https://www.youtube.com/watch?v=gacnaDFugKY)
-- [YouTube: Концерт на кухне](https://www.youtube.com/watch?v=BgeUwKxyIj8)
+  [Discogs](https://www.discogs.com/master/49553)
+- [Официальный сайт](http://leonidfedorov.ru)
+- [YouTube: Интервью в ещёнепознере](https://youtu.be/gacnaDFugKY)
+- [YouTube: Концерт на кухне](https://youtu.be/BgeUwKxyIj8)
 
 ### Песни
 
