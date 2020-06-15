@@ -1,14 +1,14 @@
 ---
 number: 45
-title: 'В котором Леонид Фёдоров шаманит'
-date: 2020-06-12
+title: 'В котором Леонид Фёдоров уезжает на стуле'
+date: 2020-06-15
 chapters:
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
+  - time: '02:03'
+    title: 'Второй Фёдоров'
+  - time: '11:04'
+    title: 'Клещ-мелодия'
+  - time: '21:21'
+    title: 'Многослойный лоуфай'
 layout: episode.njk
 tags: episode
 ---
@@ -22,7 +22,7 @@ tags: episode
   [Яндекс.Музыке](https://music.yandex.ru/album/1724371),
   [Discogs](https://www.discogs.com/master/49553)
 - [Официальный сайт](http://leonidfedorov.ru)
-- [YouTube: Интервью в ещёнепознере](https://youtu.be/gacnaDFugKY)
+- [YouTube: Интервью в Ещёнепознере](https://youtu.be/gacnaDFugKY)
 - [YouTube: Концерт на кухне](https://youtu.be/BgeUwKxyIj8)
 
 ### Песни
