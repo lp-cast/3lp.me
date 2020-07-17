@@ -1,14 +1,14 @@
 ---
 number: 48
-title: 'В котором Les Discrets…'
-date: 2020-07-13
+title: 'В котором Les Discrets это любовь, природа и смерть'
+date: 2020-07-17
 chapters:
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
-  - time: '00:00'
-    title: '…'
+  - time: '04:37'
+    title: 'Пульс повышен, подышите'
+  - time: '12:03'
+    title: 'Франзузский звучит интересно'
+  - time: '21:40'
+    title: 'И вороны хорошие'
 layout: episode.njk
 tags: episode
 ---
