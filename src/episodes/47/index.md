@@ -19,6 +19,7 @@ tags: episode
   [Apple Music](https://music.apple.com/album/264613507),
   [Яндекс.Музыке](https://music.yandex.ru/album/720528),
   [Spotify](https://open.spotify.com/album/47SjArr0rwl7Pd87i8h8Vi),
+  [Tidal](https://tidal.com/browse/album/58079945),
   [Discogs](https://www.discogs.com/master/20654)
 - [Vimeo: Kiss](https://vimeo.com/342928)
 - [YouTube: Gun](https://youtu.be/U_EYmtHbiZ0)

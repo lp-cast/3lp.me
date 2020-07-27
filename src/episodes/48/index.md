@@ -19,6 +19,7 @@ tags: episode
   [Apple Music](https://music.apple.com/album/1001115298),
   [Яндекс.Музыке](https://music.yandex.ru/album/254323),
   [Spotify](https://open.spotify.com/album/4mif1rLyMHyVYqanzFoJQN),
+  [Tidal](https://tidal.com/browse/album/47860573),
   [Discogs](https://www.discogs.com/master/242376)
 - Les Discrets
   [на сайте](http://www.lesdiscrets.com/)
