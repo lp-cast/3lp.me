@@ -1,13 +1,13 @@
 ---
 number: 50
-title: 'В котором Маша, Вадим и Слава ставят стыдное'
-date: 2020-07-31
+title: 'В котором Маша, Вадим и Слава ставят стыдное'
+date: 2020-08-04
 chapters:
-  - time: '00:00'
+  - time: '04:33'
     title: 'Маша приносит кардан'
-  - time: '00:00'
+  - time: '16:02'
     title: 'Вадим тайный романтик'
-  - time: '00:00'
+  - time: '33:49'
     title: 'Слава стесняется рока'
 layout: episode.njk
 tags: episode
@@ -21,9 +21,9 @@ tags: episode
   [Spotify](https://open.spotify.com/track/1xea5ZLbyQI7nvZlceYDPs),
   [Tidal](https://tidal.com/browse/track/17409468)
 
-### Chris de Burgh — The Lady in Red
+### Chris de Burgh — The Lady in Red
 
-- Песня «The Lady in Red» в
+- Песня «The Lady in Red» в
   [Apple Music](https://music.apple.com/album/1435413615?i=1435413620),
   [Яндекс.Музыке](https://music.yandex.ru/album/5534502/track/10858),
   [Spotify](https://open.spotify.com/track/5tHbBxWjTxaQpL5SrT17Tz),
