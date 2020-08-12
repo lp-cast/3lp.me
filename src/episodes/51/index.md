@@ -17,11 +17,11 @@ tags: episode
 
 - Сингл «Key nell» в
   [Spotify](https://open.spotify.com/album/5yNyACuil6o4tglWiZAAMJ),
-  [Discogs](https://www.discogs.com/ru/Gescom-Key-Nell/release/161)
+  [Discogs](https://www.discogs.com/master/18519)
 - Альбом «A1-D1» в
-  [Apple Music](https://music.apple.com/album/a1-d1/266206483),
+  [Apple Music](https://music.apple.com/album/266206483),
   [Spotify](https://open.spotify.com/playlist/18EtI3u6N0ENtDQo1E4OQ1),
-  [Discogs](https://www.discogs.com/ru/Gescom-A1-D1/release/1109453)
+  [Discogs](https://www.discogs.com/master/731245)
 - Autechre на [Discogs](https://www.discogs.com/artist/41-Autechre)
 
 ### Песни
