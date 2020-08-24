@@ -17,10 +17,10 @@ tags: episode
 
 - Альбом «May your heart be the map» в
   [Apple Music](https://music.apple.com/album/368029682),
-  [Яндекс.Музыке](TODO),
-  [Spotify](TODO),
-  [Tidal](TODO),
-  [Discogs](TODO)
+  [Яндекс.Музыке](https://music.yandex.ru/album/6592869),
+  [Spotify](https://open.spotify.com/playlist/58A9CGM5lE44RMQV6p6lLc),
+  [Tidal](https://tidal.com/browse/album/35532275),
+  [Discogs](https://www.discogs.com/Epic45-May-Your-Heart-Be-The-Map/release/1002043)
 
 ### Песни
 
