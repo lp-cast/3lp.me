@@ -1,13 +1,13 @@
 ---
 number: 52
 title: 'В котором Epic45 TODO'
-date: 2020-08-25
+date: 2020-08-26
 chapters:
-  - time: '00:00'
+  - time: '02:44'
     title: 'TODO'
-  - time: '00:00'
+  - time: '12:08'
     title: 'TODO'
-  - time: '00:00'
+  - time: '17:22'
     title: 'TODO'
 layout: episode.njk
 tags: episode
@@ -28,6 +28,7 @@ tags: episode
   [сайт](http://epic45.com/)
 - [Клип «Summer’s first breath»](https://youtu.be/uJHw94x-R44)
 - [Клип «Outside»](https://youtu.be/iIDnbLApzO4)
+- [musicForProgramming](http://musicforprogramming.net)
 
 ### Песни
 
