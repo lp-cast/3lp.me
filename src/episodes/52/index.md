@@ -20,7 +20,14 @@ tags: episode
   [Яндекс.Музыке](https://music.yandex.ru/album/6592869),
   [Spotify](https://open.spotify.com/playlist/58A9CGM5lE44RMQV6p6lLc),
   [Tidal](https://tidal.com/browse/album/35532275),
-  [Discogs](https://www.discogs.com/Epic45-May-Your-Heart-Be-The-Map/release/1002043)
+  [Discogs](https://www.discogs.com/master/171303)
+- Epic45:
+  [Ютуб](https://www.youtube.com/user/waysideandwoodland),
+  [Фейсбук](https://www.facebook.com/epic45official/),
+  [Твиттер](https://twitter.com/epic45),
+  [сайт](http://epic45.com/)
+- [Клип «Summer’s first breath»](https://youtu.be/uJHw94x-R44)
+- [Клип «Outside»](https://youtu.be/iIDnbLApzO4)
 
 ### Песни
 
@@ -31,4 +38,4 @@ tags: episode
 Все права на музыку принадлежат законным правообладателям.
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
-Фотография на обложке — [TODO](TODO).
+Фотография на обложке — [Arno Senoner](https://unsplash.com/photos/rmxuKJqMUVE).
