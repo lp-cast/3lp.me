@@ -83,7 +83,7 @@ module.exports = function(config) {
         htmlTemplateEngine: 'njk',
         passthroughFileCopy: true,
         templateFormats: [
-            'md'
+            'md', 'njk'
         ],
     };
 };

@@ -1,6 +1,0 @@
----
-title: LP
-layout: main.njk
----
-
-{% include 'links.md' %}

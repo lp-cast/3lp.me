@@ -1,6 +1,7 @@
 ---
 title: LP
 layout: page.njk
+permalink: index.html
 ---
 
 {% include 'header.njk' %}
@@ -17,7 +18,7 @@ layout: page.njk
                 и <a href="https://twitter.com/miripiruni">Слава</a>
                 болтают о любимых пластинках и делятся историями.
             </p>
-            {{ content | safe }}
+            {% include 'links.md' %}
         </div>
     </div>
     <a class="patreon box box--compact" href="https://www.patreon.com/lp_cast">

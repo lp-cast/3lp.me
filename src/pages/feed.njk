@@ -27,18 +27,16 @@ permalink: feed/index.xml
 {%- for episode in collections.episode | reverse -%}
 
     {% set description %}
-        {{ content | safe }}
         <ul>
             {%- for chapter in episode.data.chapters -%}
                 <li>{{ chapter.time }} {{ chapter.title }}</li>
             {%- endfor -%}
         </ul>
-        <h2>Ведущие</h2>
-        <ul>
-            <li><a href="https://twitter.com/not_plasticine">Маша Аникеева</a></li>
-            <li><a href="https://twitter.com/pepelsbey">Вадим Макеев</a></li>
-            <li><a href="https://twitter.com/miripiruni">Слава Олиянчук</a></li>
-        </ul>
+        <p>
+            <a href="https://twitter.com/not_plasticine">Маша Аникеева</a>,
+            <a href="https://twitter.com/pepelsbey">Вадим Макеев</a>,
+            <a href="https://twitter.com/miripiruni">Слава Олиянчук</a>
+        </p>
         {{ episode.templateContent | safe }}
     {% endset %}
 
