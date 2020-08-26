@@ -6,6 +6,14 @@ module.exports = function(config) {
     config.addPassthroughCopy('src/styles');
     config.addPassthroughCopy('src/episodes/**/*.(jpg|mp3)');
 
+    config.addPairedShortcode('markdown', (content) => {
+        const markdown = require('markdown-it')({
+            html: true
+        });
+
+        return markdown.render(content);
+    });
+
     config.addFilter('length', function(path) {
         const fs = require('fs');
         const stats = fs.statSync(path);

@@ -18,7 +18,9 @@ permalink: index.html
                 и <a href="https://twitter.com/miripiruni">Слава</a>
                 болтают о любимых пластинках и делятся историями.
             </p>
-            {% include 'links.md' %}
+            {% markdown %}
+                {%- include 'links.md' -%}
+            {% endmarkdown %}
         </div>
     </div>
     <a class="patreon box box--compact" href="https://www.patreon.com/lp_cast">
