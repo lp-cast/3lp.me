@@ -1,21 +1,21 @@
 ---
 number: 52
-title: 'В котором Epic45 TODO'
+title: 'В котором Epic45 провожают лето'
 date: 2020-08-26
 chapters:
   - time: '02:44'
-    title: 'TODO'
+    title: 'Яблочки закругляются'
   - time: '12:08'
-    title: 'TODO'
+    title: 'Из природы делают музыку'
   - time: '17:22'
-    title: 'TODO'
+    title: 'Невозможная фоновая'
 layout: episode.njk
 tags: episode
 ---
 
-### Epic45 — May your heart be the map
+### Epic45 — May your heart be the map
 
-- Альбом «May your heart be the map» в
+- Альбом «May your heart be the map» в
   [Apple Music](https://music.apple.com/album/368029682),
   [Яндекс.Музыке](https://music.yandex.ru/album/6592869),
   [Spotify](https://open.spotify.com/playlist/58A9CGM5lE44RMQV6p6lLc),
