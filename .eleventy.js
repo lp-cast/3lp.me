@@ -48,7 +48,7 @@ module.exports = function(config) {
     });
 
     config.addFilter('htmlmin', function(value) {
-        let htmlmin = require('html-minifier');
+        const htmlmin = require('html-minifier');
         return htmlmin.minify(
             value, {
                 removeComments: true,
@@ -59,8 +59,8 @@ module.exports = function(config) {
 
     config.addTransform('htmlmin', (content, outputPath) => {
         if(outputPath && outputPath.endsWith('.html')) {
-            let htmlmin = require('html-minifier');
-            let result = htmlmin.minify(
+            const htmlmin = require('html-minifier');
+            const result = htmlmin.minify(
                 content, {
                     removeComments: true,
                     collapseWhitespace: true
@@ -73,7 +73,7 @@ module.exports = function(config) {
 
     config.addTransform('xmlmin', function(content, outputPath) {
         if(outputPath && outputPath.endsWith('.xml')) {
-            let prettydata = require('pretty-data');
+            const prettydata = require('pretty-data');
             return prettydata.pd.xmlmin(content);
         }
         return content;
