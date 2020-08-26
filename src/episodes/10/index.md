@@ -31,6 +31,7 @@ tags: episode
 3. John Frusciante — Mistakes
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Paweł Czerwiński](https://unsplash.com/photos/BP2RioglKXk).

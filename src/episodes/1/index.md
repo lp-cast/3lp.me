@@ -60,6 +60,7 @@ tags: episode
 - [Игрушки по мотивам обложки альбома](https://thevinylfactory.com/news/unkle-release-limited-edition-action-figures-mount-on-turntable/)
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Университет Рочестера](https://rochester.edu/).

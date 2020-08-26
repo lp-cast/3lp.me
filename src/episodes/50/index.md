@@ -37,6 +37,7 @@ tags: episode
   [Spotify](https://open.spotify.com/track/1BNdF4Z0N58AQUmtlU0K7p)
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Erwan Hesry](https://unsplash.com/photos/WPTHZkA-M4I).

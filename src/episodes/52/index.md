@@ -37,6 +37,7 @@ tags: episode
 3. Epic45 — We grew up playing in the fields of England
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Arno Senoner](https://unsplash.com/photos/rmxuKJqMUVE).

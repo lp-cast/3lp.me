@@ -44,6 +44,7 @@ tags: episode
 3. Cocteau Twins — Ivo
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Colin Funke](https://unsplash.com/photos/8WCNQPEQN00).

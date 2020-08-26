@@ -32,6 +32,7 @@ tags: episode
 3. Michelle Gurevich — Friday Night
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Mathew Schwartz](https://unsplash.com/photos/-MY7-K4X5C0).

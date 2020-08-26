@@ -38,6 +38,7 @@ tags: episode
 3. Les Discrets — Septembre Et Ses Dernières Pensées
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Rolands Varsbergs](https://unsplash.com/photos/R-Z1BYePvd8).

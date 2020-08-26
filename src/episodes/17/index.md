@@ -37,6 +37,7 @@ tags: episode
 3. Hannah Fury — No Man Alive
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Miroslava](https://unsplash.com/photos/ct_zXHu8rcM).

@@ -33,6 +33,7 @@ tags: episode
 3. Scout Niblett — Dinosaur Egg
 
 Все права на музыку принадлежат законным правообладателям.
+
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Daiga Ellaby](https://unsplash.com/photos/eB6RTmE2ky4).
