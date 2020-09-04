@@ -50,7 +50,7 @@ permalink: index.html
             </ul>
         </div>
         <div class="content">
-            {{ episode.data.content | safe }}
+            {{ episode.templateContent | safe }}
         </div>
     </article>
     {%- endfor -%}
