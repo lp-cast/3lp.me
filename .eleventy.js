@@ -1,4 +1,10 @@
-module.exports = function(config) {
+const fs = require('fs');
+const htmlmin = require('html-minifier');
+const markdown = require('markdown-it')({ html: true });
+const music = require('music-metadata');
+const prettydata = require('pretty-data');
+
+module.exports = (config) => {
     config.addPassthroughCopy('src/favicon.ico');
     config.addPassthroughCopy('src/fonts');
     config.addPassthroughCopy('src/images');
@@ -7,28 +13,22 @@ module.exports = function(config) {
     config.addPassthroughCopy('src/episodes/**/*.(jpg|mp3)');
 
     config.addPairedShortcode('markdown', (content) => {
-        const markdown = require('markdown-it')({
-            html: true
-        });
-
         return markdown.render(content);
     });
 
-    config.addFilter('length', function(path) {
-        const fs = require('fs');
+    config.addFilter('length', (path) => {
         const stats = fs.statSync(path);
+
         return stats.size;
     });
 
-    function getDuration(path) {
-        const music = require('music-metadata');
-
+    const getDuration = (path) => {
         return music.parseFile(path)
             .then(metadata => {
                 const duration = parseFloat(metadata.format.duration);
                 const date = new Date(null).setSeconds(Math.ceil(duration));
 
-                return new Intl.DateTimeFormat('en-US', {
+                return new Intl.DateTimeFormat('en', {
                     hour: 'numeric',
                     minute: 'numeric',
                     second: 'numeric',
@@ -41,14 +41,13 @@ module.exports = function(config) {
             });
     }
 
-    config.addNunjucksAsyncFilter('duration', async function (path, callback) {
+    config.addNunjucksAsyncFilter('duration', async (path, callback) => {
         const duration = await getDuration(path);
 
         callback(null, duration);
     });
 
-    config.addFilter('htmlmin', function(value) {
-        const htmlmin = require('html-minifier');
+    config.addFilter('htmlmin', (value) => {
         return htmlmin.minify(
             value, {
                 removeComments: true,
@@ -59,23 +58,24 @@ module.exports = function(config) {
 
     config.addTransform('htmlmin', (content, outputPath) => {
         if(outputPath && outputPath.endsWith('.html')) {
-            const htmlmin = require('html-minifier');
             const result = htmlmin.minify(
                 content, {
                     removeComments: true,
                     collapseWhitespace: true
                 }
             );
+
             return result;
         }
+
         return content;
     });
 
-    config.addTransform('xmlmin', function(content, outputPath) {
+    config.addTransform('xmlmin', (content, outputPath) => {
         if(outputPath && outputPath.endsWith('.xml')) {
-            const prettydata = require('pretty-data');
             return prettydata.pd.xmlmin(content);
         }
+
         return content;
     });
 
