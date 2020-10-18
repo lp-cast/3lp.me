@@ -1,6 +1,6 @@
 ---
 number: 57
-title: 'В котором…'
+title: 'В котором Том Йорк …'
 date: 2020-01-01
 chapters:
   - time: '00:00'
@@ -13,14 +13,27 @@ layout: episode.njk
 tags: episode
 ---
 
-### ARTIST — ALBUM
+### Thom Yorke — Anima
 
-- Альбом «ALBUM» в
-  [Apple Music](TODO),
-  [Яндекс.Музыке](TODO),
-  [Spotify](TODO),
-  [Tidal](TODO),
-  [Discogs](TODO)
+- Альбом «Anima» в
+  [Apple Music](https://music.apple.com/album/anima/1467347588),
+  [Яндекс.Музыке](https://music.yandex.ru/album/7893853),
+  [Spotify](https://open.spotify.com/playlist/2WahwZk2zi9NBZypvdv6ta),
+  [Tidal](https://tidal.com/browse/album/112214233),
+  [Discogs](https://www.discogs.com/Thom-Yorke-Anima/release/13938443)
+- Альбом «The Eraser» в
+  [Apple Music](https://music.apple.com/album/the-eraser/161162568),
+  [Яндекс.Музыке](https://music.yandex.ru/album/720125),
+  [Spotify](https://open.spotify.com/album/4QSIeDnAnGag2YZ5DjB2eB),
+  [Tidal](https://tidal.com/browse/album/2215056), 
+  [Discogs](https://www.discogs.com/Thom-Yorke-The-Eraser/release/2979143)
+- Короткометражный фильм «Anima» на [Netflix](https://www.netflix.com/watch/81110498), реж. Пол Андерсон
+- Альбом «Tomorrows Modern Boxes» в
+  [Apple Music](https://music.apple.com/album/tomorrows-modern-boxes/1262568019), 
+  [Яндекс.Музыке](https://music.yandex.ru/album/3693911), 
+  [Spotify](https://open.spotify.com/playlist/5Cqu3cqCZEM2wvecnRho4u), 
+  [Tidal](https://listen.tidal.com/track/82110526?play=true), 
+  [Discogs](https://www.discogs.com/Thom-Yorke-Tomorrows-Modern-Boxes/master/737819)
 
 ### Песни
 
