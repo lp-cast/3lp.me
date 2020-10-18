@@ -37,9 +37,9 @@ tags: episode
 
 ### Песни
 
-1. ARTIST — SONG
-2. ARTIST — SONG
-3. ARTIST — SONG
+1. Thom Yorke — Dawn chorus
+2. Thom Yorke — The axe
+3. Thom Yorke — Twist
 
 Все права на музыку принадлежат законным правообладателям.
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
