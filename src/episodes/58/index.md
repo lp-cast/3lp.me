@@ -5,9 +5,9 @@ date: 2020-11-30
 chapters:
   - time: '05:18'
     title: 'Безумная датская сказка'
-  - time: '17:50'
+  - time: '17:41'
     title: 'Ведьмы это здорово'
-  - time: '28:19'
+  - time: '28:10'
     title: 'Привидения существуют'
 layout: episode.njk
 tags: episode
