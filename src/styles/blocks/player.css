@@ -24,14 +24,16 @@
 }
 
 .player__chapter {
-    padding-left: 55px;
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: min-content 1fr;
+    align-items: start;
     margin: 0 0 13px 0;
     line-height: 1.4;
 }
 
 .player__timecode {
-    position: absolute;
-    margin-left: -55px;
+    margin: -2px 0 0 0;
     padding: 4px 7px 3px;
     border-style: none;
     border-radius: 28px;
