@@ -1,0 +1,43 @@
+/* Navigation */
+
+.navigation {
+    background-color: white;
+}
+
+.navigation__title {
+    margin: 0 0 10px 0;
+    line-height: 1;
+    font-family: 'DIN Condensed', sans-serif;
+    font-size: 24px;
+}
+
+.navigation__list {
+    margin: 0 -4px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navigation__item {
+    list-style: none;
+}
+
+.navigation__item::before {
+    content: '\200B';
+}
+
+.navigation__link {
+    padding: 4px;
+    color: #007bc1;
+    text-decoration: none;
+}
+
+.navigation__link:focus {
+    outline: none;
+    border-radius: 4px;
+    box-shadow: 0 0 0 4px rgba(0, 123, 193, 0.25);
+}
+
+.navigation__link[aria-current] {
+    font-weight: bold;
+}
