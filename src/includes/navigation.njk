@@ -1,7 +1,7 @@
 <nav class="navigation box box--compact">
     <h2 class="navigation__title">Страницы</h2>
     <ul class="navigation__list">
-        {%- for pageEntry in pagination.pages %}
+        {%- for pageEntry in pagination.pages -%}
         <li class="navigation__item">
             <a class="navigation__link"
                 href="{{ pagination.hrefs[loop.index0] }}"
