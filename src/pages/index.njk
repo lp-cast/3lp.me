@@ -1,12 +1,7 @@
 ---
-eleventyComputed:
-    title: Страница {{ pagination.pageNumber + 1 }}
+title: LP
 layout: page.njk
-permalink: pages/{{ pagination.pageNumber + 1 }}/index.html
-pagination:
-    data: collections.episode
-    size: 10
-    reverse: true
+permalink: index.html
 ---
 
 {% include 'header.njk' %}
@@ -31,7 +26,8 @@ pagination:
     <a class="patreon box box--compact" href="https://www.patreon.com/lp_cast">
         Поддержите нас на Патреоне!
     </a>
-    {%- for episode in pagination.items -%}
+    {%- for episode in collections.episode | reverse -%}
+        {%- if loop.index <= 10 -%}
     <article class="episode box" id="e{{ episode.data.number }}">
         <h2 class="episode__title">
             <a class="episode__link" href="{{ episode.url }}">
@@ -58,8 +54,8 @@ pagination:
             {{ episode.templateContent | safe }}
         </div>
     </article>
+        {%- endif -%}
     {%- endfor -%}
-    {% include 'navigation.njk' %}
 </main>
 
 {% include 'footer.njk' %}
