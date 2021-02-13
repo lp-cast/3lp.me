@@ -71,10 +71,6 @@ module.exports = (config) => {
         return content;
     });
 
-    config.setBrowserSyncConfig({
-        startPath: '/pages/1/'
-    });
-
     return {
         dir: {
             input: 'src',
