@@ -4,7 +4,7 @@
     "start": "eleventy --serve --quiet",
     "11ty": "eleventy",
     "pack": "gulp build",
-    "build": "npm run 11ty && npm run pack",
+    "build": "rm -rf dist && npm run 11ty && npm run pack",
     "deploy": "cd dist && rsync --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
   },
   "devDependencies": {
