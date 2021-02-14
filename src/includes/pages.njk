@@ -1,23 +1,16 @@
-<nav class="navigation box box--compact">
-    <h2 class="navigation__title">Страницы</h2>
-    <ul class="navigation__list">
+<nav class="pages">
+    <ul class="pages__list">
         {%- for pageEntry in pagination.pages -%}
-        <li class="navigation__item">
-            <a class="navigation__link"
+        <li class="pages__item">
+            <a class="pages__link"
                 href="{{ pagination.hrefs[loop.index0] }}"
                 aria-label="Страница {{ loop.index }}"
-                {% if page.url == pagination.hrefs[loop.index0] %}aria-current="page"{% endif %}>
+                {% if page.url == pagination.hrefs[loop.index0] %}
+                    aria-current="page"
+                {% endif %}>
                 {{ loop.index }}
             </a>
         </li>
         {%- endfor -%}
-    </ul>
-    <ul class="navigation__list">
-        <li class="navigation__item">
-            <a class="navigation__link" href="{{ pagination.href.first }}">На первую</a>
-        </li>
-        <li class="navigation__item">
-            <a class="navigation__link" href="{{ pagination.href.last }}">На последнюю</a>
-        </li>
     </ul>
 </nav>
