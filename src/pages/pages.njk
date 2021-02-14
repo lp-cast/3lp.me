@@ -1,8 +1,8 @@
 ---
 eleventyComputed:
-    title: Страница {{ pagination.pageNumber + 1 }}
+    title: "{% if pagination.pageNumber > 0 %}Страница {{ pagination.pageNumber + 1 }}{% else %}LP{% endif %}"
 layout: page.njk
-permalink: page/{{ pagination.pageNumber + 1 }}/index.html
+permalink: "{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
     data: collections.episode
     size: 10
