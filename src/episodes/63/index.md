@@ -3,11 +3,11 @@ number: 63
 title: 'В котором кисло-сладкие The National'
 date: 2021-02-15
 chapters:
-  - time: 00:06:29
+  - time: '06:29'
     title: 'Проблемы с текстом'
-  - time: 00:18:43
+  - time: '18:43'
     title: 'Ударная линия'
-  - time: 00:28:15
+  - time: '28:15'
     title: 'Кайф от мелодизма'
 layout: episode.njk
 tags: episode
