@@ -3,11 +3,11 @@ number: TODO
 title: 'В котором TODO'
 date: 3000-01-01
 chapters:
-  - time: 00:00:00
+  - time: '00:00'
     title: 'TODO'
-  - time: 00:00:00
+  - time: '00:00'
     title: 'TODO'
-  - time: 00:00:00
+  - time: '00:00'
     title: 'TODO'
 layout: episode.njk
 tags: episode
