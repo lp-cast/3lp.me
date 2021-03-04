@@ -8,22 +8,22 @@ chapters:
   - time: '12:08'
     title: 'Наивные мелодии гитары'
   - time: '20:04'
-    title: 'Воздушная, но плита'
+    title: 'Воздушная, но плита'
   - time: '28:30'
-    title: 'И другие альбомы'
+    title: 'И другие альбомы'
 layout: episode.njk
 tags: episode
 ---
 
 ### The Radio Dept. — Pet Grief
 
-- The Radio Dept, альбом «Pet Grief» в
+- Альбом «Pet Grief» в
   [Apple Music](https://music.apple.com/album/1518908204),
   [Яндекс.Музыке](https://music.yandex.ru/album/6282191),
   [Spotify](https://open.spotify.com/album/2YZgQN5XsbZmfGYST65Kfm),
   [Tidal](https://tidal.com/browse/album/145365816),
   [Discogs](https://www.discogs.com/master/53117)
-- The Radio Dept, альбом «Clinging to a Scheme» в
+- Альбом «Clinging to a Scheme» в
   [Apple Music](https://music.apple.com/album/1518908645),
   [Яндекс.Музыке](https://music.yandex.ru/album/6082077),
   [Spotify](https://open.spotify.com/album/6JPRvwSakxGHjMQM18AcAu),
