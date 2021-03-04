@@ -3,9 +3,16 @@
 
     const getSeconds = timing => {
         const parsed = timing.split(':');
-        const [min, sec] = parsed.map(Number);
 
-        return min * 60 + sec;
+        if (parsed.length === 2) {
+            const [min, sec] = parsed.map(Number);
+            return min * 60 + sec;
+        }
+
+        if (parsed.length === 3) {
+            const [hour, min, sec] = parsed.map(Number);
+            return hour * 3600 + min * 60 + sec;
+        }
     };
 
     [...players].forEach(player => {
