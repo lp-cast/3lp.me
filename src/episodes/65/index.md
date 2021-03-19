@@ -3,13 +3,13 @@ number: 65
 title: 'В котором Myrkur звучит в тёмном страшном доме'
 date: 2021-03-19
 chapters:
-  - time: 00:06:36
+  - time: '06:36'
     title: 'Милая тихая музыка'
-  - time: 00:13:58
+  - time: '13:58'
     title: 'Сгоревшие рецепторы'
-  - time: 00:22:59
+  - time: '22:59'
     title: 'Кафедральный звук'
-  - time: 00:33:00
+  - time: '33:00'
     title: 'Тьма и тыквы'
 layout: episode.njk
 tags: episode
