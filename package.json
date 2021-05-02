@@ -8,19 +8,19 @@
     "deploy": "cd dist && rsync --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "@babel/core": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
+    "@11ty/eleventy": "^0.12.1",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-postcss": "^9.0.0",
-    "gulp-replace": "^1.0.0",
+    "gulp-replace": "^1.1.2",
     "gulp-uglify": "^3.0.2",
     "html-minifier": "^4.0.0",
-    "music-metadata": "^7.8.1",
-    "postcss": "^8.2.8",
-    "postcss-csso": "^5.0.0",
-    "postcss-import": "^14.0.0",
+    "music-metadata": "^7.8.5",
+    "postcss": "^8.2.13",
+    "postcss-csso": "^5.0.1",
+    "postcss-import": "^14.0.1",
     "pretty-data": "^0.40.0"
   }
 }
