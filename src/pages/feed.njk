@@ -55,7 +55,7 @@ permalink: feed/index.xml
         <itunes:duration>{{ filePath | duration }}</itunes:duration>
         <itunes:author>Маша Аникеева, Вадим Макеев, Слава Олиянчук</itunes:author>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:summary>{{ episode.data.title }}.</itunes:summary>
+        <itunes:summary><![CDATA[{{ description | htmlmin | safe }}]]></itunes:summary>
         <itunes:image href="https://3lp.me/episodes/{{ episode.data.number }}/cover.jpg"/>
     </item>
 
