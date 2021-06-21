@@ -18,7 +18,7 @@ tags: episode
 - Альбом «ALBUM» в
   [Apple Music](https://music.apple.com/album/ID),
   [Яндекс.Музыке](https://music.yandex.ru/album/ID),
-  [Spotify](https://open.spotify.com/track/ID),
+  [Spotify](https://open.spotify.com/album/ID),
   [Tidal](https://tidal.com/browse/album/ID),
   [Discogs](https://www.discogs.com/master/ID)
 
