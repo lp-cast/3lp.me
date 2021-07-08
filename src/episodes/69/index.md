@@ -1,7 +1,7 @@
 ---
 number: 69
 title: 'В котором Trentemøller предаёт электронику'
-date: 3000-01-01
+date: 2021-06-22
 chapters:
   - time: '07:50'
     title: 'Пост-всё'
