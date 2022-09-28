@@ -31,6 +31,8 @@ tags: episode
   [Discogs](https://www.discogs.com/master/7043)
 - [Дворик в Осло](https://www.instagram.com/p/z6JpmEszk7/)
 
+[Чат в Телеграме](https://t.me/oh_lp_chat)
+
 Все права на музыку принадлежат законным правообладателям.
 Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
