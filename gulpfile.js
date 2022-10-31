@@ -42,9 +42,9 @@ gulp.task('scripts:compress', () => {
 gulp.task('scripts:inline', () => {
     return gulp.src('dist/**/*.html')
         .pipe(replace(
-            /<script src="\/scripts\/scripts.js"><\/script>/, () => {
-                const style = fs.readFileSync('dist/scripts.js', 'utf8');
-                return '<script>' + style + '</script>';
+            /<script src="\/scripts\/scripts.js" defer><\/script>/, () => {
+                const script = fs.readFileSync('dist/scripts.js', 'utf8');
+                return '<script>' + script + '</script>';
             }
         ))
         .pipe(gulp.dest('dist'));
