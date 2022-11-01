@@ -48,8 +48,8 @@ module.exports = (config) => {
         sortClassName: true,
     }
 
-    config.addFilter('htmlmin', (value) => {
-        return htmlmin.minify(
+    config.addFilter('htmlmin', async (value) => {
+        return await htmlmin.minify(
             value,
             htmlminSettings,
         );
