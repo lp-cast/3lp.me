@@ -1,4 +1,4 @@
-(function () {
+document.addEventListener('DOMContentLoaded', () => {
     const players = document.querySelectorAll('.player');
 
     const getSeconds = timing => {
@@ -36,4 +36,4 @@
             timecode.replaceWith(button);
         });
     });
-}());
+});
