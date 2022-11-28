@@ -14,6 +14,5 @@
   [YouTube](https://www.youtube.com/channel/UCY-bZ1yA2I_6SVAxIv1Cewg)
   или подписывайтесь [на RSS](https://3lp.me/feed/)
   в любом приложении для подкастов.
-Ищите код сайта [на Гитхабе](https://github.com/lp-cast/3lp.11ty).
-Поддержите нас [на Патреоне](https://www.patreon.com/lp_cast)
+Заходите в наш [чат в Телеграме](https://t.me/oh_lp_chat)
 и пишите письма: [hi@3lp.me](mailto:hi@3lp.me).
