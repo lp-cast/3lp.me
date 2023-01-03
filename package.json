@@ -8,7 +8,7 @@
     "deploy": "cd dist && rsync --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.18",
+    "@11ty/eleventy": "^2.0.0-canary.23",
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
     "del": "6.1.1",
