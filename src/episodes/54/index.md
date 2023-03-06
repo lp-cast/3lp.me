@@ -13,7 +13,7 @@ layout: episode.njk
 tags: episode
 ---
 
-### Death from Above 1979 — ‎Heads up
+### Death from Above 1979 — Heads up
 
 - Альбом «Heads up» в
   [Apple Music](https://music.apple.com/album/1437254107),

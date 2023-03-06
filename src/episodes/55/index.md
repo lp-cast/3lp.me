@@ -13,9 +13,9 @@ layout: episode.njk
 tags: episode
 ---
 
-### Echo & The Bunnymen — ‎Porcupine
+### Echo & The Bunnymen — Porcupine
 
-- Альбом «‎Porcupine» в
+- Альбом «Porcupine» в
   [Apple Music](https://music.apple.com/album/31740123),
   [Яндекс.Музыке](https://music.yandex.ru/album/44508),
   [Spotify](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC),
