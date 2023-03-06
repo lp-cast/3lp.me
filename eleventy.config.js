@@ -3,6 +3,7 @@ const htmlmin = require('html-minifier-terser');
 const markdown = require('markdown-it')({ html: true });
 const music = require('music-metadata');
 const prettydata = require('pretty-data');
+const yaml = require('js-yaml');
 
 module.exports = (config) => {
     config.addPassthroughCopy('src/favicon.ico');
@@ -11,6 +12,10 @@ module.exports = (config) => {
     config.addPassthroughCopy('src/scripts');
     config.addPassthroughCopy('src/styles');
     config.addPassthroughCopy('src/episodes/**/*.(jpg|mp3)');
+
+    config.addDataExtension('yml', (contents) => {
+        return yaml.load(contents);
+    });
 
     config.addPairedShortcode('markdown', (content) => {
         return markdown.render(content);
@@ -81,7 +86,8 @@ module.exports = (config) => {
             input: 'src',
             output: 'dist',
             includes: 'includes',
-            layouts: 'layouts'
+            layouts: 'layouts',
+            data: 'data',
         },
         dataTemplateEngine: 'njk',
         markdownTemplateEngine: 'njk',
