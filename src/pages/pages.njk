@@ -1,6 +1,6 @@
 ---
 eleventyComputed:
-    title: "{% if pagination.pageNumber > 0 %}Страница {{ pagination.pageNumber + 1 }}{% else %}LP{% endif %}"
+    title: "{% if pagination.pageNumber > 0 %}Страница {{ pagination.pageNumber + 1 }}{% else %}{{ meta.title }}{% endif %}"
 layout: page.njk
 permalink: "{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
@@ -15,12 +15,12 @@ pagination:
 <main class="page__main main">
     <div class="main__intro box">
         <div class="content">
-            <h1 class="main__title">LP</h1>
+            <h1 class="main__title">Любимые пластинки</h1>
             <p>
                 Любимые пластинки — дилетантский подкаст про музыку.
                 <a href="https://twitter.com/not_plasticine">Маша</a>
                 и <a href="https://twitter.com/pepelsbey">Вадим</a>
-                болтают о любимых пластинках и делятся историями.
+                болтают о любимых альбомах и делятся историями.
             </p>
             {% markdown %}
                 {%- include 'links.md' -%}

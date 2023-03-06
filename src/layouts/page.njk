@@ -3,20 +3,20 @@
 <head>
     <meta charset="utf-8">
     <title>
-        {{ title }}{% if page.url != '/' %} — LP{% endif %}
+        {{ title }}{% if page.url != '/' %} — {{ meta.title }}{% endif %}
     </title>
 
-    <meta name="description" content="Любимые пластинки — дилетантский подкаст про музыку. Маша, Вадим и Слава болтают о любимых пластинках и делятся историями.">
+    <meta name="description" content="{{ meta.subtitle }}. {{ meta.description }}">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="LP">
-    <meta property="og:site_name" content="Дилетантский подкаст про музыку">
+    <meta property="og:title" content="{{ meta.title }}">
+    <meta property="og:site_name" content="{{ meta.subtitle }}">
     <meta property="og:url" content="https://3lp.me/">
     <meta property="og:image" content="https://3lp.me/images/social.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="LP">
-    <meta name="twitter:description" content="Дилетантский подкаст про музыку">
+    <meta name="twitter:title" content="{{ meta.title }}">
+    <meta name="twitter:description" content="{{ meta.subtitle }}">
     <meta name="twitter:site" content="https://3lp.me/">
     <meta name="twitter:image" content="https://3lp.me/images/social.jpg">
 
