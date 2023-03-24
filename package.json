@@ -5,7 +5,7 @@
     "11ty": "eleventy",
     "pack": "gulp build",
     "build": "rm -rf dist && npm run 11ty && npm run pack",
-    "deploy": "cd dist && rsync --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
+    "deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
