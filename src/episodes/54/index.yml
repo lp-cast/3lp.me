@@ -1,0 +1,12 @@
+number: 54
+title: 'В котором Death from Above 1979 носят хоботы'
+date: 2020-09-18
+chapters:
+  - time: '04:56'
+    title: 'Яркое начало с почерком'
+  - time: '11:12'
+    title: 'Хороший панк нагружен'
+  - time: '18:53'
+    title: 'Грязно и талантливо'
+layout: episode.njk
+tags: episode

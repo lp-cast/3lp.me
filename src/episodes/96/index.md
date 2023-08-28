@@ -1,18 +1,3 @@
----
-number: 96
-title: 'В котором громкие и цепкие Screaming Females'
-date: 2023-06-05
-chapters:
-  - time: '08:58'
-    title: 'Не сразу понял'
-  - time: '18:15'
-    title: 'Лёгкие песенки'
-  - time: '28:04'
-    title: 'Припев для караоке'
-layout: episode.njk
-tags: episode
----
-
 ### Screaming Females — Desire Pathway
 
 - Альбом «Desire Pathway» в

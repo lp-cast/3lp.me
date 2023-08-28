@@ -1,18 +1,3 @@
----
-number: 70
-title: 'В котором Mew хочется включить погромче'
-date: 2021-07-08
-chapters:
-  - time: '05:17'
-    title: 'Замьюченные струны'
-  - time: '11:30'
-    title: 'Восходящие гитары'
-  - time: '20:50'
-    title: 'Пара скримов'
-layout: episode.njk
-tags: episode
----
-
 ### Mew — A Triumph for Man
 
 - Mew, альбом «A Triumph for Man» в

@@ -1,18 +1,3 @@
----
-number: 77
-title: 'В котором Black Midi, чушь собачья и вздор'
-date: 2021-12-27
-chapters:
-  - time: '07:14'
-    title: 'Звучит обложка'
-  - time: '19:48'
-    title: 'Всё-таки романс'
-  - time: '26:15'
-    title: 'Панк-кримсон'
-layout: episode.njk
-tags: episode
----
-
 ### Black Midi — Cavalcade
 
 - Альбом «Cavalcade» в

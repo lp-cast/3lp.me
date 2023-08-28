@@ -1,18 +1,3 @@
----
-number: 56
-title: 'В котором Пи Джей Харви записывает своего Левиафана'
-date: 2020-10-20
-chapters:
-  - time: '03:14'
-    title: 'Вафельный рожок'
-  - time: '12:16'
-    title: 'Еду я на родину'
-  - time: '23:23'
-    title: 'Цыганская в караоке'
-layout: episode.njk
-tags: episode
----
-
 ### PJ Harvey — Let England Shake
 
 - Альбом «Let England Shake» в

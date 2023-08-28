@@ -1,0 +1,12 @@
+number: 7
+title: 'В котором Sofa Surfers делают резкий поворот'
+date: 2019-08-22
+chapters:
+  - time: '01:07'
+    title: 'Вадим ест наушники'
+  - time: '11:40'
+    title: 'Музыка становится важнее вокала'
+  - time: '24:46'
+    title: 'Группа просто кайфово рубит'
+layout: episode.njk
+tags: episode

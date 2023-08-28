@@ -1,18 +1,3 @@
----
-number: 41
-title: 'В котором Краков любит Адану'
-date: 2020-05-15
-chapters:
-  - time: '03:46'
-    title: 'Лучше звоните Робу'
-  - time: '09:37'
-    title: 'Все хвалят вокал'
-  - time: '20:02'
-    title: 'Тайна названия не раскрыта'
-layout: episode.njk
-tags: episode
----
-
 ### Kraków Loves Adana — Call Yourself New
 
 - Альбом «Call Yourself New» в

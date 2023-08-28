@@ -1,18 +1,3 @@
----
-number: 33
-title: 'В котором Lunatic Soul делает польский прог'
-date: 2020-02-27
-chapters:
-  - time: '04:11'
-    title: 'Открывается первый парашют'
-  - time: '12:24'
-    title: 'Становится глубже и темнее'
-  - time: '25:52'
-    title: 'Всё начинается с этой песни'
-layout: episode.njk
-tags: episode
----
-
 ### Lunatic Soul — Lunatic Soul
 
 - Альбом «Lunatic Soul» в

@@ -1,18 +1,3 @@
----
-number: 26
-title: 'В котором ёлки зелёные, брызги шампанского'
-date: 2020-01-04
-chapters:
-  - time: '01:57'
-    title: 'Маша влюбляется со второго взгляда'
-  - time: '18:21'
-    title: 'Вадим всех обманывает и ставит барабаны'
-  - time: '34:44'
-    title: 'Слава ставит бутылочки, космос и трио'
-layout: episode.njk
-tags: episode
----
-
 ### A Place to Bury Strangers — Exploding Head
 
 - Альбом «Exploding Head» в

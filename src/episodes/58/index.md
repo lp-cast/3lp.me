@@ -1,18 +1,3 @@
----
-number: 58
-title: 'В котором Esben and the Witch и мрачные зайчики'
-date: 2020-11-30
-chapters:
-  - time: '05:18'
-    title: 'Безумная датская сказка'
-  - time: '17:41'
-    title: 'Ведьмы это здорово'
-  - time: '28:10'
-    title: 'Привидения существуют'
-layout: episode.njk
-tags: episode
----
-
 ### Esben and the Witch — Nowhere
 
 - Альбом «Nowhere» в

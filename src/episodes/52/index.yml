@@ -1,0 +1,12 @@
+number: 52
+title: 'В котором Epic45 провожают лето'
+date: 2020-08-26
+chapters:
+  - time: '02:44'
+    title: 'Яблочки закругляются'
+  - time: '12:08'
+    title: 'Из природы делают музыку'
+  - time: '17:22'
+    title: 'Невозможная фоновая'
+layout: episode.njk
+tags: episode

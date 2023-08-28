@@ -1,0 +1,12 @@
+number: 78
+title: 'В котором Наадя и… сложно что-то добавить'
+date: 2021-12-30
+chapters:
+  - time: '07:03'
+    title: 'Больше денег'
+  - time: '13:55'
+    title: 'Бегут лампочки'
+  - time: '23:03'
+    title: 'Лирика или музыка'
+layout: episode.njk
+tags: episode

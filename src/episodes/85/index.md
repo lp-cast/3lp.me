@@ -1,18 +1,3 @@
----
-number: 85
-title: 'В котором Portishead как красное вино'
-date: 2022-11-07
-chapters:
-  - time: '04:15'
-    title: 'Пришло время'
-  - time: '14:45'
-    title: 'Бистро «Колобок»'
-  - time: '27:01'
-    title: 'Ухнем в нору'
-layout: episode.njk
-tags: episode
----
-
 ### Portishead — Dummy
 
 - Альбом «Dummy» в

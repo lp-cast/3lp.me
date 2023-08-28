@@ -1,0 +1,12 @@
+number: 95
+title: 'В котором Bloc Party мокнут под весенним дождём'
+date: 2023-05-03
+chapters:
+  - time: '06:25'
+    title: 'Как я встретил'
+  - time: '19:43'
+    title: 'Тест на ножку'
+  - time: '28:31'
+    title: 'Правильные корни'
+layout: episode.njk
+tags: episode

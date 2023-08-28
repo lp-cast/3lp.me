@@ -1,18 +1,3 @@
----
-number: 39
-title: 'В котором Slowdive делают второй великий шугейз'
-date: 2020-05-01
-chapters:
-  - time: '01:12'
-    title: 'Хочется поставить сразу всё'
-  - time: '10:00'
-    title: 'Звукорежиссёр не нужен'
-  - time: '20:44'
-    title: 'Десяти треков достаточно'
-layout: episode.njk
-tags: episode
----
-
 ### Slowdive — Souvlaki
 
 - Альбом «Souvlaki» в

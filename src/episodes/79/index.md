@@ -1,18 +1,3 @@
----
-number: 79
-title: 'В котором романтичный, танцевальный и меланхоличный Новый год'
-date: 2021-12-31
-chapters:
-  - time: '02:24'
-    title: 'Романтично'
-  - time: '14:28'
-    title: 'Танцевально'
-  - time: '25:21'
-    title: 'Меланхолично'
-layout: episode.njk
-tags: episode
----
-
 ### The Chantels — Maybe
 
 - Песня «Maybe» в

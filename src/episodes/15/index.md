@@ -1,18 +1,3 @@
----
-number: 15
-title: 'В котором Karate пролетает мимо стриминга'
-date: 2019-10-17
-chapters:
-  - time: '04:46'
-    title: 'Бостонцы делают рок'
-  - time: '09:56'
-    title: 'Карманы пьют воду'
-  - time: '20:12'
-    title: 'Джаз пугает Машу'
-layout: episode.njk
-tags: episode
----
-
 ### Karate — Pockets
 
 - Альбом «Pockets» в

@@ -1,18 +1,3 @@
----
-number: 73
-title: 'В котором влиятельный тинейджер Шугги Отис'
-date: 2021-09-06
-chapters:
-  - time: '07:21'
-    title: 'Ося Шагин'
-  - time: '19:31'
-    title: 'Шапка и танцы на столе'
-  - time: '32:33'
-    title: 'Космический электроорган'
-layout: episode.njk
-tags: episode
----
-
 ### Shuggie Otis — Inspiration Information
 
 - Альбом «Inspiration Information» в

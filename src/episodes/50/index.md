@@ -1,18 +1,3 @@
----
-number: 50
-title: 'В котором Маша, Вадим и Слава ставят стыдное'
-date: 2020-08-04
-chapters:
-  - time: '04:33'
-    title: 'Маша приносит кардан'
-  - time: '16:02'
-    title: 'Вадим тайный романтик'
-  - time: '33:49'
-    title: 'Слава стесняется рока'
-layout: episode.njk
-tags: episode
----
-
 ### Machinae Supremacy — Laser Speed Force
 
 - Песня «Laser Speed Force» в

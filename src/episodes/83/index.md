@@ -1,18 +1,3 @@
----
-number: 83
-title: 'В котором Amenra — глубокое чёрное озеро'
-date: 2022-10-21
-chapters:
-  - time: '02:53'
-    title: 'Спотифай подсказал'
-  - time: '13:48'
-    title: 'Шансов нет совсем'
-  - time: '29:59'
-    title: 'Легко от тяжёлого'
-layout: episode.njk
-tags: episode
----
-
 ### Amenra — Mass VI
 
 - Альбом «Mass VI» в

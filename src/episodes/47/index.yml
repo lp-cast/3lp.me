@@ -1,0 +1,12 @@
+number: 47
+title: 'В котором Скаут Ниблетт испепеляет взглядом'
+date: 2020-07-09
+chapters:
+  - time: '03:03'
+    title: 'Дорожный блюз'
+  - time: '14:28'
+    title: 'Дурацкая романтика'
+  - time: '22:03'
+    title: 'Занимательная палеонтология'
+layout: episode.njk
+tags: episode

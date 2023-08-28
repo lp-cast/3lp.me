@@ -1,18 +1,3 @@
----
-number: 72
-title: 'В котором Dry Cleaning с новой длинной ногой'
-date: 2021-08-20
-chapters:
-  - time: '08:13'
-    title: 'Лицо за кулисами'
-  - time: '16:33'
-    title: 'С первого взгляда'
-  - time: '26:24'
-    title: 'Певцы быта'
-layout: episode.njk
-tags: episode
----
-
 ### Dry Cleaning — New Long Leg
 
 - Альбом «New Long Leg» в

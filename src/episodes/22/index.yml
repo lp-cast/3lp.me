@@ -1,0 +1,12 @@
+number: 22
+title: 'В котором Aphex Twin лупит по попу'
+date: 2019-12-06
+chapters:
+  - time: '03:00'
+    title: 'Дрова бегут, озеро бежит'
+  - time: '11:30'
+    title: 'Птицы поют дождливым утром'
+  - time: '22:39'
+    title: 'Aphex уже не пугает'
+layout: episode.njk
+tags: episode

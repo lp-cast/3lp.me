@@ -1,18 +1,3 @@
----
-number: 35
-title: 'В котором Майлз Дейвис открывает таланты'
-date: 2020-03-20
-chapters:
-  - time: '01:34'
-    title: 'От метала к джазу'
-  - time: '12:48'
-    title: 'Майлз тихо ищет'
-  - time: '24:16'
-    title: 'Труба ругается с саксофоном'
-layout: episode.njk
-tags: episode
----
-
 ### Miles Davis — Live in Germany 1988
 
 - [Плейлист на YouTube](https://www.youtube.com/playlist?list=PLOJ0PP3JfVh6lQmq4P3vl27VjGgUyUBZn)

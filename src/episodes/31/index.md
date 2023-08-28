@@ -1,18 +1,3 @@
----
-number: 31
-title: 'В котором Angelic Process рисуют самым глубоким чёрным'
-date: 2020-02-07
-chapters:
-  - time: '04:46'
-    title: 'Идёт ледяной дождь'
-  - time: '13:35'
-    title: 'Мы умираем смеясь'
-  - time: '25:29'
-    title: 'Трясина доходит до шеи'
-layout: episode.njk
-tags: episode
----
-
 ### The Angelic Process — Weighing Souls with Sand
 
 - Альбом «Weighing Souls with Sand» в

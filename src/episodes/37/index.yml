@@ -1,0 +1,12 @@
+number: 37
+title: 'В котором «И друг мой грузовик» ищет друга'
+date: 2020-04-07
+chapters:
+  - time: '07:00'
+    title: 'Транспортная группа'
+  - time: '17:45'
+    title: 'Сэмплер помнит 4 минуты'
+  - time: '27:17'
+    title: 'Бумажка лучше плюшки'
+layout: episode.njk
+tags: episode

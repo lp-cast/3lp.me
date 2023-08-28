@@ -1,18 +1,3 @@
----
-number: 19
-title: 'В котором Роберт Плант выходит из тени цеппелина'
-date: 2019-11-15
-chapters:
-  - time: '01:58'
-    title: 'Солисты доказывают'
-  - time: '11:40'
-    title: 'Led Zeppelin побеждает Deep Purple'
-  - time: '20:26'
-    title: 'Звучит гимн творчеству'
-layout: episode.njk
-tags: episode
----
-
 ### Robert Plant — The Principle of Moments
 
 - Альбом «The Principle of Moments» в

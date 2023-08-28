@@ -1,0 +1,12 @@
+number: 38
+title: 'В котором Caribou пускает круги по воде'
+date: 2020-04-18
+chapters:
+  - time: '02:21'
+    title: 'Звук расширяется и обнимает'
+  - time: '10:07'
+    title: 'Посвящение соулу 60-х'
+  - time: '16:46'
+    title: 'Дафни сочиняет песню'
+layout: episode.njk
+tags: episode

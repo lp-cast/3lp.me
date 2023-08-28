@@ -1,18 +1,3 @@
----
-number: 63
-title: 'В котором кисло-сладкие The National'
-date: 2021-02-15
-chapters:
-  - time: '06:29'
-    title: 'Проблемы с текстом'
-  - time: '18:43'
-    title: 'Ударная линия'
-  - time: '28:15'
-    title: 'Кайф от мелодизма'
-layout: episode.njk
-tags: episode
----
-
 ### The National — Boxer
 
 - Альбом «Boxer» в

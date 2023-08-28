@@ -1,18 +1,3 @@
----
-number: 88
-title: 'В котором раскопки забытой We Fell To Earth'
-date: 2022-12-15
-chapters:
-  - time: '04:39'
-    title: 'Нигде нет, вообще'
-  - time: '15:36'
-    title: 'Всего девять'
-  - time: '24:29'
-    title: 'Пост-трипхоп'
-layout: episode.njk
-tags: episode
----
-
 ### We Fell To Earth — We Fell To Earth
 
 - Альбом «We Fell To Earth» в

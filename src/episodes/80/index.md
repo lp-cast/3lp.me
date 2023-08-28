@@ -1,16 +1,3 @@
----
-number: 80
-title: 'В котором Пи Джей Харви выше осени'
-date: 2022-09-28
-chapters:
-  - time: '02:16'
-    title: 'Злобно шагать'
-  - time: '18:41'
-    title: 'Светло тосковать'
-layout: episode.njk
-tags: episode
----
-
 ### PJ Harvey — Rid of me
 
 - Песня «Rid of me» в

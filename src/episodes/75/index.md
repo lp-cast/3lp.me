@@ -1,18 +1,3 @@
----
-number: 75
-title: 'В котором Skating Polly рычат и мурлычат'
-date: 2021-11-01
-chapters:
-  - time: '07:15'
-    title: 'Ножка задёргалась'
-  - time: '14:12'
-    title: 'Ненужная струна'
-  - time: '25:49'
-    title: 'И вот — крючок'
-layout: episode.njk
-tags: episode
----
-
 ### Skating Polly — The Make It All Show
 
 - Альбом «The Make It All Show» в

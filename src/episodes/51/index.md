@@ -1,18 +1,3 @@
----
-number: 51
-title: 'В котором Gescom перемещает в параллельную реальность'
-date: 2020-08-13
-chapters:
-  - time: '07:40'
-    title: 'Двадцать анонимов'
-  - time: '20:14'
-    title: 'Приятная тревожность'
-  - time: '29:23'
-    title: 'Гештальт-коммуникация'
-layout: episode.njk
-tags: episode
----
-
 ### Gescom — Key nell
 
 - Сингл «Key nell» в

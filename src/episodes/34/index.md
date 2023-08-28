@@ -1,18 +1,3 @@
----
-number: 34
-title: 'В котором The Cure находит выход, а Вадим идёт домой'
-date: 2020-03-06
-chapters:
-  - time: '03:14'
-    title: 'Альбом сначала не нравится'
-  - time: '10:27'
-    title: 'С чего начинается The Cure'
-  - time: '27:36'
-    title: 'Хорошему человеку плохо'
-layout: episode.njk
-tags: episode
----
-
 ### The Cure — Pornography
 
 - Альбом «Pornography» в

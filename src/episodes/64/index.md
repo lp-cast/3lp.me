@@ -1,20 +1,3 @@
----
-number: 64
-title: 'В котором Radio Dept. напоминает о счастливых деньках'
-date: 2021-03-04
-chapters:
-  - time: '05:05'
-    title: 'Понравилось всем'
-  - time: '12:08'
-    title: 'Наивные мелодии гитары'
-  - time: '20:04'
-    title: 'Воздушная, но плита'
-  - time: '28:30'
-    title: 'И другие альбомы'
-layout: episode.njk
-tags: episode
----
-
 ### The Radio Dept. — Pet Grief
 
 - Альбом «Pet Grief» в

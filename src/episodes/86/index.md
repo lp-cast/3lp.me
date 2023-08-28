@@ -1,18 +1,3 @@
----
-number: 86
-title: 'В котором наивная и весёлая Metallica'
-date: 2022-11-18
-chapters:
-  - time: '03:00'
-    title: 'Батарейка'
-  - time: '13:06'
-    title: 'Глиняный солдатик'
-  - time: '26:25'
-    title: 'Завтрак на зеркале'
-layout: episode.njk
-tags: episode
----
-
 ### Metallica — Master of Puppets
 
 - Альбом «Master of Puppets» в

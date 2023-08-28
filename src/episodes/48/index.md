@@ -1,18 +1,3 @@
----
-number: 48
-title: 'В котором Les Discrets это любовь, природа и смерть'
-date: 2020-07-17
-chapters:
-  - time: '04:37'
-    title: 'Пульс повышен, подышите'
-  - time: '12:03'
-    title: 'Франзузский звучит интересно'
-  - time: '21:40'
-    title: 'И вороны хорошие'
-layout: episode.njk
-tags: episode
----
-
 ### Les Discrets — Septembre Et Ses Dernières Pensées
 
 - Альбом «Septembre Et Ses Dernières Pensées» в

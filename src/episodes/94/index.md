@@ -1,20 +1,3 @@
----
-number: 94
-title: 'В котором Маша и Вадим не любят пластинки'
-date: 2023-04-01
-chapters:
-  - time: '06:25'
-    title: 'Ползти к выходу'
-  - time: '16:56'
-    title: 'Просто бесит'
-  - time: '24:05'
-    title: 'Зачем записали?'
-  - time: '34:40'
-    title: 'Чуваки промахнулись'
-layout: episode.njk
-tags: episode
----
-
 ### Rammstein — Mutter
 
 - Альбом «Mutter» в

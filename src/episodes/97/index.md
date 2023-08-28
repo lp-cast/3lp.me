@@ -1,18 +1,3 @@
----
-number: 97
-title: 'В котором Keane ищут место, которое мы когда-то знали'
-date: 2023-08-28
-chapters:
-  - time: '07:47'
-    title: 'Наивный 2004-й'
-  - time: '21:32'
-    title: 'Они мягенькие'
-  - time: '33:44'
-    title: 'Не стесняйтесь'
-layout: episode.njk
-tags: episode
----
-
 ### Keane — Hopes and Fears
 
 - Альбом «Hopes and Fears» в

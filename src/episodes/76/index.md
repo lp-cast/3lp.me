@@ -1,18 +1,3 @@
----
-number: 76
-title: 'В котором Чарли Паркер и Диззи Гилеспи не танцуют'
-date: 2021-12-10
-chapters:
-  - time: '05:26'
-    title: 'Веха до и после'
-  - time: '13:27'
-    title: 'Удостоверение знатока'
-  - time: '27:42'
-    title: 'Как джаз сохранился'
-layout: episode.njk
-tags: episode
----
-
 ### Charlie Parker and Dizzy Gillespie — Bird and Diz
 
 - Альбом «Bird and Diz» в

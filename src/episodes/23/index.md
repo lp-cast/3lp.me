@@ -1,18 +1,3 @@
----
-number: 23
-title: 'В котором Ник Кейв гуляет по Харлему с Машей'
-date: 2019-12-12
-chapters:
-  - time: '04:52'
-    title: 'Альбом получается неземной и лёгкий'
-  - time: '11:37'
-    title: 'Сьюзи бежит на цыпочках'
-  - time: '20:51'
-    title: 'Фильм оставляет глубокий след'
-layout: episode.njk
-tags: episode
----
-
 ### Nick Cave & The Bad Seeds — Push the Sky Away
 
 - Альбом «Push the Sky Away» в

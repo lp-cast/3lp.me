@@ -1,18 +1,3 @@
----
-number: 20
-title: 'В котором Katatonia обещает, что все умрут'
-date: 2019-11-22
-chapters:
-  - time: '05:55'
-    title: 'Милые шведы поют про суицид'
-  - time: '15:37'
-    title: 'Вадиму наконец-то нравится'
-  - time: '29:43'
-    title: 'Шведы уходят, но возвращаются'
-layout: episode.njk
-tags: episode
----
-
 ### Katatonia — Viva Emptiness
 
 - Альбом «Viva Emptiness» в

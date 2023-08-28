@@ -1,0 +1,12 @@
+number: 27
+title: 'В котором Cat Power укутывает тёпленькой тоской'
+date: 2020-01-10
+chapters:
+  - time: '01:42'
+    title: 'Пластинка уже есть'
+  - time: '09:36'
+    title: 'Песни на свой страх и риск'
+  - time: '20:27'
+    title: 'Много хороших друзей'
+layout: episode.njk
+tags: episode

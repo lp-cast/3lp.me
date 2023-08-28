@@ -1,18 +1,3 @@
----
-number: 55
-title: 'В котором утюг меняют на Echo & The Bunnymen'
-date: 2020-10-02
-chapters:
-  - time: '05:36'
-    title: 'Гладильная история'
-  - time: '11:41'
-    title: 'Сначала кавер'
-  - time: '22:19'
-    title: 'Голос не тот'
-layout: episode.njk
-tags: episode
----
-
 ### Echo & The Bunnymen — Porcupine
 
 - Альбом «Porcupine» в

@@ -1,20 +1,3 @@
----
-number: 74
-title: 'В котором Dead Can Dance переносит тебя в нигде'
-date: 2021-09-28
-chapters:
-  - time: '06:03'
-    title: 'Как облака'
-  - time: '14:18'
-    title: 'Танцующие скелеты'
-  - time: '27:08'
-    title: 'Надмирность'
-  - time: '34:33'
-    title: 'Глоссолалия'
-layout: episode.njk
-tags: episode
----
-
 ### Dead Can Dance — Anastasis
 
 - Альбом «Anastasis» в

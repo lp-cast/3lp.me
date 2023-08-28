@@ -1,18 +1,3 @@
----
-number: 90
-title: 'В котором Placebo — не пластилин'
-date: 2023-01-31
-chapters:
-  - time: '04:57'
-    title: 'Мой 2007-й'
-  - time: '15:40'
-    title: 'Альбом наизусть'
-  - time: '29:27'
-    title: 'Всё вернётся'
-layout: episode.njk
-tags: episode
----
-
 ### Placebo — Without You I’m Nothing
 
 - Альбом «Without You I’m Nothing» в

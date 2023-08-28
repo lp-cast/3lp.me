@@ -1,20 +1,3 @@
----
-number: 6
-title: 'В котором Майкл Джира дирижирует железобетонным поездом'
-date: 2019-08-14
-chapters:
-  - time: '01:05'
-    title: 'На входе выдают беруши'
-  - time: '12:37'
-    title: 'Джира неэлегантно кровоточит'
-  - time: '20:16'
-    title: 'Все взрослеют без толку'
-  - time: '30:22'
-    title: 'Ноги пускаются в ломаный пляс'
-layout: episode.njk
-tags: episode
----
-
 ### Swans — White Light from the Mouth of Infinity
 
 - Альбом «White Light» в

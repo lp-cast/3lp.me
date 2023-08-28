@@ -1,18 +1,3 @@
----
-number: 60
-title: 'В котором Barker нарушает границы'
-date: 2020-12-29
-chapters:
-  - time: '05:57'
-    title: 'Интерпретация не обязательна'
-  - time: '15:14'
-    title: 'Громкость прыгает'
-  - time: '23:51'
-    title: 'Фоновая музыка существует'
-layout: episode.njk
-tags: episode
----
-
 ### Barker — Utility
 
 - Альбом «Utility» в

@@ -1,0 +1,12 @@
+number: 13
+title: 'В котором Тео Пэрриш делает футворк'
+date: 2019-10-02
+chapters:
+  - time: '01:14'
+    title: 'Вкусы очень совпадают'
+  - time: '15:43'
+    title: 'Песни расцветают в миксе'
+  - time: '22:58'
+    title: 'Люди растворяются в музыке'
+layout: episode.njk
+tags: episode

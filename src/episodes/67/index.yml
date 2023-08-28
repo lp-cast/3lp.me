@@ -1,0 +1,12 @@
+number: 67
+title: 'В котором врождённая музыкальность The Durutti Column'
+date: 2021-05-03
+chapters:
+  - time: '06:04'
+    title: 'Мы все из 80-х'
+  - time: '15:58'
+    title: 'О чём поёт Вини'
+  - time: '26:33'
+    title: 'Просто нравится'
+layout: episode.njk
+tags: episode

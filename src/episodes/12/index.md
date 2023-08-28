@@ -1,18 +1,3 @@
----
-number: 12
-title: 'В котором Джан Ку ставит музыку в Молоке'
-date: 2019-09-25
-chapters:
-  - time: '01:44'
-    title: 'Спартак сгорает два раза'
-  - time: '14:16'
-    title: 'Маша не застаёт 90-е'
-  - time: '26:04'
-    title: 'Все трясут хаером'
-layout: episode.njk
-tags: episode
----
-
 ### Джан Ку — jan_coo
 
 - Альбом «jan_coo» в

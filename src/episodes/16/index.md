@@ -1,18 +1,3 @@
----
-number: 16
-title: 'В котором Legowelt дирижирует небесным синтом'
-date: 2019-10-24
-chapters:
-  - time: '02:07'
-    title: 'Дэнни пишет плагины в Гааге'
-  - time: '09:48'
-    title: 'Электроника заменяет оркестр'
-  - time: '27:21'
-    title: 'Публика попадает на крючок'
-layout: episode.njk
-tags: episode
----
-
 ### Legowelt — The Paranormal Soul
 
 - Альбом «The Paranormal Soul» в

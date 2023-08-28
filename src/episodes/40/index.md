@@ -1,18 +1,3 @@
----
-number: 40
-title: 'В котором Мишель Гуревич везёт нас на ферму'
-date: 2020-05-07
-chapters:
-  - time: '04:18'
-    title: 'Близкий лоу-фай'
-  - time: '13:42'
-    title: 'Ироничный шансон'
-  - time: '22:41'
-    title: 'Кинематографичность'
-layout: episode.njk
-tags: episode
----
-
 ### Michelle Gurevich — Party Girl
 
 - Альбом «Party Girl» в

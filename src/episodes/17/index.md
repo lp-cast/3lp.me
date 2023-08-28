@@ -1,18 +1,3 @@
----
-number: 17
-title: 'В котором Ханна Фьюри поёт колыбельные в кабаре'
-date: 2019-10-31
-chapters:
-  - time: '02:27'
-    title: 'Тремоло паннирует'
-  - time: '10:34'
-    title: 'Голос звучит только для тебя'
-  - time: '22:47'
-    title: 'Маша продаёт зайцу уши'
-layout: episode.njk
-tags: episode
----
-
 ### Hannah Fury — Through The Gash
 
 - Альбом «Through The Gash» в

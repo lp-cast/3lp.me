@@ -1,18 +1,3 @@
----
-number: 11
-title: 'В котором собака пишет музыку для Nosound'
-date: 2019-09-18
-chapters:
-  - time: '05:05'
-    title: 'Музыканты ведут себя плохо'
-  - time: '16:53'
-    title: 'Звёздный лось приходит'
-  - time: '27:57'
-    title: 'Маша получает жёлтую карточку'
-layout: episode.njk
-tags: episode
----
-
 ### Nosound — Lightdark
 
 - Альбом «Lightdark» в

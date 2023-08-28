@@ -1,18 +1,3 @@
----
-number: 32
-title: 'В котором Брайан Ино мыслит нестандартно'
-date: 2020-02-14
-chapters:
-  - time: '01:40'
-    title: 'Магнитофоны генерируют музыку'
-  - time: '19:34'
-    title: 'Маша тонет, Вадим плывёт'
-  - time: '30:26'
-    title: 'Карточки выводят из ступора'
-layout: episode.njk
-tags: episode
----
-
 ### Brian Eno — Discreet Music
 
 - Альбом «Discreet Music» в

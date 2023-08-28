@@ -1,18 +1,3 @@
----
-number: 44
-title: 'В котором Moddi и бездонное норвежское небо'
-date: 2020-06-05
-chapters:
-  - time: '06:21'
-    title: 'Самый фолковый фолк'
-  - time: '13:29'
-    title: 'Воспоминания про Норвегию'
-  - time: '23:58'
-    title: 'Будни маленьких поселений'
-layout: episode.njk
-tags: episode
----
-
 ### Moddi — Floriography
 
 - Альбом «Floriography» в

@@ -1,18 +1,3 @@
----
-number: 69
-title: 'В котором Trentemøller предаёт электронику'
-date: 2021-06-22
-chapters:
-  - time: '07:50'
-    title: 'Пост-всё'
-  - time: '17:15'
-    title: 'Калитка глитчит'
-  - time: '28:11'
-    title: 'Продам синт'
-layout: episode.njk
-tags: episode
----
-
 ### Trentemøller — Fixion
 
 - Альбом «Fixion» в

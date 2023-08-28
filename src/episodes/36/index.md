@@ -1,18 +1,3 @@
----
-number: 36
-title: 'В котором Camel неподвижны, а Маша путешествует'
-date: 2020-03-28
-chapters:
-  - time: '05:46'
-    title: 'Верблюды в Берлине'
-  - time: '16:02'
-    title: 'Депеш прог'
-  - time: '25:23'
-    title: 'Эпичный запил'
-layout: episode.njk
-tags: episode
----
-
 ### Camel — Stationary Traveller
 
 - Альбом «Stationary Traveller» в

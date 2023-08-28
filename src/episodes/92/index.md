@@ -1,20 +1,3 @@
----
-number: 92
-title: 'В котором Talk Talk и самый весенний альбом'
-date: 2023-03-10
-chapters:
-  - time: '04:34'
-    title: 'Рано делать выводы'
-  - time: '17:47'
-    title: 'Хит в узких кругах'
-  - time: '27:29'
-    title: 'Грустное светлое'
-  - time: '33:06'
-    title: 'Пластинка пришла'
-layout: episode.njk
-tags: episode
----
-
 ### Talk Talk — The Colour of Spring
 
 - Альбом «The Colour of Spring» в

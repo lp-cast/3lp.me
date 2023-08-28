@@ -1,18 +1,3 @@
----
-number: 71
-title: 'В котором Маша начинается с Blackfield'
-date: 2021-08-04
-chapters:
-  - time: '06:08'
-    title: 'От EP до альбома'
-  - time: '15:09'
-    title: 'Трёхминутные поп-песни'
-  - time: '28:29'
-    title: 'Милое чёрное поле'
-layout: episode.njk
-tags: episode
----
-
 ### Blackfield — Blackfield II
 
 - Альбом «Blackfield II» в

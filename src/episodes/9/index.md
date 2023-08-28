@@ -1,18 +1,3 @@
----
-number: 9
-title: 'В котором Warpaint умирают, не умирают и танцуют'
-date: 2019-09-04
-chapters:
-  - time: '01:30'
-    title: 'Вадим (снова) не попадает'
-  - time: '11:26'
-    title: 'Группа танцует с горы'
-  - time: '20:25'
-    title: 'Тоска тоже ценится'
-layout: episode.njk
-tags: episode
----
-
 ### Warpaint — Warpaint
 
 - Альбом «Warpaint» в

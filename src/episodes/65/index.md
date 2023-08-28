@@ -1,20 +1,3 @@
----
-number: 65
-title: 'В котором Myrkur звучит в тёмном страшном доме'
-date: 2021-03-19
-chapters:
-  - time: '06:36'
-    title: 'Милая тихая музыка'
-  - time: '13:58'
-    title: 'Сгоревшие рецепторы'
-  - time: '22:59'
-    title: 'Кафедральный звук'
-  - time: '33:00'
-    title: 'Тьма и тыквы'
-layout: episode.njk
-tags: episode
----
-
 ### Myrkur — Mareridt
 
 - Альбом «Mareridt» в

@@ -1,18 +1,3 @@
----
-number: 14
-title: 'В котором H&M открывает Joy Division'
-date: 2019-10-10
-chapters:
-  - time: '04:56'
-    title: 'Мерч предваряет влюблённость'
-  - time: '16:35'
-    title: 'Ревербераторы делают тщ-щ'
-  - time: '28:16'
-    title: 'Маша покупает билет и не идёт'
-layout: episode.njk
-tags: episode
----
-
 ### Joy Division — Unknown Pleasures
 
 - Альбом «Unknown Pleasures» в

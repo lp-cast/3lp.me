@@ -1,20 +1,3 @@
----
-number: 68
-title: 'В котором Nature And Organisation не те, чем кажутся'
-date: 2021-05-28
-chapters:
-  - time: '05:48'
-    title: 'Ловушка открывается'
-  - time: '12:02'
-    title: 'Как слушать музыку'
-  - time: '22:40'
-    title: 'Кусочки все разные'
-  - time: '28:42'
-    title: 'Что это вообще было'
-layout: episode.njk
-tags: episode
----
-
 ### Nature And Organisation — Snow Leopard Messiah
 
 - Альбом «Snow Leopard Messiah» в

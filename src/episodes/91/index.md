@@ -1,18 +1,3 @@
----
-number: 91
-title: 'В котором Run Logan Run и мешок муравьёв'
-date: 2023-02-13
-chapters:
-  - time: '06:35'
-    title: 'Спасибо ЕФ'
-  - time: '17:12'
-    title: 'Скучный крючок'
-  - time: '29:47'
-    title: 'Загибаем пальцы'
-layout: episode.njk
-tags: episode
----
-
 ### Run Logan Run — Nature Will Take Care of You
 
 - Альбом «Nature Will Take Care of You» в

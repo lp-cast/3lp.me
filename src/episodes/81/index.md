@@ -1,18 +1,3 @@
----
-number: 81
-title: 'В котором Lingua Ignota готовит грешников'
-date: 2022-10-07
-chapters:
-  - time: '02:18'
-    title: 'Уничтожило, в хорошем смысле'
-  - time: '15:30'
-    title: 'Напугало, в хорошем смысле'
-  - time: '26:42'
-    title: 'Придавило, в хорошем смысле'
-layout: episode.njk
-tags: episode
----
-
 ### Lingua Ignota — Sinner Get Ready
 
 - Альбом «Sinner Get Ready» в

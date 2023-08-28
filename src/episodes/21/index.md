@@ -1,18 +1,3 @@
----
-number: 21
-title: 'В котором Laika просто космос'
-date: 2019-11-28
-chapters:
-  - time: '04:35'
-    title: 'Минздрав предупреждает'
-  - time: '17:06'
-    title: 'Открывается поп-потенциал'
-  - time: '25:48'
-    title: 'Ты влюбляешься в пингвина'
-layout: episode.njk
-tags: episode
----
-
 ### Laika — Good Looking Blues
 
 - Альбом «Good Looking Blues» в

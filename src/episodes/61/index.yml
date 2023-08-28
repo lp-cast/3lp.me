@@ -1,0 +1,12 @@
+number: 61
+title: 'В котором Opeth то лабрадор, то волкодав'
+date: 2021-01-09
+chapters:
+  - time: '06:29'
+    title: 'Павлины не любят людей'
+  - time: '16:06'
+    title: 'Микаэль, почему ты больше не кричишь?'
+  - time: '29:19'
+    title: 'И это тоже Opeth'
+layout: episode.njk
+tags: episode

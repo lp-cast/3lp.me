@@ -1,18 +1,3 @@
----
-number: 25
-title: 'В котором Джо Сатриани мурлычет гитарой'
-date: 2019-12-28
-chapters:
-  - time: '02:48'
-    title: 'Впервые звучит настоящий блюз'
-  - time: '18:18'
-    title: 'Вдруг появляется ансамбль'
-  - time: '28:36'
-    title: 'Маша слушает бас, Вадим — барабаны'
-layout: episode.njk
-tags: episode
----
-
 ### Joe Satriani — Joe Satriani
 
 - Альбом «Joe Satriani» в

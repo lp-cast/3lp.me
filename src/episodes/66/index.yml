@@ -1,0 +1,14 @@
+number: 66
+title: 'В котором БГ возвращается на Русь'
+date: 2021-04-06
+chapters:
+  - time: '10:10'
+    title: 'Непонятно любимый'
+  - time: '22:40'
+    title: 'По строчке за похмелье'
+  - time: '29:10'
+    title: 'Кастанеде можно'
+  - time: '33:37'
+    title: 'Весенняя свободная'
+layout: episode.njk
+tags: episode

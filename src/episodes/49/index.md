@@ -1,18 +1,3 @@
----
-number: 49
-title: 'В котором Skunk Anansie крутится на кассете'
-date: 2020-07-27
-chapters:
-  - time: '06:40'
-    title: 'Сильное начало'
-  - time: '15:09'
-    title: 'Как в последний раз'
-  - time: '30:52'
-    title: 'Сторона Б'
-layout: episode.njk
-tags: episode
----
-
 ### Skunk Anansie — Post Orgasmic Chill
 
 - Альбом «Post Orgasmic Chill» в

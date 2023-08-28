@@ -1,20 +1,3 @@
----
-number: 8
-title: 'В котором Alcest рассказывают сказки, а Маша поёт по-французски'
-date: 2019-08-29
-chapters:
-  - time: '05:35'
-    title: 'Première partie'
-  - time: '16:57'
-    title: 'Deuxième partie'
-  - time: '22:00'
-    title: 'Troisième partie'
-  - time: '25:04'
-    title: 'Quatrième partie'
-layout: episode.njk
-tags: episode
----
-
 ### Alcest — Les Voyages de l’Âme
 
 - Альбом «Les Voyages de l'Âme» в

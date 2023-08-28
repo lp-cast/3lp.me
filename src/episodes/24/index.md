@@ -1,18 +1,3 @@
----
-number: 24
-title: 'В котором у Sleater-Kinney есть слова и гитара'
-date: 2019-12-19
-chapters:
-  - time: '04:37'
-    title: 'Три женщины кричат'
-  - time: '13:42'
-    title: 'Танцуем как в 97-м'
-  - time: '23:01'
-    title: 'Глаза такие чёрные'
-layout: episode.njk
-tags: episode
----
-
 ### Sleater-Kinney — Dig Me Out
 
 - Альбом «Dig Me Out» в

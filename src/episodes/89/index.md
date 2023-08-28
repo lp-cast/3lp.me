@@ -1,16 +1,3 @@
----
-number: 89
-title: 'В котором новый год, новый лав и новый хоуп'
-date: 2023-01-03
-chapters:
-  - time: '06:29'
-    title: 'Любовь'
-  - time: '21:28'
-    title: 'Надежда'
-layout: episode.njk
-tags: episode
----
-
 ### Love — Forever Changes
 
 - Альбом «Forever Changes» в

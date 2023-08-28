@@ -1,18 +1,3 @@
----
-number: 87
-title: 'В котором Madrugada обнимает, и всё становится немного лучше'
-date: 2022-12-02
-chapters:
-  - time: '04:51'
-    title: 'Другой альбом'
-  - time: '16:30'
-    title: 'Уютный бар'
-  - time: '23:09'
-    title: 'Не нужно думать'
-layout: episode.njk
-tags: episode
----
-
 ### Madrugada — Industrial Silence
 
 - Альбом «Industrial Silence» в

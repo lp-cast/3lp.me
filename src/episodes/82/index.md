@@ -1,18 +1,3 @@
----
-number: 82
-title: 'В котором Ex:Re, виолончели и скрипящие половицы'
-date: 2022-10-14
-chapters:
-  - time: '05:31'
-    title: 'Весело не будет'
-  - time: '14:07'
-    title: 'Поэзия уносит'
-  - time: '27:10'
-    title: 'Эффект кино'
-layout: episode.njk
-tags: episode
----
-
 ### Ex:Re — Ex:Re
 
 - Альбом «Ex:Re» в

@@ -1,18 +1,3 @@
----
-number: 18
-title: 'В котором Clann Zú поёт про однушку в Нью-Йорке'
-date: 2019-11-07
-chapters:
-  - time: '02:42'
-    title: 'Австралийцы поют по-ирландски'
-  - time: '11:28'
-    title: 'Маше впервые нравится'
-  - time: '23:12'
-    title: 'Деклан показывает голос'
-layout: episode.njk
-tags: episode
----
-
 ### Clann Zú — Black Coat and Bandages
 
 - Альбом «Black Coat and Bandages» в
