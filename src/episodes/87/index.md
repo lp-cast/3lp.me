@@ -1,11 +1,11 @@
 ### Madrugada — Industrial Silence
 
 - Альбом «Industrial Silence» в
-  [Apple Music](https://music.apple.com/album/1584658469),
-  [Яндекс.Музыке](https://music.yandex.com/album/18125790),
-  [Spotify](https://open.spotify.com/album/2raLQ8VpQxlIjv70bFj8YC),
-  [Tidal](https://tidal.com/browse/album/196762137),
-  [Discogs](https://www.discogs.com/master/179233)
+	[Apple Music](https://music.apple.com/album/1584658469),
+	[Яндекс.Музыке](https://music.yandex.com/album/18125790),
+	[Spotify](https://open.spotify.com/album/2raLQ8VpQxlIjv70bFj8YC),
+	[Tidal](https://tidal.com/browse/album/196762137),
+	[Discogs](https://www.discogs.com/master/179233)
 - [Любимый клип Majesty](https://youtu.be/LE9AuZ35_AY)
 
 ### Песни

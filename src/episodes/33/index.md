@@ -1,11 +1,11 @@
 ### Lunatic Soul — Lunatic Soul
 
 - Альбом «Lunatic Soul» в
-  [Apple Music](https://music.apple.com/album/288299959),
-  [Яндекс.Музыке](https://music.yandex.ru/album/222032),
-  [Spotify](https://open.spotify.com/album/4S8YE4oWcqPOp1mLOTbP17),
-  [Tidal](https://tidal.com/browse/album/2611063),
-  [Discogs](https://www.discogs.com/master/188106)
+	[Apple Music](https://music.apple.com/album/288299959),
+	[Яндекс.Музыке](https://music.yandex.ru/album/222032),
+	[Spotify](https://open.spotify.com/album/4S8YE4oWcqPOp1mLOTbP17),
+	[Tidal](https://tidal.com/browse/album/2611063),
+	[Discogs](https://www.discogs.com/master/188106)
 - [Официальный сайт](http://lunaticsoul.com/)
 - [Инстаграм Lunatic Soul](https://www.instagram.com/lunaticsoulband/)
 - [Магазин с альбомами](https://burningshed.com/store/lunaticsoul)

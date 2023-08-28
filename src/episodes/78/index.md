@@ -1,11 +1,11 @@
 ### Наадя — Наадя
 
 - Альбом «Наадя» в
-  [Apple Music](https://music.apple.com/album/1457277419),
-  [Яндекс.Музыке](https://music.yandex.ru/album/13111040),
-  [Spotify](https://open.spotify.com/album/4Y5UE0V9iwLeodL0g2Caaf),
-  [Tidal](https://tidal.com/browse/album/106301408),
-  [Discogs](https://www.discogs.com/master/914294)
+	[Apple Music](https://music.apple.com/album/1457277419),
+	[Яндекс.Музыке](https://music.yandex.ru/album/13111040),
+	[Spotify](https://open.spotify.com/album/4Y5UE0V9iwLeodL0g2Caaf),
+	[Tidal](https://tidal.com/browse/album/106301408),
+	[Discogs](https://www.discogs.com/master/914294)
 - [Фото с концерта в 2016](https://www.instagram.com/p/BFUUpb4HdlH/)
 - [Надя Грицкевич — Туман](https://youtu.be/4_bo5Movtwo)
 

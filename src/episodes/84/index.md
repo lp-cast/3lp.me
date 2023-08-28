@@ -1,10 +1,10 @@
 ### Майк Науменко — LV
 
 - Альбом «LV» в
-  [Apple Music](https://music.apple.com/album/524367665),
-  [Яндекс.Музыке](https://music.yandex.ru/album/3358641),
-  [Spotify](https://open.spotify.com/album/4jSAcjTrXycNmXO3m3wD3M),
-  [Discogs](https://www.discogs.com/master/262127)
+	[Apple Music](https://music.apple.com/album/524367665),
+	[Яндекс.Музыке](https://music.yandex.ru/album/3358641),
+	[Spotify](https://open.spotify.com/album/4jSAcjTrXycNmXO3m3wD3M),
+	[Discogs](https://www.discogs.com/master/262127)
 
 ### Песни
 

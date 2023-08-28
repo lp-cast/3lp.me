@@ -1,11 +1,11 @@
 ### Dead Can Dance — Anastasis
 
 - Альбом «Anastasis» в
-  [Apple Music](https://music.apple.com/album/538394108),
-  [Яндекс.Музыке](https://music.yandex.ru/album/509942),
-  [Spotify](https://open.spotify.com/album/5VoH0HNtcY5efo9TsE4lCc),
-  [Tidal](https://tidal.com/browse/album/16695408),
-  [Discogs](https://www.discogs.com/master/461758)
+	[Apple Music](https://music.apple.com/album/538394108),
+	[Яндекс.Музыке](https://music.yandex.ru/album/509942),
+	[Spotify](https://open.spotify.com/album/5VoH0HNtcY5efo9TsE4lCc),
+	[Tidal](https://tidal.com/browse/album/16695408),
+	[Discogs](https://www.discogs.com/master/461758)
 - [Официальный сайт](https://www.deadcandance.com/)
 - [DCD в Твиттере](https://twitter.com/DCDmusic)
 - [DCD в Фейсбуке](https://www.facebook.com/DeadCanDanceOfficial)

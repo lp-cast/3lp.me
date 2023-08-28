@@ -1,15 +1,15 @@
 ### Robert Plant — The Principle of Moments
 
 - Альбом «The Principle of Moments» в
-  [Apple Music](https://music.apple.com/album/254162739),
-  [Яндекс.Музыке](https://music.yandex.ru/album/12021),
-  [Spotify](https://open.spotify.com/playlist/33M1bwYWyXezU5kYbdQNoP),
-  [Tidal](https://tidal.com/album/481792)
+	[Apple Music](https://music.apple.com/album/254162739),
+	[Яндекс.Музыке](https://music.yandex.ru/album/12021),
+	[Spotify](https://open.spotify.com/playlist/33M1bwYWyXezU5kYbdQNoP),
+	[Tidal](https://tidal.com/album/481792)
 - Любимый альбом Marillion у Славы в
-  [Apple Music](https://music.apple.com/album/699619904),
-  [Яндекс.Музыке](https://music.yandex.ru/album/50871),
-  [Spotify](https://open.spotify.com/album/41ZfbPOvlfMmr5CSIe5MYT),
-  [Tidal](https://tidal.com/browse/album/1894016)
+	[Apple Music](https://music.apple.com/album/699619904),
+	[Яндекс.Музыке](https://music.yandex.ru/album/50871),
+	[Spotify](https://open.spotify.com/album/41ZfbPOvlfMmr5CSIe5MYT),
+	[Tidal](https://tidal.com/browse/album/1894016)
 
 ### Песни
 

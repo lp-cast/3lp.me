@@ -1,11 +1,11 @@
 ### Clann Zú — Black Coat and Bandages
 
 - Альбом «Black Coat and Bandages» в
-  [YouTube](https://www.youtube.com/playlist?list=PL8CCD99018ADCC2CB)
+	[YouTube](https://www.youtube.com/playlist?list=PL8CCD99018ADCC2CB)
 - Declan de Barra в
-  [Apple Music](https://music.apple.com/artist/83065900),
-  [Яндекс.Музыке](https://music.yandex.ru/artist/1796204),
-  [Spotify](https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8)
+	[Apple Music](https://music.apple.com/artist/83065900),
+	[Яндекс.Музыке](https://music.yandex.ru/artist/1796204),
+	[Spotify](https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8)
 - [YouTube: Declan de Barra](https://www.youtube.com/user/declandebarra)
 - [Дискография на RuTracker](https://rutracker.org/forum/viewtopic.php?t=4901311)
 

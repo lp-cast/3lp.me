@@ -1,17 +1,17 @@
 ### The Radio Dept. — Pet Grief
 
 - Альбом «Pet Grief» в
-  [Apple Music](https://music.apple.com/album/1518908204),
-  [Яндекс.Музыке](https://music.yandex.ru/album/6282191),
-  [Spotify](https://open.spotify.com/album/2YZgQN5XsbZmfGYST65Kfm),
-  [Tidal](https://tidal.com/browse/album/145365816),
-  [Discogs](https://www.discogs.com/master/53117)
+	[Apple Music](https://music.apple.com/album/1518908204),
+	[Яндекс.Музыке](https://music.yandex.ru/album/6282191),
+	[Spotify](https://open.spotify.com/album/2YZgQN5XsbZmfGYST65Kfm),
+	[Tidal](https://tidal.com/browse/album/145365816),
+	[Discogs](https://www.discogs.com/master/53117)
 - Альбом «Clinging to a Scheme» в
-  [Apple Music](https://music.apple.com/album/1518908645),
-  [Яндекс.Музыке](https://music.yandex.ru/album/6082077),
-  [Spotify](https://open.spotify.com/album/6JPRvwSakxGHjMQM18AcAu),
-  [Tidal](https://tidal.com/browse/album/145392428),
-  [Discogs](https://www.discogs.com/master/242579)
+	[Apple Music](https://music.apple.com/album/1518908645),
+	[Яндекс.Музыке](https://music.yandex.ru/album/6082077),
+	[Spotify](https://open.spotify.com/album/6JPRvwSakxGHjMQM18AcAu),
+	[Tidal](https://tidal.com/browse/album/145392428),
+	[Discogs](https://www.discogs.com/master/242579)
 
 ### Песни
 

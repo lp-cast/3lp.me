@@ -1,28 +1,28 @@
 {
-  "private": true,
-  "scripts": {
-    "start": "eleventy --serve --quiet",
-    "11ty": "eleventy",
-    "pack": "gulp build",
-    "build": "rm -rf dist && npm run 11ty && npm run pack",
-    "deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
-    "del": "6.1.1",
-    "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
-    "gulp-postcss": "^9.0.1",
-    "gulp-replace": "^1.1.3",
-    "gulp-uglify": "^3.0.2",
-    "html-minifier-terser": "^7.0.0",
-    "js-yaml": "^4.1.0",
-    "music-metadata": "7.12.3",
-    "postcss": "^8.3.8",
-    "postcss-csso": "^6.0.0",
-    "postcss-import": "^15.0.0",
-    "pretty-data": "^0.40.0"
-  }
+	"private": true,
+	"scripts": {
+		"start": "eleventy --serve --quiet",
+		"11ty": "eleventy",
+		"pack": "gulp build",
+		"build": "rm -rf dist && npm run 11ty && npm run pack",
+		"deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
+	},
+	"devDependencies": {
+		"@11ty/eleventy": "^2.0.0",
+		"@babel/core": "^7.15.5",
+		"@babel/preset-env": "^7.15.6",
+		"del": "6.1.1",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-postcss": "^9.0.1",
+		"gulp-replace": "^1.1.3",
+		"gulp-uglify": "^3.0.2",
+		"html-minifier-terser": "^7.0.0",
+		"js-yaml": "^4.1.0",
+		"music-metadata": "7.12.3",
+		"postcss": "^8.3.8",
+		"postcss-csso": "^6.0.0",
+		"postcss-import": "^15.0.0",
+		"pretty-data": "^0.40.0"
+	}
 }

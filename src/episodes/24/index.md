@@ -1,17 +1,17 @@
 ### Sleater-Kinney — Dig Me Out
 
 - Альбом «Dig Me Out» в
-  [Apple Music](https://music.apple.com/album/906136610),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2122940),
-  [Spotify](https://open.spotify.com/playlist/2PWZ18Kw48yzVKwfDuJnvz),
-  [Tidal](https://tidal.com/browse/album/34983757),
-  [Discogs](https://www.discogs.com/master/64435)
+	[Apple Music](https://music.apple.com/album/906136610),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2122940),
+	[Spotify](https://open.spotify.com/playlist/2PWZ18Kw48yzVKwfDuJnvz),
+	[Tidal](https://tidal.com/browse/album/34983757),
+	[Discogs](https://www.discogs.com/master/64435)
 - Альбом «No Cities to Love» в
-  [Apple Music](https://music.apple.com/album/927171224),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2434913),
-  [Spotify](https://open.spotify.com/playlist/1wfsb97SoddYx0qAyZFNOd),
-  [Tidal](https://tidal.com/browse/album/39346081),
-  [Discogs](https://www.discogs.com/master/785249)
+	[Apple Music](https://music.apple.com/album/927171224),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2434913),
+	[Spotify](https://open.spotify.com/playlist/1wfsb97SoddYx0qAyZFNOd),
+	[Tidal](https://tidal.com/browse/album/39346081),
+	[Discogs](https://www.discogs.com/master/785249)
 - [YouTube: Sleater-Kinney — A New Wave](https://youtu.be/Kc1htX3q-F0)
 - [YouTube: Sleater-Kinney — Entertain](https://youtu.be/MbxRu7fwR24)
 - [YouTube: Sleater-Kinney — The Center Won’t Hold Tour](https://youtu.be/IgfIh-NBoCw)

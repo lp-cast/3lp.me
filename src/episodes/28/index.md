@@ -1,11 +1,11 @@
 ### Blonde Redhead — 23
 
 - Альбом «23» в
-  [Apple Music](https://music.apple.com/album/251042367),
-  [Яндекс.Музыке](https://music.yandex.ru/album/718466),
-  [Spotify](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl),
-  [Tidal](https://tidal.com/browse/album/58911927),
-  [Discogs](https://www.discogs.com/master/22467)
+	[Apple Music](https://music.apple.com/album/251042367),
+	[Яндекс.Музыке](https://music.yandex.ru/album/718466),
+	[Spotify](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl),
+	[Tidal](https://tidal.com/browse/album/58911927),
+	[Discogs](https://www.discogs.com/master/22467)
 - [YouTube: 23](https://youtu.be/a7FqUNlEdwA)
 - [YouTube: The One I Love](https://youtu.be/lNio2xDwTYg)
 - [Магазин Play в Петербурге](http://playrecordstore.ru/)

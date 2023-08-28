@@ -1,16 +1,16 @@
 ### Shuggie Otis — Inspiration Information
 
 - Альбом «Inspiration Information» в
-  [Apple Music](https://music.apple.com/album/608660313),
-  [Яндекс.Музыке](https://music.yandex.ru/album/127710),
-  [Spotify](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF),
-  [Tidal](https://tidal.com/browse/album/4710400),
-  [Discogs](https://www.discogs.com/master/54621)
+	[Apple Music](https://music.apple.com/album/608660313),
+	[Яндекс.Музыке](https://music.yandex.ru/album/127710),
+	[Spotify](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF),
+	[Tidal](https://tidal.com/browse/album/4710400),
+	[Discogs](https://www.discogs.com/master/54621)
 - Альбом «Freedom Flight» в
-  [Apple Music](https://music.apple.com/album/250978726),
-  [Spotify](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM),
-  [Tidal](https://tidal.com/browse/album/1634588),
-  [Discogs](https://www.discogs.com/master/170810)
+	[Apple Music](https://music.apple.com/album/250978726),
+	[Spotify](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM),
+	[Tidal](https://tidal.com/browse/album/1634588),
+	[Discogs](https://www.discogs.com/master/170810)
 
 ### Песни
 

@@ -1,9 +1,9 @@
 ### Legowelt — The Paranormal Soul
 
 - Альбом «The Paranormal Soul» в
-  [Apple Music](https://music.apple.com/album/575985527),
-  [Spotify](https://open.spotify.com/album/2vvFKNjRNW2823rgZdKyeE),
-  [Tidal](https://tidal.com/album/17875254)
+	[Apple Music](https://music.apple.com/album/575985527),
+	[Spotify](https://open.spotify.com/album/2vvFKNjRNW2823rgZdKyeE),
+	[Tidal](https://tidal.com/album/17875254)
 - [Официальный сайт](http://legowelt.org/drawings/)
 - [Страница на Bandcamp](https://legowelt.bandcamp.com/)
 - [YouTube: Тур по студии (полный)](https://youtu.be/9eigT6DvHJo)

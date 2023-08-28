@@ -1,19 +1,19 @@
 ### Hannah Fury — Through The Gash
 
 - Альбом «Through The Gash» в
-  [Apple Music](https://music.apple.com/album/261855274),
-  [Яндекс.Музыке](https://music.yandex.ru/album/1398348),
-  [Spotify](https://open.spotify.com/album/0RmTrbMwN26lZst5pQVn1g)
+	[Apple Music](https://music.apple.com/album/261855274),
+	[Яндекс.Музыке](https://music.yandex.ru/album/1398348),
+	[Spotify](https://open.spotify.com/album/0RmTrbMwN26lZst5pQVn1g)
 - Песня «Carnival Justice» с неожиданным финалом в
-  [Apple Music](https://music.apple.com/album/261855274?i=261855530),
-  [Яндекс.Музыке](https://music.yandex.ru/album/1398348/track/12876259),
-  [Spotify](https://open.spotify.com/track/0sn8r5uUEOgUmk1Vu4Vu89)
+	[Apple Music](https://music.apple.com/album/261855274?i=261855530),
+	[Яндекс.Музыке](https://music.yandex.ru/album/1398348/track/12876259),
+	[Spotify](https://open.spotify.com/track/0sn8r5uUEOgUmk1Vu4Vu89)
 - [Официальный сайт](https://nointermission.amandapalmer.net/)
 - [Лейбл Mellowtraumatic](https://www.mellowtraumatic.com)
 - [YouTube: 3Д-парикмахерская](https://youtu.be/IUDTlvagjJA)
 - Фильм «Мария Антуанетта» на
-  [IMDB](https://www.imdb.com/title/tt0422720/),
-  [Кинопоиске](https://www.kinopoisk.ru/film/81561/)
+	[IMDB](https://www.imdb.com/title/tt0422720/),
+	[Кинопоиске](https://www.kinopoisk.ru/film/81561/)
 
 ### Песни
 

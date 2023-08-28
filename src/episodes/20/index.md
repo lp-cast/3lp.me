@@ -1,15 +1,15 @@
 ### Katatonia — Viva Emptiness
 
 - Альбом «Viva Emptiness» в
-  [Apple Music](https://music.apple.com/album/73592814),
-  [Яндекс.Музыке](https://music.yandex.ru/album/166689),
-  [Spotify](https://open.spotify.com/album/1bpHfzPfbM3vdcVRLIJXvf),
-  [Tidal](https://tidal.com/album/67712475)
+	[Apple Music](https://music.apple.com/album/73592814),
+	[Яндекс.Музыке](https://music.yandex.ru/album/166689),
+	[Spotify](https://open.spotify.com/album/1bpHfzPfbM3vdcVRLIJXvf),
+	[Tidal](https://tidal.com/album/67712475)
 - Альбом «Brave Murder Day» в
-  [Apple Music](https://music.apple.com/album/208202368),
-  [Яндекс.Музыке](https://music.yandex.ru/album/206383),
-  [Spotify](https://open.spotify.com/album/1BmtDzGIUGdft38C305STs),
-  [Tidal](https://tidal.com/album/2589849)
+	[Apple Music](https://music.apple.com/album/208202368),
+	[Яндекс.Музыке](https://music.yandex.ru/album/206383),
+	[Spotify](https://open.spotify.com/album/1BmtDzGIUGdft38C305STs),
+	[Tidal](https://tidal.com/album/2589849)
 - [YouTube: Katatonia — My Twin](https://youtu.be/nH45PdkXF9I)
 - [ВИА «Кровавая Баня»](http://www.bloodbath.biz/)
 

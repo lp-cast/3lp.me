@@ -1,11 +1,11 @@
 ### Леонид Фёдоров — Лиловый день
 
 - Альбом «Лиловый день» в
-  [Яндекс.Музыке](https://music.yandex.ru/album/1486063),
-  [Discogs](https://www.discogs.com/master/273179)
+	[Яндекс.Музыке](https://music.yandex.ru/album/1486063),
+	[Discogs](https://www.discogs.com/master/273179)
 - Альбом «Четыресполовинойтонны» в
-  [Яндекс.Музыке](https://music.yandex.ru/album/1724371),
-  [Discogs](https://www.discogs.com/master/49553)
+	[Яндекс.Музыке](https://music.yandex.ru/album/1724371),
+	[Discogs](https://www.discogs.com/master/49553)
 - [Официальный сайт](http://leonidfedorov.ru)
 - [YouTube: Интервью в Ещёнепознере](https://youtu.be/gacnaDFugKY)
 - [YouTube: Концерт на кухне](https://youtu.be/BgeUwKxyIj8)

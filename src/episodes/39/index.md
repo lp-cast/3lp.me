@@ -1,11 +1,11 @@
 ### Slowdive — Souvlaki
 
 - Альбом «Souvlaki» в
-  [Apple Music](https://music.apple.com/album/292885238),
-  [Яндекс.Музыке](https://music.yandex.ru/album/160776),
-  [Spotify](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7),
-  [Tidal](https://listen.tidal.com/album/1995308),
-  [Discogs](https://www.discogs.com/master/9478)
+	[Apple Music](https://music.apple.com/album/292885238),
+	[Яндекс.Музыке](https://music.yandex.ru/album/160776),
+	[Spotify](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7),
+	[Tidal](https://listen.tidal.com/album/1995308),
+	[Discogs](https://www.discogs.com/master/9478)
 - [50 лучших шугейз-альбомов по версии Pitchfork](https://pitchfork.com/features/lists-and-guides/9966-the-50-best-shoegaze-albums-of-all-time/)
 - [YouTube: Фильм про запись «Souvlaki»](https://youtu.be/Sjr6esFXJl4)
 - [YouTube: Выступление на KEXP](https://youtu.be/gwgq-IWtcPE)

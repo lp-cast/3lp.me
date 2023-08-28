@@ -1,11 +1,11 @@
 ### ПТВП — 2084
 
 - Альбом «2084» в
-  [Apple Music](https://music.apple.com/album/1463462193),
-  [Яндекс.Музыке](https://music.yandex.ru/album/7532290),
-  [Spotify](https://open.spotify.com/album/64pSCHubuXP7wt0mejcv4Z),
-  [Tidal](https://tidal.com/browse/album/109268323),
-  [Discogs](https://www.discogs.com/master/501437)
+	[Apple Music](https://music.apple.com/album/1463462193),
+	[Яндекс.Музыке](https://music.yandex.ru/album/7532290),
+	[Spotify](https://open.spotify.com/album/64pSCHubuXP7wt0mejcv4Z),
+	[Tidal](https://tidal.com/browse/album/109268323),
+	[Discogs](https://www.discogs.com/master/501437)
 - [«Вам!» на концерте в Цоколе](https://vimeo.com/2273294)
 - [ПТВП во ВКонтакте](https://vk.com/ptvpspb)
 - [Лёха Никонов в Телеграме](https://t.me/lehanikonov)

@@ -1,11 +1,11 @@
 ### Cat Power — You Are Free
 
 - Альбом «You Are Free» в
-  [Apple Music](https://music.apple.com/album/1023398126),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2899920),
-  [Spotify](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6),
-  [Tidal](https://tidal.com/browse/album/49793790),
-  [Discogs](https://www.discogs.com/master/36181)
+	[Apple Music](https://music.apple.com/album/1023398126),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2899920),
+	[Spotify](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6),
+	[Tidal](https://tidal.com/browse/album/49793790),
+	[Discogs](https://www.discogs.com/master/36181)
 - [YouTube: Cat Power — Manhattan](https://youtu.be/ybjpIt9oPuo)
 - [YouTube: Cat Power — Cross Bones Style](https://youtu.be/aW2PcOyAWwM)
 - [YouTube: Cat Power — He War](https://youtu.be/BMxjaye7tNY)

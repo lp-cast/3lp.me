@@ -1,11 +1,11 @@
 ### Lingua Ignota — Sinner Get Ready
 
 - Альбом «Sinner Get Ready» в
-  [Apple Music](https://music.apple.com/album/1570359456),
-  [Яндекс.Музыке](https://music.yandex.ru/album/15743505),
-  [Spotify](https://open.spotify.com/album/06wtf2TCkmyTgS1yZGiSr5),
-  [Tidal](https://tidal.com/browse/album/184963255)
-  [Discogs](https://www.discogs.com/master/2243191)
+	[Apple Music](https://music.apple.com/album/1570359456),
+	[Яндекс.Музыке](https://music.yandex.ru/album/15743505),
+	[Spotify](https://open.spotify.com/album/06wtf2TCkmyTgS1yZGiSr5),
+	[Tidal](https://tidal.com/browse/album/184963255)
+	[Discogs](https://www.discogs.com/master/2243191)
 - [Сайт Lingua Ignota](https://linguaignota.net/)
 - [YouTube: Pennsylvania Furnace](https://youtu.be/7YRMV7ffPpY)
 - [YouTube: Do You Doubt Me Traitor](https://youtu.be/sESn4nuSDWE)

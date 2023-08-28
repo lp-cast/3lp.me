@@ -1,11 +1,11 @@
 ### Amenra — Mass VI
 
 - Альбом «Mass VI» в
-  [Apple Music](https://music.apple.com/album/1281804496),
-  [Яндекс.Музыке](https://music.yandex.ru/album/4677363),
-  [Spotify](https://open.spotify.com/album/0SMyxJrTh7qYDCMIZTOwo3),
-  [Tidal](https://tidal.com/browse/album/78913153)
-  [Discogs](https://www.discogs.com/master/1255337)
+	[Apple Music](https://music.apple.com/album/1281804496),
+	[Яндекс.Музыке](https://music.yandex.ru/album/4677363),
+	[Spotify](https://open.spotify.com/album/0SMyxJrTh7qYDCMIZTOwo3),
+	[Tidal](https://tidal.com/browse/album/78913153)
+	[Discogs](https://www.discogs.com/master/1255337)
 - [YouTube: Children Of The Eye](https://youtu.be/ZjHOLtudKpQ)
 
 ### Песни

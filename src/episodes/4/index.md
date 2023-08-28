@@ -1,15 +1,15 @@
 ### Marvin Gaye — What’s Going On
 
 - Альбом «What’s Going On» в
-  [Apple Music](https://music.apple.com/album/1440776527),
-  [Яндекс.Музыке](https://music.yandex.ru/album/87116),
-  [Spotify](https://open.spotify.com/album/51OTwBCtfrubk9HRlKKw41),
-  [Tidal](https://tidal.com/browse/album/572218)
+	[Apple Music](https://music.apple.com/album/1440776527),
+	[Яндекс.Музыке](https://music.yandex.ru/album/87116),
+	[Spotify](https://open.spotify.com/album/51OTwBCtfrubk9HRlKKw41),
+	[Tidal](https://tidal.com/browse/album/572218)
 - Альбом «I Want You» в
-  [Apple Music](https://music.apple.com/album/1440815358),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2502752),
-  [Spotify](https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7),
-  [Tidal](https://tidal.com/browse/album/584790)
+	[Apple Music](https://music.apple.com/album/1440815358),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2502752),
+	[Spotify](https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7),
+	[Tidal](https://tidal.com/browse/album/584790)
 - [Genius: тексты песен с пояснениями](https://genius.com/)
 - [WhoSampled: источники семплов, каверов и ремиксов](https://www.whosampled.com/)
 - [YouTube: Ain’t no Mountain High Enough](https://www.youtube.com/watch?v=IC5PL0XImjw)

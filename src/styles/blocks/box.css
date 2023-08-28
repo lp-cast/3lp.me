@@ -1,16 +1,16 @@
 /* Box */
 
 .box {
-    padding: 20px;
-    box-shadow: 0 0 0 5px #3b3b3b;
+	padding: 20px;
+	box-shadow: 0 0 0 5px #3b3b3b;
 }
 
 @media (min-width: 768px) {
-    .box {
-        padding: 40px;
-    }
+	.box {
+		padding: 40px;
+	}
 
-    .box--compact {
-        padding: 20px 40px;
-    }
+	.box--compact {
+		padding: 20px 40px;
+	}
 }

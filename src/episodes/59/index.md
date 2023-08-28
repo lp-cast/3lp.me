@@ -1,10 +1,10 @@
 ### Краснознамённая дивизия имени моей бабушки — УВЫ
 
 - Альбом «УВЫ» в
-  [Apple Music](https://music.apple.com/album/1516432730),
-  [Яндекс.Музыке](https://music.yandex.ru/album/5811045),
-  [Spotify](https://open.spotify.com/album/73YFIhCDjtrza046PjGAs6),
-  [Discogs](https://www.discogs.com/release/12776830)
+	[Apple Music](https://music.apple.com/album/1516432730),
+	[Яндекс.Музыке](https://music.yandex.ru/album/5811045),
+	[Spotify](https://open.spotify.com/album/73YFIhCDjtrza046PjGAs6),
+	[Discogs](https://www.discogs.com/release/12776830)
 - [Первый концерт Вадима в 2013](https://www.instagram.com/p/gINqpaszvx)
 - [Печальный дачный ирис](https://youtu.be/dWoJyZZSVks)
 - [Последнее лето детства](https://youtu.be/FGTqvhLmQYU)

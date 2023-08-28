@@ -1,9 +1,9 @@
 ### Camel — Stationary Traveller
 
 - Альбом «Stationary Traveller» в
-  [Spotify](https://open.spotify.com/album/28FvEp3A5gCWrazp1UQXrH),
-  [YouTube](https://www.youtube.com/watch?v=psaSKZD_0WI&list=PLFniGp4lTiODYIsimSSLUR7yatFsH_SxU),
-  [Discogs](https://www.discogs.com/master/33666)
+	[Spotify](https://open.spotify.com/album/28FvEp3A5gCWrazp1UQXrH),
+	[YouTube](https://www.youtube.com/watch?v=psaSKZD_0WI&list=PLFniGp4lTiODYIsimSSLUR7yatFsH_SxU),
+	[Discogs](https://www.discogs.com/master/33666)
 
 ### Песни
 

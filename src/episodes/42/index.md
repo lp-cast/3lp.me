@@ -1,10 +1,10 @@
 ### Петр Ильич Чайковский — симфония Манфред
 
 - Симфония «Манфред» в
-  [Apple Music](https://music.apple.com/album/1510207935),
-  [Яндекс.Музыке](https://music.yandex.ru/album/9683454),
-  [Spotify](https://open.spotify.com/album/4IyceaNKtAtfoVDTAk8ZGz),
-  [Discogs](https://www.discogs.com/release/12613138)
+	[Apple Music](https://music.apple.com/album/1510207935),
+	[Яндекс.Музыке](https://music.yandex.ru/album/9683454),
+	[Spotify](https://open.spotify.com/album/4IyceaNKtAtfoVDTAk8ZGz),
+	[Discogs](https://www.discogs.com/release/12613138)
 - [Поэма «Манфред» Джорджа Байрона](http://www.lib.ru/POEZIQ/BAJRON/byron4_1.txt)
 
 ### Песни

@@ -1,47 +1,47 @@
 <!DOCTYPE html>
 <html class="page" lang="ru">
 <head>
-    <meta charset="utf-8">
-    <title>
-        {{ title }}{% if page.url != '/' %} — {{ meta.title }}{% endif %}
-    </title>
+	<meta charset="utf-8">
+	<title>
+		{{ title }}{% if page.url != '/' %} — {{ meta.title }}{% endif %}
+	</title>
 
-    <meta name="description" content="{{ meta.subtitle }}. {{ meta.description }}">
+	<meta name="description" content="{{ meta.subtitle }}. {{ meta.description }}">
 
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ meta.title }}">
-    <meta property="og:site_name" content="{{ meta.subtitle }}">
-    <meta property="og:url" content="https://3lp.me/">
-    <meta property="og:image" content="https://3lp.me/images/social.jpg">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ meta.title }}">
+	<meta property="og:site_name" content="{{ meta.subtitle }}">
+	<meta property="og:url" content="https://3lp.me/">
+	<meta property="og:image" content="https://3lp.me/images/social.jpg">
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ meta.title }}">
-    <meta name="twitter:description" content="{{ meta.subtitle }}">
-    <meta name="twitter:site" content="https://3lp.me/">
-    <meta name="twitter:image" content="https://3lp.me/images/social.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{{ meta.title }}">
+	<meta name="twitter:description" content="{{ meta.subtitle }}">
+	<meta name="twitter:site" content="https://3lp.me/">
+	<meta name="twitter:image" content="https://3lp.me/images/social.jpg">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="generator" content="{{ eleventy.generator }}">
+	<meta name="generator" content="{{ eleventy.generator }}">
 
-    <link rel="apple-touch-icon" href="/images/icons/152.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/16.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/32.png">
+	<link rel="apple-touch-icon" href="/images/icons/152.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/icons/16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/icons/32.png">
 
-    <link rel="preconnect" href="https://cdn.usefathom.com/">
-    <link rel="dns-prefetch" href="https://cdn.usefathom.com/">
+	<link rel="preconnect" href="https://cdn.usefathom.com/">
+	<link rel="dns-prefetch" href="https://cdn.usefathom.com/">
 
-    <link rel="preload" href="/fonts/rubik-regular-latin.woff2" crossorigin as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/rubik-regular-cyrillic.woff2" crossorigin as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/din-condensed-latin.woff2" crossorigin as="font" type="font/woff2">
-    <link rel="preload" href="/fonts/din-condensed-cyrillic.woff2" crossorigin as="font" type="font/woff2">
+	<link rel="preload" href="/fonts/rubik-regular-latin.woff2" crossorigin as="font" type="font/woff2">
+	<link rel="preload" href="/fonts/rubik-regular-cyrillic.woff2" crossorigin as="font" type="font/woff2">
+	<link rel="preload" href="/fonts/din-condensed-latin.woff2" crossorigin as="font" type="font/woff2">
+	<link rel="preload" href="/fonts/din-condensed-cyrillic.woff2" crossorigin as="font" type="font/woff2">
 
-    <link rel="stylesheet" href="/styles/styles.css">
+	<link rel="stylesheet" href="/styles/styles.css">
 
-    <script src="/scripts/scripts.js" defer></script>
-    <script defer src="https://cdn.usefathom.com/script.js" data-site="WFUEVDEU"></script>
+	<script src="/scripts/scripts.js" defer></script>
+	<script defer src="https://cdn.usefathom.com/script.js" data-site="WFUEVDEU"></script>
 </head>
 <body class="page__body">
-    {{ content | safe }}
+	{{ content | safe }}
 </body>
 </html>

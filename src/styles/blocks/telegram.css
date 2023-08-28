@@ -1,25 +1,25 @@
 /* Patreon */
 
 .telegram {
-    display: block;
-    padding-left: 70px;
-    background-color: #4f9fd8;
-    background-image: url('/images/telegram.svg');
-    background-position: 18px calc(50% - 2px);
-    background-size: auto 38px;
-    background-repeat: no-repeat;
-    color: white;
-    line-height: 1.2;
-    text-decoration: none;
+	display: block;
+	padding-left: 70px;
+	background-color: #4f9fd8;
+	background-image: url('/images/telegram.svg');
+	background-position: 18px calc(50% - 2px);
+	background-size: auto 38px;
+	background-repeat: no-repeat;
+	color: white;
+	line-height: 1.2;
+	text-decoration: none;
 }
 
 .telegram:focus {
-    outline: none;
+	outline: none;
 }
 
 @media (min-width: 768px) {
-    .telegram {
-        padding-left: 90px;
-        background-position-x: 38px;
-    }
+	.telegram {
+		padding-left: 90px;
+		background-position-x: 38px;
+	}
 }

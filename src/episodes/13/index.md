@@ -1,10 +1,10 @@
 ### Theo Parrish — American Intelligence
 
 - Альбом «American Intelligence» в
-  [Apple Music](https://music.apple.com/album/956159699),
-  [Яндекс.Музыке](https://music.yandex.ru/album/5196625),
-  [Spotify](https://open.spotify.com/album/0DoWNwSzBk0R0QzgaQIxcE),
-  [Tidal](https://tidal.com/browse/album/86520153)
+	[Apple Music](https://music.apple.com/album/956159699),
+	[Яндекс.Музыке](https://music.yandex.ru/album/5196625),
+	[Spotify](https://open.spotify.com/album/0DoWNwSzBk0R0QzgaQIxcE),
+	[Tidal](https://tidal.com/browse/album/86520153)
 - [YouTube: Theo Parrish — Footwork](https://youtu.be/70CeiEJi1OI)
 - [YouTube: Лекция Тео в RBMA](https://youtu.be/UBBMH4Xhi1w)
 - [YouTube: Разговор с Тео Перришем](https://youtu.be/yMpWm9kjMh8)

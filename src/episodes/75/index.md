@@ -1,11 +1,11 @@
 ### Skating Polly — The Make It All Show
 
 - Альбом «The Make It All Show» в
-  [Apple Music](https://music.apple.com/album/1375493165),
-  [Яндекс.Музыке](https://music.yandex.ru/album/5304211),
-  [Spotify](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f),
-  [Tidal](https://tidal.com/browse/album/87803048),
-  [Discogs](https://www.discogs.com/master/1374951)
+	[Apple Music](https://music.apple.com/album/1375493165),
+	[Яндекс.Музыке](https://music.yandex.ru/album/5304211),
+	[Spotify](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f),
+	[Tidal](https://tidal.com/browse/album/87803048),
+	[Discogs](https://www.discogs.com/master/1374951)
 - [Канал на Ютубе](https://www.youtube.com/user/sKatingPolly1)
 - [Клип «Little Girl Blue»](https://youtu.be/0B4Nn9_9YHg)
 

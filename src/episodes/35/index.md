@@ -2,17 +2,17 @@
 
 - [Плейлист на YouTube](https://www.youtube.com/playlist?list=PLOJ0PP3JfVh6lQmq4P3vl27VjGgUyUBZn)
 - Альбом «Tutu» в
-  [Apple Music](https://music.apple.com/album/828544687),
-  [Яндекс.Музыке](https://music.yandex.ru/album/220719),
-  [Spotify](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7),
-  [Tidal](https://tidal.com/browse/album/68713195),
-  [Discogs](https://www.discogs.com/master/63355)
+	[Apple Music](https://music.apple.com/album/828544687),
+	[Яндекс.Музыке](https://music.yandex.ru/album/220719),
+	[Spotify](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7),
+	[Tidal](https://tidal.com/browse/album/68713195),
+	[Discogs](https://www.discogs.com/master/63355)
 - Альбом «African Exchange Student» в
-  [Apple Music](https://music.apple.com/album/40582477),
-  [Яндекс.Музыке](https://music.yandex.ru/album/11535),
-  [Spotify](https://open.spotify.com/album/2w3I2JR1A9YGx8bqtY9UKK),
-  [Tidal](https://tidal.com/browse/album/259934),
-  [Discogs](https://www.discogs.com/master/418898)
+	[Apple Music](https://music.apple.com/album/40582477),
+	[Яндекс.Музыке](https://music.yandex.ru/album/11535),
+	[Spotify](https://open.spotify.com/album/2w3I2JR1A9YGx8bqtY9UKK),
+	[Tidal](https://tidal.com/browse/album/259934),
+	[Discogs](https://www.discogs.com/master/418898)
 - [YouTube: История песни «Human Nature»](https://youtu.be/ITQPxZKm9dY)
 - [YouTube: Cyndi Lauper — Time After Time](https://youtu.be/4G7SEL4zwy8)
 

@@ -1,11 +1,11 @@
 ### Placebo — Without You I’m Nothing
 
 - Альбом «Without You I’m Nothing» в
-  [Apple Music](https://music.apple.com/album/961067195),
-  [Яндекс.Музыке](https://music.yandex.com/album/6314826),
-  [Spotify](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT),
-  [Tidal](https://tidal.com/browse/album/246017669),
-  [Discogs](https://www.discogs.com/master/69942)
+	[Apple Music](https://music.apple.com/album/961067195),
+	[Яндекс.Музыке](https://music.yandex.com/album/6314826),
+	[Spotify](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT),
+	[Tidal](https://tidal.com/browse/album/246017669),
+	[Discogs](https://www.discogs.com/master/69942)
 - [Клип «Pure Morning»](https://youtu.be/a4JhtoR39M0)
 - [Клип «Special Needs»](https://youtu.be/0sfWduA_WC0)
 - [Клип «Meds»](https://youtu.be/WO9ewCO7TYI)

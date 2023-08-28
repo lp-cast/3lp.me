@@ -1,11 +1,11 @@
 ### Talk Talk — The Colour of Spring
 
 - Альбом «The Colour of Spring» в
-  [Apple Music](https://music.apple.com/album/696811651),
-  [Яндекс.Музыке](https://music.yandex.com/album/213292),
-  [Spotify](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE),
-  [Tidal](https://tidal.com/browse/album/1486039),
-  [Discogs](https://www.discogs.com/master/26239)
+	[Apple Music](https://music.apple.com/album/696811651),
+	[Яндекс.Музыке](https://music.yandex.com/album/213292),
+	[Spotify](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE),
+	[Tidal](https://tidal.com/browse/album/1486039),
+	[Discogs](https://www.discogs.com/master/26239)
 
 ### Песни
 

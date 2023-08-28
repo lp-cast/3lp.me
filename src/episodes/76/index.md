@@ -1,11 +1,11 @@
 ### Charlie Parker and Dizzy Gillespie — Bird and Diz
 
 - Альбом «Bird and Diz» в
-  [Apple Music](https://music.apple.com/album/1435957132),
-  [Яндекс.Музыке](https://music.yandex.ru/album/6509294),
-  [Spotify](https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK),
-  [Tidal](https://tidal.com/browse/album/94922361),
-  [Discogs](https://www.discogs.com/master/176947)
+	[Apple Music](https://music.apple.com/album/1435957132),
+	[Яндекс.Музыке](https://music.yandex.ru/album/6509294),
+	[Spotify](https://open.spotify.com/album/28R4xxdsuM5J9k8LekSnrK),
+	[Tidal](https://tidal.com/browse/album/94922361),
+	[Discogs](https://www.discogs.com/master/176947)
 - [Фоноавтограф](https://ru.wikipedia.org/wiki/Фоноавтограф)
 
 ### Песни

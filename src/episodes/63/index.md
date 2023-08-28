@@ -1,11 +1,11 @@
 ### The National — Boxer
 
 - Альбом «Boxer» в
-  [Apple Music](https://music.apple.com/album/220311706),
-  [Яндекс.Музыке](https://music.yandex.ru/album/718954),
-  [Spotify](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp),
-  [Tidal](https://tidal.com/browse/album/58086088),
-  [Discogs](https://www.discogs.com/master/15110)
+	[Apple Music](https://music.apple.com/album/220311706),
+	[Яндекс.Музыке](https://music.yandex.ru/album/718954),
+	[Spotify](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp),
+	[Tidal](https://tidal.com/browse/album/58086088),
+	[Discogs](https://www.discogs.com/master/15110)
 - [Клип «Sea Of Love»](https://youtu.be/yIWmRbHDhGw)
 - [Клип «Грубый закат»](https://youtu.be/FyCsJAj69sc)
 

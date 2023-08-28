@@ -1,0 +1,8 @@
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Страница {{ pagination.pageNumber + 1 }}{% else %}{{ meta.title }}{% endif %}"
+layout: page.njk
+permalink: "{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+pagination:
+  data: collections.episode
+  size: 10
+  reverse: true

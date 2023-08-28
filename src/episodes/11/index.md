@@ -1,25 +1,25 @@
 ### Nosound — Lightdark
 
 - Альбом «Lightdark» в
-  [Apple Music](https://music.apple.com/album/287999694),
-  [Яндекс.Музыке](https://music.yandex.ru/album/137043),
-  [Spotify](https://open.spotify.com/album/6TBniemq1ELLAgn4FF2uez),
-  [Tidal](https://tidal.com/browse/album/2611074)
+	[Apple Music](https://music.apple.com/album/287999694),
+	[Яндекс.Музыке](https://music.yandex.ru/album/137043),
+	[Spotify](https://open.spotify.com/album/6TBniemq1ELLAgn4FF2uez),
+	[Tidal](https://tidal.com/browse/album/2611074)
 - Radiohead — Ful Stop в
-  [Apple Music](https://music.apple.com/album/1111577743?i=1111577976),
-  [Яндекс.Музыке](https://music.yandex.ru/album/3487314/track/29044892),
-  [Spotify](https://open.spotify.com/track/4CzTgOmc3Sdm4EgKQWzjQl),
-  [Tidal](https://tidal.com/browse/track/60215414)
+	[Apple Music](https://music.apple.com/album/1111577743?i=1111577976),
+	[Яндекс.Музыке](https://music.yandex.ru/album/3487314/track/29044892),
+	[Spotify](https://open.spotify.com/track/4CzTgOmc3Sdm4EgKQWzjQl),
+	[Tidal](https://tidal.com/browse/track/60215414)
 - The National — Gospel в
-  [Apple Music](https://music.apple.com/album/220311706?i=220316612),
-  [Яндекс.Музыке](https://music.yandex.ru/album/718954/track/6687203),
-  [Spotify](https://open.spotify.com/track/4AFPPswU1ffqbfW2ahIoMw),
-  [Tidal](https://tidal.com/browse/track/2205339)
+	[Apple Music](https://music.apple.com/album/220311706?i=220316612),
+	[Яндекс.Музыке](https://music.yandex.ru/album/718954/track/6687203),
+	[Spotify](https://open.spotify.com/track/4AFPPswU1ffqbfW2ahIoMw),
+	[Tidal](https://tidal.com/browse/track/2205339)
 - Bohren & Der Club Of Gore в
-  [Apple Music](https://music.apple.com/artist/104531618),
-  [Яндекс.Музыке](https://music.yandex.ru/artist/2657325),
-  [Spotify](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf),
-  [Tidal](https://tidal.com/browse/artist/3558122)
+	[Apple Music](https://music.apple.com/artist/104531618),
+	[Яндекс.Музыке](https://music.yandex.ru/artist/2657325),
+	[Spotify](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf),
+	[Tidal](https://tidal.com/browse/artist/3558122)
 - [Memories of Machines](https://www.memoriesofmachines.com/)
 - [Инстаграм Джуно](https://www.instagram.com/junothedoggess/)
 - [Инстаграм Джанкарло](https://www.instagram.com/giancarloerra/)

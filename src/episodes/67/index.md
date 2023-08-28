@@ -1,15 +1,15 @@
 ### The Durutti Column — LC
 
 - Альбом «LC» в
-  [Apple Music](https://music.apple.com/album/1322069918),
-  [Spotify](https://open.spotify.com/album/6KCZbjfik8Tdswe0uw8tc8),
-  [Tidal](https://tidal.com/browse/album/82527358),
-  [Discogs](https://www.discogs.com/master/6379)
+	[Apple Music](https://music.apple.com/album/1322069918),
+	[Spotify](https://open.spotify.com/album/6KCZbjfik8Tdswe0uw8tc8),
+	[Tidal](https://tidal.com/browse/album/82527358),
+	[Discogs](https://www.discogs.com/master/6379)
 - Альбом «The Return Of The Durutti Column» в
-  [Apple Music](https://music.apple.com/artist/6558311),
-  [Spotify](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe),
-  [Tidal](https://tidal.com/browse/album/82530035),
-  [Discogs](https://www.discogs.com/master/6369)
+	[Apple Music](https://music.apple.com/artist/6558311),
+	[Spotify](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe),
+	[Tidal](https://tidal.com/browse/album/82530035),
+	[Discogs](https://www.discogs.com/master/6369)
 - [LP_чат в Телеграме](https://t.me/oh_lp_chat)
 
 ### Песни

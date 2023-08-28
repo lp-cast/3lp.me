@@ -1,10 +1,10 @@
 ### Joy Division — Unknown Pleasures
 
 - Альбом «Unknown Pleasures» в
-  [Apple Music](https://music.apple.com/album/1476702180),
-  [Яндекс.Музыке](https://music.yandex.ru/album/8517718),
-  [Spotify](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s),
-  [Tidal](https://tidal.com/browse/album/16586849)
+	[Apple Music](https://music.apple.com/album/1476702180),
+	[Яндекс.Музыке](https://music.yandex.ru/album/8517718),
+	[Spotify](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s),
+	[Tidal](https://tidal.com/browse/album/16586849)
 - [Маша в футболке Les Discrets](https://www.facebook.com/thatsnotplasticine/posts/10212088962604414)
 - [Футболка «Furr Division»](https://www.threadless.com/product/5040/furr_division)
 - [IMDB: Control](https://www.imdb.com/title/tt0421082/)

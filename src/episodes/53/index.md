@@ -1,11 +1,11 @@
 ### Алиса — Блок ада
 
 - Альбом «Блок ада» в
-  [Apple Music](https://music.apple.com/album/1377638881),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2003166),
-  [Spotify](https://open.spotify.com/album/6178Bj015BmJdIdxU9Nbfm),
-  [Tidal](https://tidal.com/browse/album/88089102),
-  [Discogs](https://www.discogs.com/master/146875)
+	[Apple Music](https://music.apple.com/album/1377638881),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2003166),
+	[Spotify](https://open.spotify.com/album/6178Bj015BmJdIdxU9Nbfm),
+	[Tidal](https://tidal.com/browse/album/88089102),
+	[Discogs](https://www.discogs.com/master/146875)
 
 ### Песни
 

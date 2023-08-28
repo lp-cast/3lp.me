@@ -1,39 +1,39 @@
 /* Navigation */
 
 .pages {
-    background-color: #3b3b3b;
+	background-color: #3b3b3b;
 }
 
 .pages__list {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
 }
 
 .pages__link {
-    display: block;
-    padding: 20px 25px;
-    color: white;
-    text-decoration: none;
+	display: block;
+	padding: 20px 25px;
+	color: white;
+	text-decoration: none;
 }
 
 .pages__link:hover,
 .pages__link:focus {
-    background-color: #007bc1;
+	background-color: #007bc1;
 }
 
 .pages__link:focus {
-    outline: none;
+	outline: none;
 }
 
 .pages__item:first-child .pages__link {
-    padding-left: 40px;
+	padding-left: 40px;
 }
 
 .pages__link[aria-current] {
-    pointer-events: none;
-    background-color: white;
-    color: #3b3b3b;
+	pointer-events: none;
+	background-color: white;
+	color: #3b3b3b;
 }

@@ -1,16 +1,16 @@
 ### Epic45 — May your heart be the map
 
 - Альбом «May your heart be the map» в
-  [Apple Music](https://music.apple.com/album/368029682),
-  [Яндекс.Музыке](https://music.yandex.ru/album/6592869),
-  [Spotify](https://open.spotify.com/playlist/58A9CGM5lE44RMQV6p6lLc),
-  [Tidal](https://tidal.com/browse/album/35532275),
-  [Discogs](https://www.discogs.com/master/171303)
+	[Apple Music](https://music.apple.com/album/368029682),
+	[Яндекс.Музыке](https://music.yandex.ru/album/6592869),
+	[Spotify](https://open.spotify.com/playlist/58A9CGM5lE44RMQV6p6lLc),
+	[Tidal](https://tidal.com/browse/album/35532275),
+	[Discogs](https://www.discogs.com/master/171303)
 - Epic45:
-  [Ютуб](https://www.youtube.com/user/waysideandwoodland),
-  [Фейсбук](https://www.facebook.com/epic45official/),
-  [Твиттер](https://twitter.com/epic45),
-  [сайт](http://epic45.com/)
+	[Ютуб](https://www.youtube.com/user/waysideandwoodland),
+	[Фейсбук](https://www.facebook.com/epic45official/),
+	[Твиттер](https://twitter.com/epic45),
+	[сайт](http://epic45.com/)
 - [Клип «Summer’s first breath»](https://youtu.be/uJHw94x-R44)
 - [Клип «Outside»](https://youtu.be/iIDnbLApzO4)
 - [musicForProgramming](http://musicforprogramming.net)

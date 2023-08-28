@@ -1,29 +1,29 @@
 ### Death from Above 1979 — Heads up
 
 - Альбом «Heads up» в
-  [Apple Music](https://music.apple.com/album/1437254107),
-  [Яндекс.Музыке](https://music.yandex.ru/album/7795958),
-  [Spotify](https://open.spotify.com/album/5G41GaQBdh2MxHUNz9iOHT),
-  [Tidal](https://tidal.com/browse/album/95653305),
-  [Discogs](https://www.discogs.com/master/89373)
+	[Apple Music](https://music.apple.com/album/1437254107),
+	[Яндекс.Музыке](https://music.yandex.ru/album/7795958),
+	[Spotify](https://open.spotify.com/album/5G41GaQBdh2MxHUNz9iOHT),
+	[Tidal](https://tidal.com/browse/album/95653305),
+	[Discogs](https://www.discogs.com/master/89373)
 - Релиз «Blood on our hands» в
-  [Apple Music](https://music.apple.com/album/43468267),
-  [Яндекс.Музыке](https://music.yandex.ru/album/178321),
-  [Spotify](https://open.spotify.com/track/7aeLPLzp2EfDYUoJ59V1ui),
-  [Tidal](https://tidal.com/browse/video/25025461),
-  [Discogs](https://www.discogs.com/master/89370)
+	[Apple Music](https://music.apple.com/album/43468267),
+	[Яндекс.Музыке](https://music.yandex.ru/album/178321),
+	[Spotify](https://open.spotify.com/track/7aeLPLzp2EfDYUoJ59V1ui),
+	[Tidal](https://tidal.com/browse/video/25025461),
+	[Discogs](https://www.discogs.com/master/89370)
 - Релиз «Black history month» в
-  [Apple Music](https://music.apple.com//album/1107197756),
-  [Яндекс.Музыке](https://music.yandex.ru/album/54913),
-  [Spotify](https://open.spotify.com/track/48xhDkQEk2tMOkLkBMYzEG),
-  [Tidal](https://tidal.com/browse/album/59738830),
-  [Discogs](https://www.discogs.com/master/89369)
+	[Apple Music](https://music.apple.com//album/1107197756),
+	[Яндекс.Музыке](https://music.yandex.ru/album/54913),
+	[Spotify](https://open.spotify.com/track/48xhDkQEk2tMOkLkBMYzEG),
+	[Tidal](https://tidal.com/browse/album/59738830),
+	[Discogs](https://www.discogs.com/master/89369)
 - Релиз «Romantic rights» в
-  [Apple Music](https://music.apple.com/album/83172236),
-  [Яндекс.Музыке](https://music.yandex.ru/album/54912/track/513190),
-  [Spotify](https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5),
-  [Tidal](https://tidal.com/browse/album/291933),
-  [Discogs](https://www.discogs.com/master/89376)
+	[Apple Music](https://music.apple.com/album/83172236),
+	[Яндекс.Музыке](https://music.yandex.ru/album/54912/track/513190),
+	[Spotify](https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5),
+	[Tidal](https://tidal.com/browse/album/291933),
+	[Discogs](https://www.discogs.com/master/89376)
 
 ### Песни
 

@@ -6,33 +6,33 @@ layout: page.njk
 {% include 'aside.njk' %}
 
 <main class="page__main main">
-    <a class="telegram box box--compact" href="https://t.me/oh_lp_chat">
-        Заходите в наш чат в Телеграме!
-    </a>
-    <article class="episode box">
-        <h1 class="episode__title">
-            {{ number }}. {{ title }}
-        </h1>
-        <div class="player">
-            <audio class="episode__player player__audio"
-                src="/episodes/{{ number }}/audio.mp3"
-                preload="auto" controls>
-            </audio>
-            <ul class="player__list">
-                {%- for chapter in chapters -%}
-                <li class="player__chapter">
-                    <span class="player__timecode">
-                        {{ chapter.time }}
-                    </span>
-                    {{ chapter.title }}
-                </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-        <div class="content">
-            {{ content | safe }}
-        </div>
-    </article>
+	<a class="telegram box box--compact" href="https://t.me/oh_lp_chat">
+		Заходите в наш чат в Телеграме!
+	</a>
+	<article class="episode box">
+		<h1 class="episode__title">
+			{{ number }}. {{ title }}
+		</h1>
+		<div class="player">
+			<audio class="episode__player player__audio"
+				src="/episodes/{{ number }}/audio.mp3"
+				preload="auto" controls>
+			</audio>
+			<ul class="player__list">
+				{%- for chapter in chapters -%}
+				<li class="player__chapter">
+					<span class="player__timecode">
+						{{ chapter.time }}
+					</span>
+					{{ chapter.title }}
+				</li>
+				{%- endfor -%}
+			</ul>
+		</div>
+		<div class="content">
+			{{ content | safe }}
+		</div>
+	</article>
 </main>
 
 {% include 'footer.njk' %}

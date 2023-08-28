@@ -1,16 +1,16 @@
 ### Колибри — Бес Сахара
 
 - Альбом «Бес сахара» в
-  [Apple Music](https://music.apple.com/album/1052727041),
-  [Яндекс.Музыке](https://music.yandex.ru/album/3048099),
-  [Spotify](https://open.spotify.com/album/66P4bKeWb2gGI7vep44zr9),
-  [Tidal](https://tidal.com/browse/album/53036988),
-  [Discogs](https://www.discogs.com/master/445142)
+	[Apple Music](https://music.apple.com/album/1052727041),
+	[Яндекс.Музыке](https://music.yandex.ru/album/3048099),
+	[Spotify](https://open.spotify.com/album/66P4bKeWb2gGI7vep44zr9),
+	[Tidal](https://tidal.com/browse/album/53036988),
+	[Discogs](https://www.discogs.com/master/445142)
 - Tequilajazzz — Вирус в
-  [Apple Music](https://music.apple.com/album/1353077445),
-  [Яндекс.Музыке](https://music.yandex.ru/album/58902),
-  [Tidal](https://tidal.com/browse/album/85242640),
-  [Discogs](https://www.discogs.com/master/334451)
+	[Apple Music](https://music.apple.com/album/1353077445),
+	[Яндекс.Музыке](https://music.yandex.ru/album/58902),
+	[Tidal](https://tidal.com/browse/album/85242640),
+	[Discogs](https://www.discogs.com/master/334451)
 - [YouTube: А я?](https://youtu.be/VNeQtPmdg8o)
 - [Колибри 2020 — новый альбом](https://planeta.ru/campaigns/kolibri2020)
 

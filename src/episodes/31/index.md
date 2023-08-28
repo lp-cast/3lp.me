@@ -1,10 +1,10 @@
 ### The Angelic Process — Weighing Souls with Sand
 
 - Альбом «Weighing Souls with Sand» в
-  [Apple Music](https://music.apple.com/album/258929482),
-  [Spotify](https://open.spotify.com/album/7g8dRQvCKBxaSJfmoSebgw),
-  [Tidal](https://tidal.com/album/93690297),
-  [Discogs](https://www.discogs.com/master/550)
+	[Apple Music](https://music.apple.com/album/258929482),
+	[Spotify](https://open.spotify.com/album/7g8dRQvCKBxaSJfmoSebgw),
+	[Tidal](https://tidal.com/album/93690297),
+	[Discogs](https://www.discogs.com/master/550)
 - [We All Die Laughing 6LP vinyl box set](https://www.burningworldrecords.com/products/the-angelic-process-we-all-die-laughing-6lp-vinyl-box-set)
 - [Ханс Гигер](https://hrgiger.com/)
 

@@ -1,11 +1,11 @@
 ### Keane — Hopes and Fears
 
 - Альбом «Hopes and Fears» в
-  [Apple Music](https://music.apple.com/album/1440798025),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2477247),
-  [Spotify](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI),
-  [Tidal](https://tidal.com/browse/album/4924358),
-  [Discogs](https://www.discogs.com/master/101340)
+	[Apple Music](https://music.apple.com/album/1440798025),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2477247),
+	[Spotify](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI),
+	[Tidal](https://tidal.com/browse/album/4924358),
+	[Discogs](https://www.discogs.com/master/101340)
 - [Keane — This Is The Last Time](https://youtu.be/u86VdOc3asA)
 - [Keane — Somewhere Only We Know](https://youtu.be/Oextk-If8HQ)
 - [Keane — Somewhere Only We Know (At home version)](https://youtu.be/rlFXmzp2JoY)

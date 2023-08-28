@@ -1,15 +1,15 @@
 ### Alcest — Les Voyages de l’Âme
 
 - Альбом «Les Voyages de l'Âme» в
-  [Apple Music](https://music.apple.com/album/1001162723),
-  [Яндекс.Музыке](https://music.yandex.ru/album/548821),
-  [Spotify](https://open.spotify.com/album/4NbmvbO9OuEjLYat5BkFAL),
-  [Tidal](http://tidal.com/browse/album/47863794)
+	[Apple Music](https://music.apple.com/album/1001162723),
+	[Яндекс.Музыке](https://music.yandex.ru/album/548821),
+	[Spotify](https://open.spotify.com/album/4NbmvbO9OuEjLYat5BkFAL),
+	[Tidal](http://tidal.com/browse/album/47863794)
 - Alcest — Les Iris в
-  [Apple Music](https://music.apple.com/album/1001698079?i=1001698218),
-  [Яндекс.Музыке](https://music.yandex.ru/album/251128/track/2503897),
-  [Spotify](https://open.spotify.com/track/6tL5obDZ06OHBHbHwW01oE),
-  [Tidal](https://tidal.com/browse/track/47918334)
+	[Apple Music](https://music.apple.com/album/1001698079?i=1001698218),
+	[Яндекс.Музыке](https://music.yandex.ru/album/251128/track/2503897),
+	[Spotify](https://open.spotify.com/track/6tL5obDZ06OHBHbHwW01oE),
+	[Tidal](https://tidal.com/browse/track/47918334)
 - [Музыкальный фестиваль Astral](https://fbits.ru/astral/)
 - [Машины фотографии с концерта в 2014 году](https://anyonealive.tumblr.com/post/77703219976/)
 - [YouTube: Alcest — Protection](https://youtu.be/Tn7wvu8R4Wk)

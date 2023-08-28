@@ -1,19 +1,19 @@
 ### Myrkur — Mareridt
 
 - Альбом «Mareridt» в
-  [Apple Music](https://music.apple.com/album/1247992721),
-  [Яндекс.Музыке](https://music.yandex.ru/album/N),
-  [Spotify](https://open.spotify.com/track/N),
-  [Tidal](https://tidal.com/browse/album/N),
-  [Discogs](https://www.discogs.com/master/N)
+	[Apple Music](https://music.apple.com/album/1247992721),
+	[Яндекс.Музыке](https://music.yandex.ru/album/N),
+	[Spotify](https://open.spotify.com/track/N),
+	[Tidal](https://tidal.com/browse/album/N),
+	[Discogs](https://www.discogs.com/master/N)
 - [Myrkurmusic.com](https://www.myrkurmusic.com/)
 - [Facebook](https://www.facebook.com/myrkurmyrkur/)
 - [Instagram](https://www.instagram.com/myrkurmyrkur/)
 - [Myrkur на Wacken](https://youtu.be/8IF1CJNUxG4)
 - [Клип на Ulvinde](https://youtu.be/M9cNZQIzShc)
 - [Амалия Брюн играет на никельхарпе](https://youtu.be/siMVLaIu72c),
-  [и вот тут тоже играет](https://youtu.be/TF7_6ls2RA0),
-  [а тут на лире](https://youtu.be/BqmwWYPaXVE)
+	[и вот тут тоже играет](https://youtu.be/TF7_6ls2RA0),
+	[а тут на лире](https://youtu.be/BqmwWYPaXVE)
 
 ### Песни
 

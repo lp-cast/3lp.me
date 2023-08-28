@@ -1,15 +1,15 @@
 ### Джан Ку — jan_coo
 
 - Альбом «jan_coo» в
-  [Apple Music](https://music.apple.com/album/1363147854),
-  [Яндекс.Музыке](https://music.yandex.ru/album/759477),
-  [Spotify](https://open.spotify.com/album/11BBtnCUSVBe0ikLA5p95v),
-  [Tidal](https://tidal.com/browse/album/86375334)
+	[Apple Music](https://music.apple.com/album/1363147854),
+	[Яндекс.Музыке](https://music.yandex.ru/album/759477),
+	[Spotify](https://open.spotify.com/album/11BBtnCUSVBe0ikLA5p95v),
+	[Tidal](https://tidal.com/browse/album/86375334)
 - Alice in Chains в
-  [Apple Music](https://music.apple.com/artist/462221),
-  [Яндекс.Музыке](https://music.yandex.ru/artist/112486),
-  [Spotify](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL),
-  [Tidal](https://tidal.com/browse/artist/608)
+	[Apple Music](https://music.apple.com/artist/462221),
+	[Яндекс.Музыке](https://music.yandex.ru/artist/112486),
+	[Spotify](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL),
+	[Tidal](https://tidal.com/browse/artist/608)
 - [Официальный сайт](http://jancoo.ru/)
 - [Кассета на Discogs](https://www.discogs.com/release/3741630)
 - [YouTube: Джан Ку — Абсент](https://youtu.be/h1_FKJmLZ9E)

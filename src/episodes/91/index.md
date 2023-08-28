@@ -1,11 +1,11 @@
 ### Run Logan Run — Nature Will Take Care of You
 
 - Альбом «Nature Will Take Care of You» в
-  [Apple Music](https://music.apple.com/album/1644143222),
-  [Яндекс.Музыке](https://music.yandex.com/album/23465595),
-  [Spotify](https://open.spotify.com/album/1iP1iQXZRS53xn6yk5X7iE),
-  [Tidal](https://tidal.com/browse/album/247331554),
-  [Discogs](https://www.discogs.com/release/25300783)
+	[Apple Music](https://music.apple.com/album/1644143222),
+	[Яндекс.Музыке](https://music.yandex.com/album/23465595),
+	[Spotify](https://open.spotify.com/album/1iP1iQXZRS53xn6yk5X7iE),
+	[Tidal](https://tidal.com/browse/album/247331554),
+	[Discogs](https://www.discogs.com/release/25300783)
 - [Группа на Ютубе](https://www.youtube.com/@runloganrun)
 - [Джаз от Маши: ILLO](https://open.spotify.com/album/2oSAGUIIGtUWlz2IrdWZsD)
 - [SongShift для переноса между стримингами](https://apps.apple.com/app/id1097974566)

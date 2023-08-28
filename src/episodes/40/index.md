@@ -1,10 +1,10 @@
 ### Michelle Gurevich — Party Girl
 
 - Альбом «Party Girl» в
-  [Apple Music](https://music.apple.com/album/1156711164),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2188624),
-  [Spotify](https://open.spotify.com/album/2ZjBaE0vkcgU7giVInr0S2),
-  [Discogs](https://www.discogs.com/master/335209)
+	[Apple Music](https://music.apple.com/album/1156711164),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2188624),
+	[Spotify](https://open.spotify.com/album/2ZjBaE0vkcgU7giVInr0S2),
+	[Discogs](https://www.discogs.com/master/335209)
 - [Официальный сайт](http://michellegurevich.com/)
 - [Клипы на Ютубе](https://www.youtube.com/user/Chinavoomen)
 - [Мишель в Твиттере](https://twitter.com/new_decadence)

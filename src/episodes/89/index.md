@@ -1,18 +1,18 @@
 ### Love — Forever Changes
 
 - Альбом «Forever Changes» в
-  [Apple Music](https://music.apple.com/album/1125521386),
-  [Яндекс.Музыке](https://music.yandex.ru/album/53711),
-  [Spotify](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6),
-  [Tidal](https://tidal.com/browse/album/51160950),
-  [Discogs](https://www.discogs.com/master/6215)
+	[Apple Music](https://music.apple.com/album/1125521386),
+	[Яндекс.Музыке](https://music.yandex.ru/album/53711),
+	[Spotify](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6),
+	[Tidal](https://tidal.com/browse/album/51160950),
+	[Discogs](https://www.discogs.com/master/6215)
 
 ### Hope — Hope
 
 - Альбом «Hope» в
-  [Apple Music](https://music.apple.com/album/1261968423),
-  [Spotify](https://open.spotify.com/album/3bf07nGbwRnUK63t0NT6wi),
-  [YouTube](https://www.youtube.com/playlist?list=PL4pFhWK7FHXGU-dUZItJbVSFTgVFL1l8n)
+	[Apple Music](https://music.apple.com/album/1261968423),
+	[Spotify](https://open.spotify.com/album/3bf07nGbwRnUK63t0NT6wi),
+	[YouTube](https://www.youtube.com/playlist?list=PL4pFhWK7FHXGU-dUZItJbVSFTgVFL1l8n)
 - [Официальный сайт](https://www.thisishope.de/index2.html)
 - [Страница в немецкой Википедии](https://de.wikipedia.org/wiki/Hope_(Band))
 - [Клип «Raw»](https://youtu.be/CYjS4_euoMs)

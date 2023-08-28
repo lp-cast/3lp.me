@@ -1,15 +1,15 @@
 ### Moddi — Floriography
 
 - Альбом «Floriography» в
-  [Apple Music](https://music.apple.com/album/571979081),
-  [Яндекс.Музыке](https://music.yandex.ru/album/5032824),
-  [Spotify](https://open.spotify.com/album/5dk1GQsMyNY6CCXsljuMeE),
-  [Tidal](https://tidal.com/browse/album/84358061),
-  [Discogs](https://www.discogs.com/master/271548)
+	[Apple Music](https://music.apple.com/album/571979081),
+	[Яндекс.Музыке](https://music.yandex.ru/album/5032824),
+	[Spotify](https://open.spotify.com/album/5dk1GQsMyNY6CCXsljuMeE),
+	[Tidal](https://tidal.com/browse/album/84358061),
+	[Discogs](https://www.discogs.com/master/271548)
 - Moddi
-  [на cайте](http://www.moddi.no/),
-  [в Фейсбуке](https://www.facebook.com/moddimusikk/),
-  [на Bandcamp](https://moddi.bandcamp.com/)
+	[на cайте](http://www.moddi.no/),
+	[в Фейсбуке](https://www.facebook.com/moddimusikk/),
+	[на Bandcamp](https://moddi.bandcamp.com/)
 - [YouTube: Magpie Eggs](https://youtu.be/myHzPth0r90)
 
 ### Песни

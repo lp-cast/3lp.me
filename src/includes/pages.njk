@@ -1,16 +1,16 @@
 <nav class="pages">
-    <ul class="pages__list">
-        {%- for pageEntry in pagination.pages -%}
-        <li class="pages__item">
-            <a class="pages__link"
-                href="{{ pagination.hrefs[loop.index0] }}"
-                aria-label="Страница {{ loop.index }}"
-                {% if page.url == pagination.hrefs[loop.index0] %}
-                    aria-current="page"
-                {% endif %}>
-                {{ loop.index }}
-            </a>
-        </li>
-        {%- endfor -%}
-    </ul>
+	<ul class="pages__list">
+		{%- for pageEntry in pagination.pages -%}
+		<li class="pages__item">
+			<a class="pages__link"
+				href="{{ pagination.hrefs[loop.index0] }}"
+				aria-label="Страница {{ loop.index }}"
+				{% if page.url == pagination.hrefs[loop.index0] %}
+					aria-current="page"
+				{% endif %}>
+				{{ loop.index }}
+			</a>
+		</li>
+		{%- endfor -%}
+	</ul>
 </nav>

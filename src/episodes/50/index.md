@@ -1,25 +1,25 @@
 ### Machinae Supremacy — Laser Speed Force
 
 - Песня «Laser Speed Force» в
-  [Apple Music](https://music.apple.com/album/1443660526?i=1443660829),
-  [Яндекс.Музыке](https://music.yandex.ru/album/590656/track/5368294),
-  [Spotify](https://open.spotify.com/track/1xea5ZLbyQI7nvZlceYDPs),
-  [Tidal](https://tidal.com/browse/track/17409468)
+	[Apple Music](https://music.apple.com/album/1443660526?i=1443660829),
+	[Яндекс.Музыке](https://music.yandex.ru/album/590656/track/5368294),
+	[Spotify](https://open.spotify.com/track/1xea5ZLbyQI7nvZlceYDPs),
+	[Tidal](https://tidal.com/browse/track/17409468)
 
 ### Chris de Burgh — The Lady in Red
 
 - Песня «The Lady in Red» в
-  [Apple Music](https://music.apple.com/album/1435413615?i=1435413620),
-  [Яндекс.Музыке](https://music.yandex.ru/album/5534502/track/10858),
-  [Spotify](https://open.spotify.com/track/5tHbBxWjTxaQpL5SrT17Tz),
-  [Tidal](https://tidal.com/browse/track/91437640?play=true)
+	[Apple Music](https://music.apple.com/album/1435413615?i=1435413620),
+	[Яндекс.Музыке](https://music.yandex.ru/album/5534502/track/10858),
+	[Spotify](https://open.spotify.com/track/5tHbBxWjTxaQpL5SrT17Tz),
+	[Tidal](https://tidal.com/browse/track/91437640?play=true)
 
 ### Pushking — Сон
 
 - Песня «Сон» в
-  [Apple Music](https://music.apple.com/album/998916771?i=998917403),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2780609/track/23969720),
-  [Spotify](https://open.spotify.com/track/1BNdF4Z0N58AQUmtlU0K7p)
+	[Apple Music](https://music.apple.com/album/998916771?i=998917403),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2780609/track/23969720),
+	[Spotify](https://open.spotify.com/track/1BNdF4Z0N58AQUmtlU0K7p)
 
 Все права на музыку принадлежат законным правообладателям.
 

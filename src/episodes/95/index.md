@@ -1,11 +1,11 @@
 ### Bloc Party — Silent Alarm
 
 - Альбом «Silent Alarm» в
-  [Apple Music](https://music.apple.com/album/983993904),
-  [Яндекс.Музыке](https://music.yandex.com/album/7551309) (лайв),
-  [Spotify](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp),
-  [Tidal](https://tidal.com/browse/album/34393852),
-  [Discogs](https://www.discogs.com/master/11669)
+	[Apple Music](https://music.apple.com/album/983993904),
+	[Яндекс.Музыке](https://music.yandex.com/album/7551309) (лайв),
+	[Spotify](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp),
+	[Tidal](https://tidal.com/browse/album/34393852),
+	[Discogs](https://www.discogs.com/master/11669)
 
 ### Песни
 

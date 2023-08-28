@@ -1,11 +1,11 @@
 ### ДДТ — Пластун
 
 - Альбом «Пластун» в
-  [Apple Music](https://music.apple.com/album/1035338462),
-  [Яндекс.Музыке](https://music.yandex.com/album/168139),
-  [Spotify](https://open.spotify.com/album/2snIWYjannmtNFNM0V4dC5),
-  [Tidal](https://tidal.com/browse/album/50265215),
-  [Discogs](https://www.discogs.com/master/241785)
+	[Apple Music](https://music.apple.com/album/1035338462),
+	[Яндекс.Музыке](https://music.yandex.com/album/168139),
+	[Spotify](https://open.spotify.com/album/2snIWYjannmtNFNM0V4dC5),
+	[Tidal](https://tidal.com/browse/album/50265215),
+	[Discogs](https://www.discogs.com/master/241785)
 - [Клип «Дождь»](https://youtu.be/S1NNhkPPNYA)
 - [Клип «На берегу безымянной реки»](https://youtu.be/VXFPPUU9AZQ)
 - [«Король и Шут» на Кинопоиске](https://www.kinopoisk.ru/series/4647040/)

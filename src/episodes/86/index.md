@@ -1,11 +1,11 @@
 ### Metallica — Master of Puppets
 
 - Альбом «Master of Puppets» в
-  [Apple Music](https://music.apple.com/album/1440901428),
-  [Яндекс.Музыке](https://music.yandex.ru/album/4808586),
-  [Spotify](https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux),
-  [Tidal](https://tidal.com/browse/album/80814141),
-  [Discogs](https://www.discogs.com/master/6495)
+	[Apple Music](https://music.apple.com/album/1440901428),
+	[Яндекс.Музыке](https://music.yandex.ru/album/4808586),
+	[Spotify](https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux),
+	[Tidal](https://tidal.com/browse/album/80814141),
+	[Discogs](https://www.discogs.com/master/6495)
 - [Master of Puppets в Москве](https://youtu.be/rDm0da8NhkQ&t=2228s)
 - [One](https://youtu.be/WM8bTdBs-cw)
 - [Until it Sleeps](https://youtu.be/eRV9uPr4Dz4)

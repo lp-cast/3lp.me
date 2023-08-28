@@ -1,11 +1,11 @@
 ### Blackfield — Blackfield II
 
 - Альбом «Blackfield II» в
-  [Apple Music](https://music.apple.com/album/216664052),
-  [Яндекс.Музыке](https://music.yandex.ru/album/9840476),
-  [Spotify](https://open.spotify.com/album/4v9BOaJvbvFobGuf3EQO0A),
-  [Tidal](https://tidal.com/browse/album/33349854),
-  [Discogs](https://www.discogs.com/master/59090)
+	[Apple Music](https://music.apple.com/album/216664052),
+	[Яндекс.Музыке](https://music.yandex.ru/album/9840476),
+	[Spotify](https://open.spotify.com/album/4v9BOaJvbvFobGuf3EQO0A),
+	[Tidal](https://tidal.com/browse/album/33349854),
+	[Discogs](https://www.discogs.com/master/59090)
 - [Клип «Blackfield — Blackfield»](https://youtu.be/FF79zvZok48)
 - [Blackfield Live In New York City](https://youtu.be/rhX3fiioIZM)
 - [Epidemic с лайва в Нью-Йорке](https://youtu.be/rhX3fiioIZM?t=2419)

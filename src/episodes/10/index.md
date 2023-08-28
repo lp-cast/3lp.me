@@ -1,10 +1,10 @@
 ### John Frusciante — PBX Funicular Intaglio Zone
 
 - Альбом «PBX Funicular Intaglio Zone» в
-  [Apple Music](https://music.apple.com/album/693337770),
-  [Яндекс.Музыке](https://music.yandex.ru/album/556234),
-  [Spotify](https://open.spotify.com/album/1NghpzjRdQPh5eAvfwvJLC),
-  [Tidal](https://tidal.com/browse/album/52539411)
+	[Apple Music](https://music.apple.com/album/693337770),
+	[Яндекс.Музыке](https://music.yandex.ru/album/556234),
+	[Spotify](https://open.spotify.com/album/1NghpzjRdQPh5eAvfwvJLC),
+	[Tidal](https://tidal.com/browse/album/52539411)
 - [YouTube: John Frusciante — The Past Recedes](https://youtu.be/4v9CfE90Sts)
 - [YouTube: John Frusciante — Carvel](https://youtu.be/cXgecGZsroE)
 - [YouTube: подборка каверов Джона с концертов RCHP](https://youtu.be/LNX6eqw9Wy8)

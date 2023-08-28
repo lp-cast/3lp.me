@@ -1,10 +1,10 @@
 ### Nature And Organisation — Snow Leopard Messiah
 
 - Альбом «Snow Leopard Messiah» в
-  [Apple Music](https://music.apple.com/album/1032340410),
-  [Яндекс.Музыке](https://music.yandex.ru/album/2925231),
-  [Spotify](https://open.spotify.com/album/0ywEw1S4bZjLixInJIuShz),
-  [Discogs](https://www.discogs.com/release/7508646)
+	[Apple Music](https://music.apple.com/album/1032340410),
+	[Яндекс.Музыке](https://music.yandex.ru/album/2925231),
+	[Spotify](https://open.spotify.com/album/0ywEw1S4bZjLixInJIuShz),
+	[Discogs](https://www.discogs.com/release/7508646)
 
 ### Песни
 

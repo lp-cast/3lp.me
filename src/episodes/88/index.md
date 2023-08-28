@@ -1,10 +1,10 @@
 ### We Fell To Earth — We Fell To Earth
 
 - Альбом «We Fell To Earth» в
-  [SoundCloud](https://soundcloud.com/we-fell-to-earth/sets/we-fell-to-earth-we-fell-to-1),
-  [Spotify](https://open.spotify.com/album/6tWeIueoHg2Ar5ROFLHl4y),
-  [Genius](https://genius.com/albums/We-fell-to-earth/We-fell-to-earth),
-  [Discogs](https://www.discogs.com/master/191907)
+	[SoundCloud](https://soundcloud.com/we-fell-to-earth/sets/we-fell-to-earth-we-fell-to-1),
+	[Spotify](https://open.spotify.com/album/6tWeIueoHg2Ar5ROFLHl4y),
+	[Genius](https://genius.com/albums/We-fell-to-earth/We-fell-to-earth),
+	[Discogs](https://www.discogs.com/master/191907)
 - [Клип «Double»](https://youtu.be/ULBdJKeZET0)
 - [Клип «Deaf»](https://youtu.be/eCUWXEzrkHc)
 - [Wendy Rae Fowler](https://wendyraefowler.com/)

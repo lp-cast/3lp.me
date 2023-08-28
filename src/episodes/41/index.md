@@ -1,16 +1,16 @@
 ### Kraków Loves Adana — Call Yourself New
 
 - Альбом «Call Yourself New» в
-  [Apple Music](https://music.apple.com/album/id1192857412),
-  [Яндекс.Музыке](https://music.yandex.ru/album/4029488),
-  [Spotify](https://open.spotify.com/playlist/2wYFZ7VJnGbEezdov9UpmO),
-  [Tidal](https://tidal.com/browse/album/69035647),
-  [Discogs](https://www.discogs.com/release/10031847)
+	[Apple Music](https://music.apple.com/album/id1192857412),
+	[Яндекс.Музыке](https://music.yandex.ru/album/4029488),
+	[Spotify](https://open.spotify.com/playlist/2wYFZ7VJnGbEezdov9UpmO),
+	[Tidal](https://tidal.com/browse/album/69035647),
+	[Discogs](https://www.discogs.com/release/10031847)
 - Официальные страницы:
-  [Фейсбук](https://www.facebook.com/krakowlovesadana/),
-  [Твиттер](https://twitter.com/krakwlovesadana),
-  [Инстаграм](https://www.instagram.com/krakowlovesadana),
-  [Bandcamp]( https://krakowlovesadana.bandcamp.com/)
+	[Фейсбук](https://www.facebook.com/krakowlovesadana/),
+	[Твиттер](https://twitter.com/krakwlovesadana),
+	[Инстаграм](https://www.instagram.com/krakowlovesadana),
+	[Bandcamp]( https://krakowlovesadana.bandcamp.com/)
 - [Italians Do It Better](https://italiansdoitbetter.com)
 - [Видео, с которого всё началось](https://youtu.be/E5InldEicxY)
 - [Один из самых любимых клипов](https://youtu.be/MiGhWNr8C20)

@@ -3,12 +3,12 @@ number: NUMBER
 title: 'В котором BAND'
 date: 3000-01-01
 chapters:
-  - time: '00:00'
-    title: 'CHAPTER'
-  - time: '00:00'
-    title: 'CHAPTER'
-  - time: '00:00'
-    title: 'CHAPTER'
+	- time: '00:00'
+	title: 'CHAPTER'
+	- time: '00:00'
+	title: 'CHAPTER'
+	- time: '00:00'
+	title: 'CHAPTER'
 layout: episode.njk
 tags: episode
 ---
@@ -16,11 +16,11 @@ tags: episode
 ### BAND — ALBUM
 
 - Альбом «ALBUM» в
-  [Apple Music](https://music.apple.com/album/ID),
-  [Яндекс.Музыке](https://music.yandex.ru/album/ID),
-  [Spotify](https://open.spotify.com/album/ID),
-  [Tidal](https://tidal.com/browse/album/ID),
-  [Discogs](https://www.discogs.com/master/ID)
+	[Apple Music](https://music.apple.com/album/ID),
+	[Яндекс.Музыке](https://music.yandex.ru/album/ID),
+	[Spotify](https://open.spotify.com/album/ID),
+	[Tidal](https://tidal.com/browse/album/ID),
+	[Discogs](https://www.discogs.com/master/ID)
 
 ### Песни
 
