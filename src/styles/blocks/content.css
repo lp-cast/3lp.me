@@ -49,18 +49,18 @@
 
 .content a {
 	color: #007bc1;
-	text-decoration-color: rgba(0, 123, 193, 0.25);
+	text-decoration-color: rgb(0 123 193 / 25%);
 	text-decoration-thickness: 4px;
 	text-underline-offset: 4px;
 	text-decoration-skip-ink: none;
 }
 
 .content a:hover {
-	text-decoration-color: rgba(0, 123, 193, 0.75);
+	text-decoration-color: rgb(0 123 193 / 75%);
 }
 
 .content a:focus {
 	outline: none;
 	border-radius: 4px;
-	box-shadow: 0 0 0 4px rgba(0, 123, 193, 0.25);
+	box-shadow: 0 0 0 4px rgb(0 123 193 / 25%);
 }

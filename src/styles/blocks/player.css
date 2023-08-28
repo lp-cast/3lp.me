@@ -14,7 +14,7 @@
 	outline: none;
 	box-shadow:
 		0 0 0 4px white,
-		0 0 0 8px rgba(0, 123, 193, 0.25);
+		0 0 0 8px rgb(0 123 193 / 25%);
 }
 
 .player__list {
@@ -58,5 +58,5 @@
 	outline: none;
 	box-shadow:
 		0 0 0 4px white,
-		0 0 0 8px rgba(0, 123, 193, 0.25);
+		0 0 0 8px rgb(0 123 193 / 25%);
 }

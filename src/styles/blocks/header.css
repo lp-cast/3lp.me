@@ -29,7 +29,7 @@
 	bottom: -5px;
 	left: -5px;
 	border-radius: 50%;
-	box-shadow: 0 0 0 5px rgba(0, 123, 193, 0.25);
+	box-shadow: 0 0 0 5px rgb(0 123 193 / 25%);
 	content: '';
 }
 
