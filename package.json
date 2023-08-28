@@ -4,7 +4,8 @@
 		"start": "eleventy --serve --quiet",
 		"build": "rm -rf dist && eleventy",
 		"deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/",
-		"test": "editorconfig-checker"
+		"test": "editorconfig-checker",
+		"new": "cp -r template src/episodes/$npm_config_episode"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.0",

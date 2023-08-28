@@ -1,18 +1,3 @@
----
-number: NUMBER
-title: 'В котором BAND'
-date: 3000-01-01
-chapters:
-	- time: '00:00'
-	title: 'CHAPTER'
-	- time: '00:00'
-	title: 'CHAPTER'
-	- time: '00:00'
-	title: 'CHAPTER'
-layout: episode.njk
-tags: episode
----
-
 ### BAND — ALBUM
 
 - Альбом «ALBUM» в
