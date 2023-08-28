@@ -5,13 +5,15 @@
 		"11ty": "eleventy",
 		"pack": "gulp build",
 		"build": "rm -rf dist && npm run 11ty && npm run pack",
-		"deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/"
+		"deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/",
+		"test": "editorconfig-checker"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.0",
 		"@babel/core": "^7.15.5",
 		"@babel/preset-env": "^7.15.6",
 		"del": "6.1.1",
+		"editorconfig-checker": "^5.1.1",
 		"gulp": "^4.0.2",
 		"gulp-babel": "^8.0.0",
 		"gulp-postcss": "^9.0.1",
