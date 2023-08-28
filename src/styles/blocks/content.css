@@ -60,7 +60,8 @@
 }
 
 .content a:focus {
-	outline: none;
+	outline: 4px solid rgb(0 123 193 / 25%);
+	outline-offset: 2px;
 	border-radius: 4px;
-	box-shadow: 0 0 0 4px rgb(0 123 193 / 25%);
+	text-decoration: none;
 }
