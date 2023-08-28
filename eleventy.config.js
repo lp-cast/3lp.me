@@ -1,17 +1,89 @@
 const fs = require('fs');
+const esbuild = require('esbuild');
 const htmlmin = require('html-minifier-terser');
 const markdown = require('markdown-it')({ html: true });
 const music = require('music-metadata');
 const prettydata = require('pretty-data');
 const yaml = require('js-yaml');
+const postcss = require('postcss');
+const postcssImport = require('postcss-import');
+const postcssMediaMinmax = require('postcss-media-minmax');
+const autoprefixer = require('autoprefixer');
+const postcssCsso = require('postcss-csso');
 
 module.exports = (config) => {
-	config.addPassthroughCopy('src/favicon.ico');
-	config.addPassthroughCopy('src/fonts');
-	config.addPassthroughCopy('src/images');
-	config.addPassthroughCopy('src/scripts');
-	config.addPassthroughCopy('src/styles');
-	config.addPassthroughCopy('src/episodes/**/*.(jpg|mp3)');
+
+	// CSS
+
+	const styles = [
+		'./src/styles/index.css',
+	];
+
+	config.addTemplateFormats('css');
+
+	config.addExtension('css', {
+		outputFileExtension: 'css',
+		compile: async (content, path) => {
+			if (!styles.includes(path)) {
+				return;
+			}
+
+			return async () => {
+				let output = await postcss([
+					postcssImport,
+					postcssMediaMinmax,
+					autoprefixer,
+					postcssCsso,
+				]).process(content, {
+					from: path,
+				});
+
+				return output.css;
+			}
+		}
+	});
+
+	config.addNunjucksAsyncFilter('css', (path, callback) => {
+		fs.readFile(path, 'utf8', (error, content) => {
+			postcss([
+				postcssImport,
+				postcssMediaMinmax,
+				autoprefixer,
+				postcssCsso,
+			]).process(content, {
+				from: path,
+			}).then((output) => {
+				callback(null, output.css)
+			});
+		});
+	});
+
+	// JavaScript
+
+	config.addTemplateFormats('js');
+
+	config.addExtension('js', {
+		outputFileExtension: 'js',
+		compile: async (content, path) => {
+			if (path !== './src/scripts/index.js') {
+				return;
+			}
+
+			return async () => {
+				let output = await esbuild.build({
+					target: 'es2020',
+					entryPoints: [path],
+					minify: true,
+					bundle: true,
+					write: false,
+				});
+
+				return output.outputFiles[0].text;
+			}
+		}
+	});
+
+	// OLD
 
 	config.addDataExtension('yml', (contents) => {
 		return yaml.load(contents);
@@ -80,6 +152,17 @@ module.exports = (config) => {
 
 		return content;
 	});
+
+	// Passthrough copy
+
+	[
+		'src/favicon.ico',
+		'src/fonts',
+		'src/images',
+		'src/episodes/**/*.(jpg|mp3)',
+	].forEach(
+		path => config.addPassthroughCopy(path)
+	);
 
 	return {
 		dir: {
