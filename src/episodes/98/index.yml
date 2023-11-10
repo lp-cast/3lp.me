@@ -1,0 +1,12 @@
+number: 98
+title: 'В котором Plattenbau слишком хорошо умеют делать плохо'
+date: 2023-11-10
+chapters:
+  - time: '08:43'
+    title: 'Страшный триллер'
+  - time: '21:23'
+    title: 'Хорошие, но странные'
+  - time: '33:00'
+    title: 'Дискомфорт'
+layout: episode.njk
+tags: episode
