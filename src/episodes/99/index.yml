@@ -1,0 +1,14 @@
+number: 99
+title: 'В котором лёгкий свежий ветер Rishloo'
+date: 2023-11-23
+chapters:
+  - time: '07:40'
+    title: 'Птичек не жалко'
+  - time: '17:49'
+    title: 'Поясни за жанр'
+  - time: '24:59'
+    title: 'Разнесло в клочья'
+  - time: '34:10'
+    title: 'Почему нравится'
+layout: episode.njk
+tags: episode
