@@ -7,7 +7,7 @@
 	[Tidal](https://tidal.com/browse/album/94239918),
 	[Discogs](https://www.discogs.com/master/1455263)
 - Esben and the Witch:
-	[Твиттер](https://twitter.com/weareeatw),
+	[Икс](https://x.com/weareeatw),
 	[Фейсбук](https://www.facebook.com/esbenandthewitch/),
 	[Инстаграм](https://www.instagram.com/esbenandthewitch/),
 	[Бэндкемп](https://esbenandthewitch.bandcamp.com/),

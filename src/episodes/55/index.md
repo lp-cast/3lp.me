@@ -7,7 +7,7 @@
 	[Tidal](https://tidal.com/browse/album/217144),
 	[Discogs](https://www.discogs.com/master/28547)
 - Echo & The Bunnymen:
-	[Твиттер](https://twitter.com/Bunnymen),
+	[Икс](https://x.com/Bunnymen),
 	[Фейсбук](https://www.facebook.com/thebunnymen),
 	[Инстаграм](https://www.instagram.com/officialbunnymen),
 	[сайт](http://www.bunnymen.com/)

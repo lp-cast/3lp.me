@@ -9,7 +9,7 @@
 - Epic45:
 	[Ютуб](https://www.youtube.com/user/waysideandwoodland),
 	[Фейсбук](https://www.facebook.com/epic45official/),
-	[Твиттер](https://twitter.com/epic45),
+	[Икс](https://x.com/epic45),
 	[сайт](http://epic45.com/)
 - [Клип «Summer’s first breath»](https://youtu.be/uJHw94x-R44)
 - [Клип «Outside»](https://youtu.be/iIDnbLApzO4)

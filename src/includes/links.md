@@ -1,5 +1,5 @@
 Читайте нас в
-	[Твиттере](https://twitter.com/lp_cast),
+	[Иксе](https://x.com/lp_cast),
 	[Телеграме](https://t.me/lp_cast),
 	[ВКонтакте](https://vk.com/lp_cast),
 	[Фейсбуке](https://fb.me/3lpcast),

@@ -8,7 +8,7 @@
 	[Discogs](https://www.discogs.com/release/10031847)
 - Официальные страницы:
 	[Фейсбук](https://www.facebook.com/krakowlovesadana/),
-	[Твиттер](https://twitter.com/krakwlovesadana),
+	[Икс](https://x.com/krakwlovesadana),
 	[Инстаграм](https://www.instagram.com/krakowlovesadana),
 	[Bandcamp]( https://krakowlovesadana.bandcamp.com/)
 - [Italians Do It Better](https://italiansdoitbetter.com)

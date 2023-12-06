@@ -10,7 +10,7 @@
 - Ане
 	[на Ютубе](https://www.youtube.com/channel/UChihnFNbUit9rhVXCNeTsrQ),
 	[в Фейсбуке](https://www.facebook.com/anebrunofficial/),
-	[в Твиттере](https://twitter.com/anebrun)
+	[в Иксе](https://x.com/anebrun)
 - [Мини-фильм из клипов](https://www.youtube.com/playlist?list=PLEAA72197563BF07B)
 - [Клёвый клип с цветами](https://youtu.be/bwUOqfDlbjA)
 

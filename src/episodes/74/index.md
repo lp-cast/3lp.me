@@ -7,7 +7,7 @@
 	[Tidal](https://tidal.com/browse/album/16695408),
 	[Discogs](https://www.discogs.com/master/461758)
 - [Официальный сайт](https://www.deadcandance.com/)
-- [DCD в Твиттере](https://twitter.com/DCDmusic)
+- [DCD в Иксе](https://x.com/DCDmusic)
 - [DCD в Фейсбуке](https://www.facebook.com/DeadCanDanceOfficial)
 - [DCD в Инстаграме](https://www.instagram.com/dcdofficial)
 - [Страница на 4AD](https://4ad.com/artists/deadcandance)

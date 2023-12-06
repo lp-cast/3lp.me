@@ -7,7 +7,7 @@
 	[Discogs](https://www.discogs.com/master/335209)
 - [Официальный сайт](http://michellegurevich.com/)
 - [Клипы на Ютубе](https://www.youtube.com/user/Chinavoomen)
-- [Мишель в Твиттере](https://twitter.com/new_decadence)
+- [Мишель в Иксе](https://x.com/new_decadence)
 - [Мишель в Инстаграме](https://www.instagram.com/michelle_gurevich/)
 
 ### Песни
