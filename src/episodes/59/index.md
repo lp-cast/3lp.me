@@ -18,6 +18,6 @@
 3. Краснознамённая дивизия имени моей бабушки — Последнее лето детства
 
 Все права на музыку принадлежат законным правообладателям.
-Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Запись и сведение — [Вадим Макеев](https://pepelsbey.dev/).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Tim Mossholder](https://unsplash.com/photos/Pur8iZHqMG4).

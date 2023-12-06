@@ -16,6 +16,6 @@
 3. Skating Polly — Little Girl Blue and the Battle Envy
 
 Все права на музыку принадлежат законным правообладателям.
-Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Запись и сведение — [Вадим Макеев](https://pepelsbey.dev/).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Seth Reese](https://unsplash.com/photos/fR8iTc4OE5E).

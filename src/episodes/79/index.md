@@ -26,6 +26,6 @@
 	[Discogs](https://www.discogs.com/master/3528)
 
 Все права на музыку принадлежат законным правообладателям.
-Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Запись и сведение — [Вадим Макеев](https://pepelsbey.dev/).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Morgane Le Breton](https://unsplash.com/photos/Ym4my-Xj8EY).

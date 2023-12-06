@@ -16,6 +16,6 @@
 3. The National — Guest Room
 
 Все права на музыку принадлежат законным правообладателям.
-Запись и сведение — [Вадим Макеев](https://twitter.com/pepelsbey).
+Запись и сведение — [Вадим Макеев](https://pepelsbey.dev/).
 Джингл — [Дэн Лебовиц](https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w).
 Фотография на обложке — [Josep Martins](https://unsplash.com/photos/Y9gO2z77Udk).
