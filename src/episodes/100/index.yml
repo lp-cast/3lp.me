@@ -1,0 +1,12 @@
+number: 100
+title: 'В котором Вадим и Маша ставят винил со зверями и вампирами'
+date: 2023-12-06
+chapters:
+  - time: '07:21'
+    title: 'Буквально пластинки'
+  - time: '12:09'
+    title: 'Крабы-рыбы'
+  - time: '27:06'
+    title: 'Мёртв-немёртв'
+layout: episode.njk
+tags: episode
