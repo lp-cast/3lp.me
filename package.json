@@ -14,13 +14,13 @@
 		"autoprefixer": "^10.4.16",
 		"del": "6.1.1",
 		"editorconfig-checker": "^5.1.2",
-		"esbuild": "^0.19.8",
+		"esbuild": "^0.20.0",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.1.0",
 		"music-metadata": "7.12.3",
 		"postcss": "^8.4.32",
 		"postcss-csso": "^6.0.1",
-		"postcss-import": "^15.1.0",
+		"postcss-import": "^16.0.0",
 		"postcss-media-minmax": "^5.0.0",
 		"pretty-data": "^0.40.0"
 	}
