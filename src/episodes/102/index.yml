@@ -1,0 +1,12 @@
+number: 102
+title: 'В котором Whispering Sons спасают пост-панк'
+date: 2024-02-01
+chapters:
+  - time: '06:24'
+    title: 'Что у меня голове'
+  - time: '18:58'
+    title: 'Тревога и злость'
+  - time: '28:31'
+    title: 'Приятная дрожь'
+layout: episode.njk
+tags: episode
