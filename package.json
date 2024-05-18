@@ -8,13 +8,13 @@
 		"new": "cp -r template src/episodes/$npm_config_episode"
 	},
 	"devDependencies": {
-		"@11ty/eleventy": "^2.0.1",
+		"@11ty/eleventy": "^3.0.0-alpha.10",
 		"@babel/core": "^7.23.5",
 		"@babel/preset-env": "^7.23.5",
 		"autoprefixer": "^10.4.16",
 		"del": "6.1.1",
 		"editorconfig-checker": "^5.1.2",
-		"esbuild": "^0.20.0",
+		"esbuild": "^0.21.3",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.1.0",
 		"music-metadata": "7.12.3",
