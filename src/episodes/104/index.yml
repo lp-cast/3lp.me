@@ -1,0 +1,14 @@
+number: 104
+title: 'В котором у Lithics есть метод и они ему придерживаются'
+date: 2024-05-20
+chapters:
+  - time: '06:57'
+    title: 'Совет бармена'
+  - time: '18:11'
+    title: 'Икона инди'
+  - time: '31:41'
+    title: 'Одинаковые'
+  - time: '41:10'
+    title: 'Обычные люди'
+layout: episode.njk
+tags: episode
