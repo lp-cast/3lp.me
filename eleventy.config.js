@@ -5,11 +5,8 @@ const markdown = require('markdown-it')({ html: true });
 const music = require('music-metadata');
 const prettydata = require('pretty-data');
 const yaml = require('js-yaml');
-const postcss = require('postcss');
-const postcssImport = require('postcss-import');
-const postcssMediaMinmax = require('postcss-media-minmax');
-const autoprefixer = require('autoprefixer');
-const postcssCsso = require('postcss-csso');
+const lightningcss = require('lightningcss');
+const packageJson = require('./package.json');
 
 module.exports = (config) => {
 
@@ -18,6 +15,20 @@ module.exports = (config) => {
 	const styles = [
 		'./src/styles/index.css',
 	];
+
+	const processStyles = async (path) => {
+		return await lightningcss.bundle({
+			filename: path,
+			minify: true,
+			sourceMap: false,
+			targets: lightningcss.browserslistToTargets(
+				packageJson.browserslist,
+			),
+			include:
+				lightningcss.Features.MediaQueries |
+				lightningcss.Features.Nesting,
+		});
+	};
 
 	config.addTemplateFormats('css');
 
@@ -29,33 +40,17 @@ module.exports = (config) => {
 			}
 
 			return async () => {
-				let output = await postcss([
-					postcssImport,
-					postcssMediaMinmax,
-					autoprefixer,
-					postcssCsso,
-				]).process(content, {
-					from: path,
-				});
+				let { code } = await processStyles(path);
 
-				return output.css;
-			}
-		}
+				return code;
+			};
+		},
 	});
 
-	config.addNunjucksAsyncFilter('css', (path, callback) => {
-		fs.readFile(path, 'utf8', (error, content) => {
-			postcss([
-				postcssImport,
-				postcssMediaMinmax,
-				autoprefixer,
-				postcssCsso,
-			]).process(content, {
-				from: path,
-			}).then((output) => {
-				callback(null, output.css)
-			});
-		});
+	config.addFilter('css', async (path) => {
+		let { code } = await processStyles(path);
+
+		return code;
 	});
 
 	// JavaScript
