@@ -1,0 +1,14 @@
+number: 105
+title: 'В котором нам пять лет'
+date: 2024-06-28
+chapters:
+  - time: '02:20'
+    title: 'Юбилейный'
+  - time: '21:16'
+    title: 'Весёлые и классные'
+  - time: '33:16'
+    title: 'Ужас как хорошо'
+  - time: '43:56'
+    title: 'Ваши пятые'
+layout: episode.njk
+tags: episode
