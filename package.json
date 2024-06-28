@@ -15,7 +15,7 @@
 		"not dead"
 	],
 	"devDependencies": {
-		"@11ty/eleventy": "^3.0.0-alpha.10",
+		"@11ty/eleventy": "^3.0.0-alpha.14",
 		"@babel/core": "^7.23.5",
 		"@babel/preset-env": "^7.23.5",
 		"del": "6.1.1",
