@@ -1,0 +1,12 @@
+number: 107
+title: 'В котором Soundgarden гордо носит фланелевую клетку'
+date: 2024-09-06
+chapters:
+  - time: '09:05'
+    title: 'Просто наизусть'
+  - time: '20:14'
+    title: 'Величайший голос'
+  - time: '32:13'
+    title: 'Остывший пепел'
+layout: episode.njk
+tags: episode
