@@ -1,0 +1,14 @@
+number: 108
+title: 'В котором Heretoir, осень и всё пропало, но есть надежда'
+date: 2024-11-08
+chapters:
+  - time: '05:56'
+    title: 'Сложное название'
+  - time: '12:55'
+    title: 'Нежность в блэкгейзе'
+  - time: '17:55'
+    title: 'И немного прога'
+  - time: '30:02'
+    title: 'Обнимает со всех сторон'
+layout: episode.njk
+tags: episode
