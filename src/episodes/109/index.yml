@@ -1,0 +1,12 @@
+number: 109
+title: 'В котором SMILE с очень тяжёлым взглядом'
+date: 2024-12-02
+chapters:
+  - time: '09:07'
+    title: 'Зашло, но немножко злые'
+  - time: '18:23'
+    title: 'Захотелось включить свет'
+  - time: '31:57'
+    title: 'Фиговина и штуковина'
+layout: episode.njk
+tags: episode
