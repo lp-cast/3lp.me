@@ -1,15 +1,16 @@
-const fs = require('fs');
-const esbuild = require('esbuild');
-const htmlmin = require('html-minifier-terser');
-const markdown = require('markdown-it')({ html: true });
-const music = require('music-metadata');
-const prettydata = require('pretty-data');
-const yaml = require('js-yaml');
-const lightningcss = require('lightningcss');
-const packageJson = require('./package.json');
+import fs from 'node:fs';
+import esbuild from 'esbuild';
+import htmlmin from 'html-minifier-terser';
+import MarkdownIt from 'markdown-it';
+import * as music from 'music-metadata';
+import prettydata from 'pretty-data';
+import yaml from 'js-yaml';
+import * as lightningcss from 'lightningcss';
 
-module.exports = (config) => {
+const packageJson = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+const markdown = new MarkdownIt({ html: true });
 
+export default (config) => {
 	// CSS
 
 	const styles = [

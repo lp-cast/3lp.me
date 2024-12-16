@@ -1,5 +1,6 @@
 {
 	"private": true,
+	"type": "module",
 	"scripts": {
 		"start": "eleventy --serve --quiet",
 		"build": "rm -rf dist && eleventy",
@@ -16,15 +17,15 @@
 	],
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0",
-		"@babel/core": "^7.25.8",
-		"@babel/preset-env": "^7.25.8",
-		"del": "6.1.1",
+		"@babel/core": "^7.26.0",
+		"@babel/preset-env": "^7.26.0",
+		"del": "^8.0.0",
 		"editorconfig-checker": "^6.0.0",
 		"esbuild": "^0.24.0",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.1.0",
-		"lightningcss": "^1.27.0",
-		"music-metadata": "7.12.3",
+		"lightningcss": "^1.28.2",
+		"music-metadata": "^10.6.4",
 		"pretty-data": "^0.40.0"
 	}
 }
