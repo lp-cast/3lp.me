@@ -1,0 +1,18 @@
+number: 110
+title: 'В котором Новый год и огнеупорное сердце'
+date: 2024-12-31
+chapters:
+  - time: '01:28'
+    title: 'Письма и открытки'
+  - time: '04:53'
+    title: 'Семь часов болтовни'
+  - time: '09:32'
+    title: 'Машин год и песня'
+  - time: '28:43'
+    title: 'Пост-нуар'
+  - time: '31:50'
+    title: 'Год Вадима'
+  - time: '48:08'
+    title: 'Песня в прозе'
+layout: episode.njk
+tags: episode
