@@ -10,7 +10,7 @@
 	[Фейсбук](https://www.facebook.com/krakowlovesadana/),
 	[Икс](https://x.com/krakwlovesadana),
 	[Инстаграм](https://www.instagram.com/krakowlovesadana),
-	[Bandcamp]( https://krakowlovesadana.bandcamp.com/)
+	[Bandcamp](https://krakowlovesadana.bandcamp.com/)
 - [Italians Do It Better](https://italiansdoitbetter.com)
 - [Видео, с которого всё началось](https://youtu.be/E5InldEicxY)
 - [Один из самых любимых клипов](https://youtu.be/MiGhWNr8C20)

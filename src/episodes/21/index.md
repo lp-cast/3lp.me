@@ -9,7 +9,7 @@
 	[Apple Music](https://music.apple.com/album/7060524?i=7060502),
 	[Яндекс.Музыке](https://music.yandex.ru/album/709394/track/6572312),
 	[Spotify](https://open.spotify.com/track/3r6SEGPVlAtfrP8WtDD6eV),
-	[Tidal](tidal.com/browse/track/2204170)
+	[Tidal](https://tidal.com/browse/track/2204170)
 - Moonshake — Eva Luna в
 	[Apple Music](https://music.apple.com/album/251624175),
 	[Яндекс.Музыке](https://music.yandex.ru/album/720524),
