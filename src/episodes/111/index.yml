@@ -1,0 +1,12 @@
+number: 111
+title: 'В котором шум Soup обнимает со всех сторон'
+date: 2025-02-17
+chapters:
+  - time: '07:07'
+    title: 'Нежная музыка'
+  - time: '17:28'
+    title: 'Дескрипторы тумана'
+  - time: '33:24'
+    title: 'Мы здесь надолго'
+layout: episode.njk
+tags: episode
