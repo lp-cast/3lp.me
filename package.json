@@ -16,16 +16,16 @@
 		"not dead"
 	],
 	"devDependencies": {
-		"@11ty/eleventy": "^3.0.0",
-		"@babel/core": "^7.26.10",
-		"@babel/preset-env": "^7.26.9",
+		"@11ty/eleventy": "^3.1.2",
+		"@babel/core": "^7.28.4",
+		"@babel/preset-env": "^7.28.3",
 		"del": "^8.0.0",
-		"editorconfig-checker": "^6.0.1",
-		"esbuild": "^0.25.1",
+		"editorconfig-checker": "^6.1.0",
+		"esbuild": "^0.25.9",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.1.0",
-		"lightningcss": "^1.29.2",
-		"music-metadata": "^11.0.2",
+		"lightningcss": "^1.30.1",
+		"music-metadata": "^11.9.0",
 		"pretty-data": "^0.40.0"
 	}
 }
