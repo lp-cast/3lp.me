@@ -1,0 +1,14 @@
+number: 112
+title: 'В котором дряхлые животные Melvins'
+date: 2025-11-10
+chapters:
+  - time: '08:43'
+    title: 'Энергия из подвала'
+  - time: '20:21'
+    title: 'Не прячьте барабанщиков'
+  - time: '29:28'
+    title: 'А теперь помедленнее'
+  - time: '38:06'
+    title: 'Приятно неприятные'
+layout: episode.njk
+tags: episode
