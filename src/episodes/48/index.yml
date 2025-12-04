@@ -8,5 +8,6 @@ chapters:
     title: 'Франзузский звучит интересно'
   - time: '21:40'
     title: 'И вороны хорошие'
+duration: '00:35:36'
 layout: episode.njk
 tags: episode

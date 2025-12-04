@@ -8,5 +8,6 @@ chapters:
     title: 'Бегут лампочки'
   - time: '23:03'
     title: 'Лирика или музыка'
+duration: '00:36:10'
 layout: episode.njk
 tags: episode

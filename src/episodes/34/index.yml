@@ -8,5 +8,6 @@ chapters:
     title: 'С чего начинается The Cure'
   - time: '27:36'
     title: 'Хорошему человеку плохо'
+duration: '00:38:37'
 layout: episode.njk
 tags: episode

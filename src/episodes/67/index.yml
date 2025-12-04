@@ -8,5 +8,6 @@ chapters:
     title: 'О чём поёт Вини'
   - time: '26:33'
     title: 'Просто нравится'
+duration: '00:37:10'
 layout: episode.njk
 tags: episode

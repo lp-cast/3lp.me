@@ -8,5 +8,6 @@ chapters:
     title: 'Как в последний раз'
   - time: '30:52'
     title: 'Сторона Б'
+duration: '00:39:09'
 layout: episode.njk
 tags: episode

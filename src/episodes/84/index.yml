@@ -8,5 +8,6 @@ chapters:
     title: 'Рассадник рока'
   - time: '23:33'
     title: 'Босиком домой'
+duration: '00:44:05'
 layout: episode.njk
 tags: episode

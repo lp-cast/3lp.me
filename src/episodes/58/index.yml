@@ -8,5 +8,6 @@ chapters:
     title: 'Ведьмы это здорово'
   - time: '28:10'
     title: 'Привидения существуют'
+duration: '00:39:00'
 layout: episode.njk
 tags: episode

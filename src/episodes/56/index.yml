@@ -8,5 +8,6 @@ chapters:
     title: 'Еду я на родину'
   - time: '23:23'
     title: 'Цыганская в караоке'
+duration: '00:40:22'
 layout: episode.njk
 tags: episode

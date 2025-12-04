@@ -10,5 +10,6 @@ chapters:
     title: 'Воздушная, но плита'
   - time: '28:30'
     title: 'И другие альбомы'
+duration: '00:33:36'
 layout: episode.njk
 tags: episode

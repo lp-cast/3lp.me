@@ -8,5 +8,6 @@ chapters:
     title: 'Хороший панк нагружен'
   - time: '18:53'
     title: 'Грязно и талантливо'
+duration: '00:30:52'
 layout: episode.njk
 tags: episode

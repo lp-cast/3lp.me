@@ -8,5 +8,6 @@ chapters:
     title: 'Крабы-рыбы'
   - time: '27:06'
     title: 'Мёртв-немёртв'
+duration: '00:49:05'
 layout: episode.njk
 tags: episode

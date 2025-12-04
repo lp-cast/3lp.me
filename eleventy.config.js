@@ -2,7 +2,6 @@ import fs from 'node:fs';
 import esbuild from 'esbuild';
 import htmlmin from 'html-minifier-terser';
 import MarkdownIt from 'markdown-it';
-import * as music from 'music-metadata';
 import prettydata from 'pretty-data';
 import yaml from 'js-yaml';
 import * as lightningcss from 'lightningcss';
@@ -93,23 +92,6 @@ export default (config) => {
 		const stats = fs.statSync(path);
 
 		return stats.size;
-	});
-
-	const getDuration = (path) => {
-		return music.parseFile(path)
-			.then(metadata => {
-				const duration = parseFloat(metadata.format.duration);
-				return new Date(Math.ceil(duration) * 1000).toISOString().substring(11, 19);
-			})
-			.catch(error => {
-				console.log(error);
-			});
-	}
-
-	config.addNunjucksAsyncFilter('duration', async (path, callback) => {
-		const duration = await getDuration(path);
-
-		callback(null, duration);
 	});
 
 	const htmlminSettings = {

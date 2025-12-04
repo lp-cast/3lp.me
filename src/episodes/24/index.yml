@@ -8,5 +8,6 @@ chapters:
     title: 'Танцуем как в 97-м'
   - time: '23:01'
     title: 'Глаза такие чёрные'
+duration: '00:39:56'
 layout: episode.njk
 tags: episode

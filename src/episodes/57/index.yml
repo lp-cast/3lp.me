@@ -8,5 +8,6 @@ chapters:
     title: 'Узел, который не развязывается'
   - time: '32:23'
     title: 'Выходим из сумрака'
+duration: '00:40:42'
 layout: episode.njk
 tags: episode

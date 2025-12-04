@@ -8,5 +8,6 @@ chapters:
     title: 'Уютный бар'
   - time: '23:09'
     title: 'Не нужно думать'
+duration: '00:39:27'
 layout: episode.njk
 tags: episode

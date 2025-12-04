@@ -8,5 +8,6 @@ chapters:
     title: 'Все хвалят вокал'
   - time: '20:02'
     title: 'Тайна названия не раскрыта'
+duration: '00:33:32'
 layout: episode.njk
 tags: episode

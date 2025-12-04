@@ -8,5 +8,6 @@ chapters:
     title: 'Вадим тайный романтик'
   - time: '33:49'
     title: 'Слава стесняется рока'
+duration: '00:46:40'
 layout: episode.njk
 tags: episode

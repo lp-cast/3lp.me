@@ -10,5 +10,6 @@ chapters:
     title: 'И немного прога'
   - time: '30:02'
     title: 'Обнимает со всех сторон'
+duration: '00:41:52'
 layout: episode.njk
 tags: episode

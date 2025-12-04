@@ -8,5 +8,6 @@ chapters:
     title: 'Группа танцует с горы'
   - time: '20:25'
     title: 'Тоска тоже ценится'
+duration: '00:35:14'
 layout: episode.njk
 tags: episode

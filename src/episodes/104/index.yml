@@ -10,5 +10,6 @@ chapters:
     title: 'Одинаковые'
   - time: '41:10'
     title: 'Обычные люди'
+duration: '00:46:51'
 layout: episode.njk
 tags: episode

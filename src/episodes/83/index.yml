@@ -8,5 +8,6 @@ chapters:
     title: 'Шансов нет совсем'
   - time: '29:59'
     title: 'Легко от тяжёлого'
+duration: '00:42:00'
 layout: episode.njk
 tags: episode

@@ -8,5 +8,6 @@ chapters:
     title: 'Трёхминутные поп-песни'
   - time: '28:29'
     title: 'Милое чёрное поле'
+duration: '00:42:59'
 layout: episode.njk
 tags: episode

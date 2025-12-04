@@ -8,5 +8,6 @@ chapters:
     title: 'Поэзия уносит'
   - time: '27:10'
     title: 'Эффект кино'
+duration: '00:41:44'
 layout: episode.njk
 tags: episode

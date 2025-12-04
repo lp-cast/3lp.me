@@ -8,5 +8,6 @@ chapters:
     title: 'Песня срывает башню'
   - time: '23:39'
     title: 'Камень, ножницы, последняя'
+duration: '00:32:00'
 layout: episode.njk
 tags: episode

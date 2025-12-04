@@ -8,5 +8,6 @@ chapters:
     title: 'Дурацкая романтика'
   - time: '22:03'
     title: 'Занимательная палеонтология'
+duration: '00:38:08'
 layout: episode.njk
 tags: episode

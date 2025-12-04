@@ -62,5 +62,6 @@ chapters:
     title: 'Tool'
   - time: '01:15:22'
     title: 'Lantlôs'
+duration: '01:22:25'
 layout: episode.njk
 tags: episode

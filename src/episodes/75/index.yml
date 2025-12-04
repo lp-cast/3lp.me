@@ -8,5 +8,6 @@ chapters:
     title: 'Ненужная струна'
   - time: '25:49'
     title: 'И вот — крючок'
+duration: '00:35:25'
 layout: episode.njk
 tags: episode

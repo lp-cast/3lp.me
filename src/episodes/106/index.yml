@@ -10,5 +10,6 @@ chapters:
     title: 'Реклама всё изменила'
   - time: '39:15'
     title: 'Ломаные строчки'
+duration: '00:45:13'
 layout: episode.njk
 tags: episode

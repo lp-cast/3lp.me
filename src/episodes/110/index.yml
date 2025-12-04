@@ -14,5 +14,6 @@ chapters:
     title: 'Год Вадима'
   - time: '48:08'
     title: 'Песня в прозе'
+duration: '01:04:28'
 layout: episode.njk
 tags: episode

@@ -8,5 +8,6 @@ chapters:
     title: 'Всё-таки романс'
   - time: '26:15'
     title: 'Панк-кримсон'
+duration: '00:41:58'
 layout: episode.njk
 tags: episode
