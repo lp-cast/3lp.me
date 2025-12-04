@@ -17,15 +17,15 @@
 	],
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.2",
-		"@babel/core": "^7.28.4",
-		"@babel/preset-env": "^7.28.3",
-		"del": "^8.0.0",
-		"editorconfig-checker": "^6.1.0",
-		"esbuild": "^0.25.9",
+		"@babel/core": "^7.28.5",
+		"@babel/preset-env": "^7.28.5",
+		"del": "^8.0.1",
+		"editorconfig-checker": "^6.1.1",
+		"esbuild": "^0.27.1",
 		"html-minifier-terser": "^7.2.0",
-		"js-yaml": "^4.1.0",
-		"lightningcss": "^1.30.1",
-		"music-metadata": "^11.9.0",
+		"js-yaml": "^4.1.1",
+		"lightningcss": "^1.30.2",
+		"music-metadata": "^11.10.3",
 		"pretty-data": "^0.40.0"
 	}
 }
