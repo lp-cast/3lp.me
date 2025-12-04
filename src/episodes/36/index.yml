@@ -8,5 +8,6 @@ chapters:
     title: 'Депеш прог'
   - time: '25:23'
     title: 'Эпичный запил'
+duration: '00:36:14'
 layout: episode.njk
 tags: episode

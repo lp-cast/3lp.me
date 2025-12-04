@@ -8,5 +8,6 @@ chapters:
     title: 'Всего девять'
   - time: '24:29'
     title: 'Пост-трипхоп'
+duration: '00:38:10'
 layout: episode.njk
 tags: episode

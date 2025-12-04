@@ -8,5 +8,6 @@ chapters:
     title: 'Хорошие, но странные'
   - time: '33:00'
     title: 'Дискомфорт'
+duration: '00:43:08'
 layout: episode.njk
 tags: episode

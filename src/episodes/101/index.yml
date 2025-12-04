@@ -12,5 +12,6 @@ chapters:
     title: 'Медленно на мосту'
   - time: '55:11'
     title: 'Быстро на природе'
+duration: '01:04:39'
 layout: episode.njk
 tags: episode

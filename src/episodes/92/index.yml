@@ -10,5 +10,6 @@ chapters:
     title: 'Грустное светлое'
   - time: '33:06'
     title: 'Пластинка пришла'
+duration: '00:40:21'
 layout: episode.njk
 tags: episode

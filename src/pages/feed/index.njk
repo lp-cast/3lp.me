@@ -44,7 +44,7 @@
 		<enclosure type="audio/mpeg" url="{{ fileUrl }}" length="{{ filePath | length }}"/>
 
 		<itunes:episode>{{ episode.data.number }}</itunes:episode>
-		<itunes:duration>{{ filePath | duration }}</itunes:duration>
+		<itunes:duration>{{ episode.data.duration }}</itunes:duration>
 		<itunes:author>{{ meta.author }}</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:summary><![CDATA[{{ description | htmlmin | safe }}]]></itunes:summary>

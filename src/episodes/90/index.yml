@@ -8,5 +8,6 @@ chapters:
     title: 'Альбом наизусть'
   - time: '29:27'
     title: 'Всё вернётся'
+duration: '00:42:55'
 layout: episode.njk
 tags: episode

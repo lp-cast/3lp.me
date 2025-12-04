@@ -8,5 +8,6 @@ chapters:
     title: 'CHAPTER'
   - time: '00:00'
     title: 'CHAPTER'
+duration: '00:00:00'
 layout: episode.njk
 tags: episode

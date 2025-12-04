@@ -8,5 +8,6 @@ chapters:
     title: 'Это гот-поп'
   - time: '28:20'
     title: 'Нет начала и конца'
+duration: '00:42:46'
 layout: episode.njk
 tags: episode

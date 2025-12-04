@@ -10,5 +10,6 @@ chapters:
     title: 'А теперь помедленнее'
   - time: '38:06'
     title: 'Приятно неприятные'
+duration: '00:44:25'
 layout: episode.njk
 tags: episode

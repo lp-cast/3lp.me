@@ -8,5 +8,6 @@ chapters:
     title: 'Восходящие гитары'
   - time: '20:50'
     title: 'Пара скримов'
+duration: '00:33:36'
 layout: episode.njk
 tags: episode

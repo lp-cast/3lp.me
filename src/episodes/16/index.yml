@@ -8,5 +8,6 @@ chapters:
     title: 'Электроника заменяет оркестр'
   - time: '27:21'
     title: 'Публика попадает на крючок'
+duration: '00:37:50'
 layout: episode.njk
 tags: episode

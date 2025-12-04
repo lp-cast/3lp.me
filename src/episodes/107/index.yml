@@ -8,5 +8,6 @@ chapters:
     title: 'Величайший голос'
   - time: '32:13'
     title: 'Остывший пепел'
+duration: '00:44:35'
 layout: episode.njk
 tags: episode

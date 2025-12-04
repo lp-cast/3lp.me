@@ -8,5 +8,6 @@ chapters:
     title: 'Глиняный солдатик'
   - time: '26:25'
     title: 'Завтрак на зеркале'
+duration: '00:44:00'
 layout: episode.njk
 tags: episode

@@ -8,5 +8,6 @@ chapters:
     title: 'Посвящение соулу 60-х'
   - time: '16:46'
     title: 'Дафни сочиняет песню'
+duration: '00:31:45'
 layout: episode.njk
 tags: episode

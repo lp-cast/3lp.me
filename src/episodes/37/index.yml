@@ -8,5 +8,6 @@ chapters:
     title: 'Сэмплер помнит 4 минуты'
   - time: '27:17'
     title: 'Бумажка лучше плюшки'
+duration: '00:38:23'
 layout: episode.njk
 tags: episode

@@ -10,5 +10,6 @@ chapters:
     title: 'Кафедральный звук'
   - time: '33:00'
     title: 'Тьма и тыквы'
+duration: '00:35:33'
 layout: episode.njk
 tags: episode

@@ -10,5 +10,6 @@ chapters:
     title: 'Кастанеде можно'
   - time: '33:37'
     title: 'Весенняя свободная'
+duration: '00:43:25'
 layout: episode.njk
 tags: episode

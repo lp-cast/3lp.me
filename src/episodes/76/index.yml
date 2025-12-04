@@ -8,5 +8,6 @@ chapters:
     title: 'Удостоверение знатока'
   - time: '27:42'
     title: 'Как джаз сохранился'
+duration: '00:42:40'
 layout: episode.njk
 tags: episode

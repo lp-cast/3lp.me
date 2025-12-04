@@ -8,5 +8,6 @@ chapters:
     title: 'Майлз тихо ищет'
   - time: '24:16'
     title: 'Труба ругается с саксофоном'
+duration: '00:38:38'
 layout: episode.njk
 tags: episode

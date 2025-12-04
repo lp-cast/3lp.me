@@ -8,5 +8,6 @@ chapters:
     title: 'С первого взгляда'
   - time: '26:24'
     title: 'Певцы быта'
+duration: '00:39:18'
 layout: episode.njk
 tags: episode

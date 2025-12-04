@@ -6,5 +6,6 @@ chapters:
     title: 'Любовь'
   - time: '21:28'
     title: 'Надежда'
+duration: '00:44:25'
 layout: episode.njk
 tags: episode

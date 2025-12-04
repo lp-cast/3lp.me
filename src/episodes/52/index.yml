@@ -8,5 +8,6 @@ chapters:
     title: 'Из природы делают музыку'
   - time: '17:22'
     title: 'Невозможная фоновая'
+duration: '00:38:33'
 layout: episode.njk
 tags: episode

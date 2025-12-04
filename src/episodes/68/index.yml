@@ -10,5 +10,6 @@ chapters:
     title: 'Кусочки все разные'
   - time: '28:42'
     title: 'Что это вообще было'
+duration: '00:39:03'
 layout: episode.njk
 tags: episode

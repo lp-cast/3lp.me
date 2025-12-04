@@ -8,5 +8,6 @@ chapters:
     title: 'Ироничный шансон'
   - time: '22:41'
     title: 'Кинематографичность'
+duration: '00:38:19'
 layout: episode.njk
 tags: episode

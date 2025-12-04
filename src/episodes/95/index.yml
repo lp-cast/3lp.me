@@ -8,5 +8,6 @@ chapters:
     title: 'Тест на ножку'
   - time: '28:31'
     title: 'Правильные корни'
+duration: '00:41:50'
 layout: episode.njk
 tags: episode

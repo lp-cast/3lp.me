@@ -8,5 +8,6 @@ chapters:
     title: 'Бистро «Колобок»'
   - time: '27:01'
     title: 'Ухнем в нору'
+duration: '00:40:20'
 layout: episode.njk
 tags: episode

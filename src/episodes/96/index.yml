@@ -8,5 +8,6 @@ chapters:
     title: 'Лёгкие песенки'
   - time: '28:04'
     title: 'Припев для караоке'
+duration: '00:42:08'
 layout: episode.njk
 tags: episode

@@ -8,5 +8,6 @@ chapters:
     title: 'Сначала кавер'
   - time: '22:19'
     title: 'Голос не тот'
+duration: '00:32:00'
 layout: episode.njk
 tags: episode

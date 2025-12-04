@@ -8,5 +8,6 @@ chapters:
     title: 'Громкость прыгает'
   - time: '23:51'
     title: 'Фоновая музыка существует'
+duration: '00:37:59'
 layout: episode.njk
 tags: episode

@@ -8,5 +8,6 @@ chapters:
     title: 'Клещ-мелодия'
   - time: '21:21'
     title: 'Многослойный лоуфай'
+duration: '00:35:37'
 layout: episode.njk
 tags: episode

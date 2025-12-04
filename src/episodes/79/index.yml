@@ -8,5 +8,6 @@ chapters:
     title: 'Танцевально'
   - time: '25:21'
     title: 'Меланхолично'
+duration: '00:45:03'
 layout: episode.njk
 tags: episode

@@ -10,5 +10,6 @@ chapters:
     title: 'Надмирность'
   - time: '34:33'
     title: 'Глоссолалия'
+duration: '00:44:15'
 layout: episode.njk
 tags: episode

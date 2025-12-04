@@ -10,5 +10,6 @@ chapters:
     title: 'Зачем записали?'
   - time: '34:40'
     title: 'Чуваки промахнулись'
+duration: '00:42:32'
 layout: episode.njk
 tags: episode

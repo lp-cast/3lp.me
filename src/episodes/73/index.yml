@@ -8,5 +8,6 @@ chapters:
     title: 'Шапка и танцы на столе'
   - time: '32:33'
     title: 'Космический электроорган'
+duration: '00:41:18'
 layout: episode.njk
 tags: episode
