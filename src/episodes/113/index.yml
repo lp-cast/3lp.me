@@ -1,0 +1,15 @@
+number: 113
+title: 'В котором SQÜRL и Jozef Van Wissem пишут музыку для вампиров'
+date: 2025-12-18
+chapters:
+  - time: '04:04'
+    title: 'Саундтрек к сентябрю'
+  - time: '14:53'
+    title: 'Две дырочки над U'
+  - time: '29:05'
+    title: 'Вечная музыка'
+  - time: '41:09'
+    title: 'В гости к Джеку Уайту'
+duration: '00:46:49'
+layout: episode.njk
+tags: episode
