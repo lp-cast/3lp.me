@@ -9,7 +9,7 @@
 		"new": "cp -r template src/episodes/$npm_config_episode"
 	},
 	"engines": {
-		"node": "22"
+		"node": ">=24"
 	},
 	"browserslist": [
 		"baseline widely available, safari 15"
