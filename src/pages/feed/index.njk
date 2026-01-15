@@ -24,6 +24,7 @@
 {%- for episode in collections.episode | reverse -%}
 
 	{% set description %}
+		<p><a href="https://t.me/oh_lp_chat">Заходите в наш чат в Телеграме</a></p>
 		<ul>
 			{%- for chapter in episode.data.chapters -%}
 				<li>{{ chapter.time }} {{ chapter.title }}</li>
