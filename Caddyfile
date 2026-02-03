@@ -13,7 +13,7 @@
 	}
 
 	# Compression (fallback for non-precompressed files)
-	encode gzip zstd
+	encode zstd gzip
 
 	# Security headers
 	header {
