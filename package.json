@@ -3,8 +3,9 @@
 	"type": "module",
 	"scripts": {
 		"start": "eleventy --serve --quiet",
-		"build": "rm -rf dist && eleventy",
-		"deploy": "rsync --archive --verbose --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/content/",
+		"build": "rm -rf dist && eleventy && npm run mp3",
+		"mp3": "./scripts/mp3.sh",
+		"deploy": "rsync --copy-links --archive --verbose --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/content/",
 		"test": "editorconfig-checker",
 		"new": "cp -r template src/episodes/$npm_config_episode"
 	},

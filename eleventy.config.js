@@ -137,7 +137,7 @@ export default (config) => {
 		'src/favicon.ico',
 		'src/fonts',
 		'src/images',
-		'src/episodes/**/*.(jpg|mp3)',
+		'src/episodes/**/*.jpg',
 	].forEach(
 		path => config.addPassthroughCopy(path)
 	);
