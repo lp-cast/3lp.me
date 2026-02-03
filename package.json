@@ -4,7 +4,7 @@
 	"scripts": {
 		"start": "eleventy --serve --quiet",
 		"build": "rm -rf dist && eleventy",
-		"deploy": "cd dist && rsync --progress --archive --compress --delete --exclude=.DS_Store . 3lp.me:/var/www/3lp.me/html/",
+		"deploy": "rsync --archive --progress --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/content/",
 		"test": "editorconfig-checker",
 		"new": "cp -r template src/episodes/$npm_config_episode"
 	},
