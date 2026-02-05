@@ -6,7 +6,6 @@
 		"build": "rm -rf dist && eleventy && npm run mp3 && npm run compress",
 		"mp3": "node ./scripts/mp3.js",
 		"compress": "node ./scripts/brotli.js",
-		"caddy": "rsync --archive ./Caddyfile deploy@3lp.me:/opt/config/ && ssh deploy@3lp.me 'cd /opt/config && docker compose exec caddy caddy reload --config /etc/caddy/Caddyfile'",
 		"deploy": "rsync --copy-links --archive --verbose --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/content/",
 		"test": "editorconfig-checker",
 		"new": "cp -r template src/episodes/$npm_config_episode"
