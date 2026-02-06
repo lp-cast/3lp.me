@@ -1,0 +1,12 @@
+3lp.me {
+	root * /opt/sites/3lp.me/public
+	tls hi@3lp.me
+	import common 3lp.me
+
+	header Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+}
+
+www.3lp.me {
+	tls hi@3lp.me
+	redir https://3lp.me{uri} permanent
+}

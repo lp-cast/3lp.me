@@ -7,6 +7,7 @@
 		"mp3": "node ./scripts/mp3.js",
 		"compress": "node ./scripts/brotli.js",
 		"deploy": "rsync --copy-links --archive --verbose --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/sites/3lp.me/public/",
+		"caddy": "scp Caddyfile root@3lp.me:/opt/sites/3lp.me/ && ssh root@3lp.me setup reload",
 		"test": "editorconfig-checker",
 		"new": "cp -r template src/episodes/$npm_config_episode"
 	},
