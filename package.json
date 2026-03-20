@@ -18,15 +18,15 @@
 		"baseline widely available, safari 15"
 	],
 	"devDependencies": {
-		"@11ty/eleventy": "^3.1.2",
+		"@11ty/eleventy": "^3.1.5",
 		"@babel/core": "^7.29.0",
-		"@babel/preset-env": "^7.29.0",
+		"@babel/preset-env": "^7.29.2",
 		"del": "^8.0.1",
 		"editorconfig-checker": "^6.1.1",
-		"esbuild": "^0.27.2",
+		"esbuild": "^0.27.4",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.1.1",
-		"lightningcss": "^1.31.1",
+		"lightningcss": "^1.32.0",
 		"pretty-data": "^0.40.0"
 	}
 }
