@@ -3,7 +3,8 @@
 	"type": "module",
 	"scripts": {
 		"start": "eleventy --serve --quiet",
-		"build": "rm -rf dist && eleventy && npm run mp3 && npm run compress",
+		"build": "rm -rf dist && eleventy && npm run link && npm run compress",
+		"link": "node ./scripts/link.js",
 		"mp3": "node ./scripts/mp3.js",
 		"compress": "node ./scripts/brotli.js",
 		"deploy": "rsync --copy-links --archive --verbose --compress --delete --delete-excluded --exclude '.DS_Store' ./dist/ deploy@3lp.me:/opt/sites/3lp.me/public/",
@@ -27,6 +28,7 @@
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^4.2.0",
 		"lightningcss": "^1.32.0",
+		"node-id3": "^0.2.9",
 		"pretty-data": "^0.40.0"
 	}
 }
