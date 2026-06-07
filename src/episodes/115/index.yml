@@ -1,0 +1,15 @@
+number: 115
+title: 'В котором Bauhaus танцуют на крокодилах'
+date: 2026-06-08
+chapters:
+  - time: '11:13'
+    title: 'Первая пластинка'
+  - time: '18:02'
+    title: 'Очень разные'
+  - time: '27:03'
+    title: 'Прочитал в журнале'
+  - time: '36:02'
+    title: 'Нестрашное видео'
+duration: '51:29'
+layout: episode.njk
+tags: episode
