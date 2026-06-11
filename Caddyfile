@@ -3,6 +3,15 @@
 	tls hi@3lp.me
 	import common 3lp.me
 
+	@cors {
+		path /images/cover.jpg /episodes/*/audio.mp3 /feed/
+	}
+
+	header @cors {
+		>Access-Control-Allow-Origin *
+		>Cross-Origin-Resource-Policy cross-origin
+	}
+
 	header Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
 }
 
