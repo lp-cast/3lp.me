@@ -24,7 +24,7 @@
 		"@babel/preset-env": "^8.0.2",
 		"del": "^8.0.1",
 		"editorconfig-checker": "^6.1.1",
-		"esbuild": "^0.28.1",
+		"esbuild": "^0.28.2",
 		"html-minifier-terser": "^7.2.0",
 		"js-yaml": "^5.2.3",
 		"lightningcss": "^1.33.0",
