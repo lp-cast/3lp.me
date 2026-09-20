@@ -20,13 +20,13 @@
 	],
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.6",
-		"@babel/core": "^8.0.1",
-		"@babel/preset-env": "^8.0.2",
+		"@babel/core": "^8.0.5",
+		"@babel/preset-env": "^8.0.5",
 		"del": "^8.0.1",
 		"editorconfig-checker": "^7.0.0",
 		"esbuild": "^0.28.2",
 		"html-minifier-terser": "^7.2.0",
-		"js-yaml": "^5.4.1",
+		"js-yaml": "^5.4.2",
 		"lightningcss": "^1.33.0",
 		"node-id3": "^0.2.9",
 		"pretty-data": "^0.40.0"
