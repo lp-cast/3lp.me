@@ -22,7 +22,7 @@
 		"@11ty/eleventy": "^3.1.6",
 		"@babel/core": "^8.0.7",
 		"@babel/preset-env": "^8.0.7",
-		"del": "^9.0.0",
+		"del": "^9.0.1",
 		"editorconfig-checker": "^7.0.0",
 		"esbuild": "^0.28.2",
 		"html-minifier-terser": "^7.2.0",
