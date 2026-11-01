@@ -20,7 +20,7 @@
 	],
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.7",
-		"@babel/core": "^8.0.7",
+		"@babel/core": "^8.0.10",
 		"@babel/preset-env": "^8.0.7",
 		"del": "^9.0.1",
 		"editorconfig-checker": "^7.0.0",
